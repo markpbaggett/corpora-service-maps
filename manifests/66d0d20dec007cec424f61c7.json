@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61c7.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "\"Hell on Wheels\" War Against the Axis, 1942-1943-1944-1945"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Colorful rout map with small cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "2nd Armored Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d20dec007cec424f61c7"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61c7/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for \"Hell on Wheels\" War Against the Axis, 1942-1943-1944-1945"
+        ]
+      },
+      "height": 12770,
+      "width": 18000,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61c7/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61c7/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0001_Hell_on_Wheels.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 12770,
+                "width": 18000,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0001_Hell_on_Wheels.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61c7/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

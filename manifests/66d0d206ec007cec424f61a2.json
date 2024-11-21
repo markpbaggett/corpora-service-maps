@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a2.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Graphical History of 987th F.A. Battalion, 155mm Self Propelled Guns"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Blue and white route map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "987th Field Artillery Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d206ec007cec424f61a2"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a2/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Graphical History of 987th F.A. Battalion, 155mm Self Propelled Guns"
+        ]
+      },
+      "height": 8663,
+      "width": 18000,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a2/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a2/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0022_987th_F.A_Battalion.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 8663,
+                "width": 18000,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0022_987th_F.A_Battalion.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a2/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

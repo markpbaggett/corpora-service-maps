@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20aec007cec424f61b9.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "102d. Infantry Division. The Ozarks"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "102nd Infantry Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d20aec007cec424f61b9"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20aec007cec424f61b9/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 102d. Infantry Division. The Ozarks"
+        ]
+      },
+      "height": 5190,
+      "width": 6829,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20aec007cec424f61b9/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20aec007cec424f61b9/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0041_102nd_Infantry_Division.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 5190,
+                "width": 6829,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0041_102nd_Infantry_Division.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20aec007cec424f61b9/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f6198.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Roll on 110th: Route of March on the Continent, 22 July 44 to 9 May 45"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Small but detailed route map, with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "110th Infantry Regiment"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d204ec007cec424f6198"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f6198/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Roll on 110th: Route of March on the Continent, 22 July 44 to 9 May 45"
+        ]
+      },
+      "height": 6498,
+      "width": 9923,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f6198/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f6198/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0004_Roll_on_110th.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 6498,
+                "width": 9923,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0004_Roll_on_110th.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f6198/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

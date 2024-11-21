@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b3.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "509th Military Police Battalion European Path with First U.S. Army World War II, 1941-1945"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Colorful route map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "509th Military Police Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d209ec007cec424f61b3"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b3/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 509th Military Police Battalion European Path with First U.S. Army World War II, 1941-1945"
+        ]
+      },
+      "height": 6459,
+      "width": 8275,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b3/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b3/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 6459,
+                "width": 8275,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b3/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

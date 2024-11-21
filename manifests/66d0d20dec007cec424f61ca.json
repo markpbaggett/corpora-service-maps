@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61ca.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "13th Armored (Black Cat) Division: A History in Pictures, Jan - May 1945\u00a0"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Black and white route map with small cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "13th Armored Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d20dec007cec424f61ca"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61ca/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 13th Armored (Black Cat) Division: A History in Pictures, Jan - May 1945\u00a0"
+        ]
+      },
+      "height": 6217,
+      "width": 11989,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0023_13th_Armored_Black_Cat_Division.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 6217,
+                "width": 11989,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0023_13th_Armored_Black_Cat_Division.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61ca/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

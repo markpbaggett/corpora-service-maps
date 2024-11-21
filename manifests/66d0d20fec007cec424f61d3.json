@@ -1,0 +1,77 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d3.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Duplicate"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Duplicate"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d20fec007cec424f61d3"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Duplicate"
+        ]
+      },
+      "height": 14485,
+      "width": 18000,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 14485,
+                "width": 18000,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b6.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Antiaircraft Dispositions Rhine River Crossing of XV Corps, Seventh United States Army, 26th March to 28th March 1945"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with narrative"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "XV Corps"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d209ec007cec424f61b6"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b6/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Antiaircraft Dispositions Rhine River Crossing of XV Corps, Seventh United States Army, 26th March to 28th March 1945"
+        ]
+      },
+      "height": 14408,
+      "width": 18000,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b6/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b6/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Antiaircraft-dispositions-Rhine-River-crossing-of-XV-Corps-Seventh-United-States-Army-26th-March-to-28th-March-1945.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 14408,
+                "width": 18000,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Antiaircraft-dispositions-Rhine-River-crossing-of-XV-Corps-Seventh-United-States-Army-26th-March-to-28th-March-1945.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b6/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

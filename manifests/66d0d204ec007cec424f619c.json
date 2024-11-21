@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f619c.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Advance of the 5th Armored \"Victory Division\" Normandy to the Seine River, 1 August to 29 August"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with limited detail"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "5th Armored Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d204ec007cec424f619c"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619c/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Advance of the 5th Armored \"Victory Division\" Normandy to the Seine River, 1 August to 29 August"
+        ]
+      },
+      "height": 5281,
+      "width": 8414,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619c/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619c/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 5281,
+                "width": 8414,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619c/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

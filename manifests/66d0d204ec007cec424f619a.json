@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f619a.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "6th Ordnance MM Co in the European War, 6 June 44 - 8 May 45"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with cartoon illustrations, unit roster, timeline"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "6th Ordnance MM Co"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d204ec007cec424f619a"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619a/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 6th Ordnance MM Co in the European War, 6 June 44 - 8 May 45"
+        ]
+      },
+      "height": 11842,
+      "width": 18000,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240425_0029_6th_Ordnance_June_44_May_45.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 11842,
+                "width": 18000,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240425_0029_6th_Ordnance_June_44_May_45.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619a/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

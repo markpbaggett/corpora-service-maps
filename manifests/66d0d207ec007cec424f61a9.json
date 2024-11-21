@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d207ec007cec424f61a9.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Route of E Company 344th Engr. Regt. during World War II, 1 July 1942 - 1 July 1945"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Colorful but simple route map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "344th Engineer Regiment, Company E"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d207ec007cec424f61a9"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d207ec007cec424f61a9/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Route of E Company 344th Engr. Regt. during World War II, 1 July 1942 - 1 July 1945"
+        ]
+      },
+      "height": 16000,
+      "width": 13913,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Route-of-E-Company-344th-Engr.-Regt.-during-World-War-II-1-July-1942-1-July-1945.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 16000,
+                "width": 13913,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Route-of-E-Company-344th-Engr.-Regt.-during-World-War-II-1-July-1942-1-July-1945.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d207ec007cec424f61a9/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

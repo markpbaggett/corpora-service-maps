@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a5.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "292 Engineer (C) Battalion In Action from England to the Elbe"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Very colorful route map with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "292nd Engineer Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d206ec007cec424f61a5"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a5/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 292 Engineer (C) Battalion In Action from England to the Elbe"
+        ]
+      },
+      "height": 12819,
+      "width": 16669,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0001_292_Engineer_Battalion.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 12819,
+                "width": 16669,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0001_292_Engineer_Battalion.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a5/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

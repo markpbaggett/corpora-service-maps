@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f6192.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "1150 Engineer Combat Group in the European Theater 1945"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Black and White route map with numerous small cartoon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "1150th Engineer Combat Group"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d202ec007cec424f6192"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d202ec007cec424f6192/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 1150 Engineer Combat Group in the European Theater 1945"
+        ]
+      },
+      "height": 7388,
+      "width": 10664,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d202ec007cec424f6192/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d202ec007cec424f6192/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0031_1150_Engineer_Combat_Group.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 7388,
+                "width": 10664,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0031_1150_Engineer_Combat_Group.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d202ec007cec424f6192/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

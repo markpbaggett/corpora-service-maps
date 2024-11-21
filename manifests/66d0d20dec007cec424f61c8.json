@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61c8.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "31st Engr. Combat Battalion Command Posts, Europe, 3 Nov. 1944 - 8 July 1945"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Simple route map, some cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "31st Engineer Combat Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d20dec007cec424f61c8"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61c8/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 31st Engr. Combat Battalion Command Posts, Europe, 3 Nov. 1944 - 8 July 1945"
+        ]
+      },
+      "height": 13294,
+      "width": 16805,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61c8/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61c8/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0017_31st_Engr._Combat_Battalion.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 13294,
+                "width": 16805,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0017_31st_Engr._Combat_Battalion.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61c8/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

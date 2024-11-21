@@ -1,0 +1,109 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d200ec007cec424f6189.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Combat Diary of the 215 F.A.B"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map including Belgium, France, Germany.  Several cartoons depicting military life"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "215th Field Artillery Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d200ec007cec424f6189"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d200ec007cec424f6189/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Combat Diary of the 215 F.A.B"
+        ]
+      },
+      "height": 18000,
+      "width": 13669,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d200ec007cec424f6189/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d200ec007cec424f6189/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0009_215_F.A._Bn.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 18000,
+                "width": 13669,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0009_215_F.A._Bn.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d200ec007cec424f6189/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d200ec007cec424f6189/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d200ec007cec424f6189/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A man sleeping in a bed.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d200ec007cec424f6189/canvas/1#xywh=9745,3118,900,652"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d2.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "\u00a0The Cactus Route, 500 Fighting Miles: France, Germany, Austria, Italy, 11 Nov. 44 - 4 May 45"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with operational details"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "103rd Infantry Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d20fec007cec424f61d2"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d2/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for \u00a0The Cactus Route, 500 Fighting Miles: France, Germany, Austria, Italy, 11 Nov. 44 - 4 May 45"
+        ]
+      },
+      "height": 5092,
+      "width": 7182,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d2/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d2/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0039_The_Cactus_Route.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 5092,
+                "width": 7182,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0039_The_Cactus_Route.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d2/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

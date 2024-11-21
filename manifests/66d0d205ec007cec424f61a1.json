@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f61a1.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Advance of the 4th Infantry Division from Utah Beach to the Siegfried Line"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "4th Infantry Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d205ec007cec424f61a1"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d205ec007cec424f61a1/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Advance of the 4th Infantry Division from Utah Beach to the Siegfried Line"
+        ]
+      },
+      "height": 10820,
+      "width": 14024,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 10820,
+                "width": 14024,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d205ec007cec424f61a1/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

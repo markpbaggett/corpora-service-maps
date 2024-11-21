@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f6199.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "103rd Evacuation Hospital (SM)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with names of personnel.  Extensive writing on the back"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "103rd Evacuation Hospital"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d204ec007cec424f6199"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f6199/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 103rd Evacuation Hospital (SM)"
+        ]
+      },
+      "height": 12451,
+      "width": 17056,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f6199/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f6199/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0012_103rd_Evacuation_Hospital.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 12451,
+                "width": 17056,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0012_103rd_Evacuation_Hospital.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f6199/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

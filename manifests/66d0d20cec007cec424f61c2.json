@@ -1,0 +1,89 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c2.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Operations Against Germany World War II, 188th Field Artillery Battalion, 155mm Howitzer, Trac-drawn, First U.S. Army 1944-45"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "188th Field Artillery Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d20cec007cec424f61c2"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20cec007cec424f61c2/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Operations Against Germany World War II, 188th Field Artillery Battalion, 155mm Howitzer, Trac-drawn, First U.S. Army 1944-45"
+        ]
+      },
+      "height": 9783,
+      "width": 13912,
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20cec007cec424f61c2/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20cec007cec424f61c2/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0014_188th_Field_Artillery_Battalion.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 9783,
+                "width": 13912,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0014_188th_Field_Artillery_Battalion.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20cec007cec424f61c2/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
