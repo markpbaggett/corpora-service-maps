@@ -49,6 +49,12 @@
       "format": "image/jpeg"
     }
   ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d1/canvas/1",

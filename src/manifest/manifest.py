@@ -53,6 +53,12 @@ class ManifestCreator:
             label=self.label,
             metadata=self.metadata,
             thumbnail=thumbnail,
+            partOf=[
+                {
+                    "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+                    "type": "Collection"
+                }
+            ]
         )
         canvas = manifest.make_canvas_from_iiif(
             url=self.data['iiif_url'],
