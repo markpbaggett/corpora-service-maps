@@ -31,13 +31,12 @@ if __name__ == "__main__":
     annotations = SearchResults(
         "https://corpora.dh.tamu.edu/api/corpus/66d0cf276083e79367c617c6/Feature/"
     )
+    record_map = {record['id']: record for record in records.all['results']}
     for annotation in annotations.all['results']:
-        for work in records.all['results']:
-            if work['id'] == annotation['map']['id']:
-                if work.get('annotations'):
-                    work['annotations'].append(annotation)
-                else:
-                    work['annotations'] = [annotation]
+        map_id = annotation.get('map', {}).get('id')
+        if map_id and map_id in record_map:
+            record = record_map[map_id]
+            record.setdefault('annotations', []).append(annotation)
     for work in records.all['results']:
         if 'title' in work:
             x = ManifestCreator(work)
