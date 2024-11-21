@@ -1,6 +1,7 @@
-from iiif_prezi3 import Manifest, config, KeyValueString
+from iiif_prezi3 import Manifest, config, KeyValueString, Collection
 import json
 import httpx
+import os
 
 
 class ManifestCreator:
@@ -86,3 +87,27 @@ class ManifestCreator:
                     self.manifest, indent=2
                 )
             )
+
+
+class CollectionBuilder:
+    def __init__(self, path):
+        self.path = path
+        self.config = config.configs['helpers.auto_fields.AutoLang'].auto_lang = "en"
+        self._build_collection()
+
+    def _build_collection(self):
+        collection = Collection(
+            id=f"https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+            label="World War II Service Maps",
+        )
+        for path, directories, files in os.walk(self.path):
+            for file in files:
+                with open(f'{self.path}/{file}', 'r') as new_file:
+                    data = new_file.read()
+                    json_data = json.loads(data)
+                    collection.make_manifest(
+                        id=json_data['id'],
+                        label=json_data['label']['en'][0],
+                    )
+        with open('collections/collection.json', 'w') as outfile:
+            outfile.write(collection.json(indent=2))

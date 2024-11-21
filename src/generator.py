@@ -1,5 +1,5 @@
 import httpx
-from manifest import ManifestCreator
+from manifest import ManifestCreator, CollectionBuilder
 
 
 class SearchResults:
@@ -41,3 +41,5 @@ if __name__ == "__main__":
         if 'title' in work:
             x = ManifestCreator(work)
             x.write()
+
+    CollectionBuilder('manifests')

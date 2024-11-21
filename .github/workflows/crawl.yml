@@ -1,4 +1,4 @@
-name: Nightly run to create export of all Allmaps annotations that I care about
+name: Regenerate manifest from Corpra data on Sundays
 on:
   schedule:
     - cron: '30 2 * * 0'

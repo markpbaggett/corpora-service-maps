@@ -1,1 +1,1 @@
-from .manifest import ManifestCreator
+from .manifest import ManifestCreator, CollectionBuilder
