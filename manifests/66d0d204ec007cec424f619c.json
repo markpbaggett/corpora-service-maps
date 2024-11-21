@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg/full/2103,/0/default.jpg",
+      "type": "Image",
+      "height": 1320,
+      "width": 2103,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619c/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 5281,
       "width": 8414,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg/full/2103,/0/default.jpg",
+          "type": "Image",
+          "height": 1320,
+          "width": 2103,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d204ec007cec424f619c/canvas/1/annotation/1/page/1",

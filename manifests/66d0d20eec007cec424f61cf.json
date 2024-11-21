@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0042_111th_Engineer_Combat_Battalion.jpg/full/2236,/0/default.jpg",
+      "type": "Image",
+      "height": 1839,
+      "width": 2236,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0042_111th_Engineer_Combat_Battalion.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20eec007cec424f61cf/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 7358,
       "width": 8947,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0042_111th_Engineer_Combat_Battalion.jpg/full/2236,/0/default.jpg",
+          "type": "Image",
+          "height": 1839,
+          "width": 2236,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0042_111th_Engineer_Combat_Battalion.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20eec007cec424f61cf/canvas/1/annotation/1/page/1",

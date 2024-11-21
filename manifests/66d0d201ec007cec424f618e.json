@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0027_355th_Infantry_Regiment.jpg/full/2529,/0/default.jpg",
+      "type": "Image",
+      "height": 1746,
+      "width": 2529,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0027_355th_Infantry_Regiment.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d201ec007cec424f618e/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 6984,
       "width": 10116,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0027_355th_Infantry_Regiment.jpg/full/2529,/0/default.jpg",
+          "type": "Image",
+          "height": 1746,
+          "width": 2529,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0027_355th_Infantry_Regiment.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/1/page/1",

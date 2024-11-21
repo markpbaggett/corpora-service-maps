@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0011_202nd_Field_Artillery_Battalion.jpg/full/2997,/0/default.jpg",
+      "type": "Image",
+      "height": 2325,
+      "width": 2997,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0011_202nd_Field_Artillery_Battalion.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d201ec007cec424f618c/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 9302,
       "width": 11989,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0011_202nd_Field_Artillery_Battalion.jpg/full/2997,/0/default.jpg",
+          "type": "Image",
+          "height": 2325,
+          "width": 2997,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0011_202nd_Field_Artillery_Battalion.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d201ec007cec424f618c/canvas/1/annotation/1/page/1",

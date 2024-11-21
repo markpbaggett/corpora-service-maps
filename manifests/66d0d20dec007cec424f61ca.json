@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0023_13th_Armored_Black_Cat_Division.jpg/full/2997,/0/default.jpg",
+      "type": "Image",
+      "height": 1554,
+      "width": 2997,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0023_13th_Armored_Black_Cat_Division.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61ca/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 6217,
       "width": 11989,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0023_13th_Armored_Black_Cat_Division.jpg/full/2997,/0/default.jpg",
+          "type": "Image",
+          "height": 1554,
+          "width": 2997,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0023_13th_Armored_Black_Cat_Division.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/1/page/1",

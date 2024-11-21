@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/1104-Engineer-Combat-Group-from-D-Day-to-the-Elbe.jpg/full/4500,/0/default.jpg",
+      "type": "Image",
+      "height": 3580,
+      "width": 4500,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/1104-Engineer-Combat-Group-from-D-Day-to-the-Elbe.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20bec007cec424f61bc/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 14322,
       "width": 18000,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/1104-Engineer-Combat-Group-from-D-Day-to-the-Elbe.jpg/full/4500,/0/default.jpg",
+          "type": "Image",
+          "height": 3580,
+          "width": 4500,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/1104-Engineer-Combat-Group-from-D-Day-to-the-Elbe.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/1/page/1",

@@ -33,6 +33,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg/full/2774,/0/default.jpg",
+      "type": "Image",
+      "height": 2172,
+      "width": 2774,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d1/canvas/1",
@@ -44,6 +60,22 @@
       },
       "height": 8688,
       "width": 11099,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg/full/2774,/0/default.jpg",
+          "type": "Image",
+          "height": 2172,
+          "width": 2774,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d1/canvas/1/annotation/1/page/1",

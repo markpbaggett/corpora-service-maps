@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0021a_Map_History_of_the_1st_Armored_Division.jpg/full/2296,/0/default.jpg",
+      "type": "Image",
+      "height": 3009,
+      "width": 2296,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0021a_Map_History_of_the_1st_Armored_Division.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a3/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 12036,
       "width": 9184,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0021a_Map_History_of_the_1st_Armored_Division.jpg/full/2296,/0/default.jpg",
+          "type": "Image",
+          "height": 3009,
+          "width": 2296,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0021a_Map_History_of_the_1st_Armored_Division.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/1/page/1",

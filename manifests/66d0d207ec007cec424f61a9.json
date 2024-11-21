@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Route-of-E-Company-344th-Engr.-Regt.-during-World-War-II-1-July-1942-1-July-1945.jpg/full/3478,/0/default.jpg",
+      "type": "Image",
+      "height": 4000,
+      "width": 3478,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Route-of-E-Company-344th-Engr.-Regt.-during-World-War-II-1-July-1942-1-July-1945.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d207ec007cec424f61a9/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 16000,
       "width": 13913,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Route-of-E-Company-344th-Engr.-Regt.-during-World-War-II-1-July-1942-1-July-1945.jpg/full/3478,/0/default.jpg",
+          "type": "Image",
+          "height": 4000,
+          "width": 3478,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Route-of-E-Company-344th-Engr.-Regt.-during-World-War-II-1-July-1942-1-July-1945.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/1/page/1",

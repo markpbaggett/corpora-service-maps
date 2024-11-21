@@ -33,6 +33,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg/full/4500,/0/default.jpg",
+      "type": "Image",
+      "height": 3621,
+      "width": 4500,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1",
@@ -44,6 +60,22 @@
       },
       "height": 14485,
       "width": 18000,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg/full/4500,/0/default.jpg",
+          "type": "Image",
+          "height": 3621,
+          "width": 4500,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1/annotation/1/page/1",

@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg/full/2068,/0/default.jpg",
+      "type": "Image",
+      "height": 1614,
+      "width": 2068,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b3/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 6459,
       "width": 8275,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg/full/2068,/0/default.jpg",
+          "type": "Image",
+          "height": 1614,
+          "width": 2068,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b3/canvas/1/annotation/1/page/1",

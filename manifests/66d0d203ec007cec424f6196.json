@@ -33,6 +33,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg/full/3007,/0/default.jpg",
+      "type": "Image",
+      "height": 2327,
+      "width": 3007,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d203ec007cec424f6196/canvas/1",
@@ -44,6 +60,22 @@
       },
       "height": 9308,
       "width": 12030,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg/full/3007,/0/default.jpg",
+          "type": "Image",
+          "height": 2327,
+          "width": 3007,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d203ec007cec424f6196/canvas/1/annotation/1/page/1",

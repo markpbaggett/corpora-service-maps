@@ -45,6 +45,22 @@
       }
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0007_Load_Up_2nd_Bn._417th.jpg/full/4500,/0/default.jpg",
+      "type": "Image",
+      "height": 3456,
+      "width": 4500,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0007_Load_Up_2nd_Bn._417th.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b1/canvas/1",
@@ -56,6 +72,22 @@
       },
       "height": 13826,
       "width": 18000,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0007_Load_Up_2nd_Bn._417th.jpg/full/4500,/0/default.jpg",
+          "type": "Image",
+          "height": 3456,
+          "width": 4500,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0007_Load_Up_2nd_Bn._417th.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
       "items": [
         {
           "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d209ec007cec424f61b1/canvas/1/annotation/1/page/1",
