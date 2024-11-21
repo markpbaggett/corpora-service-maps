@@ -35,10 +35,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg/full/3007,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg/full/375,/0/default.jpg",
       "type": "Image",
-      "height": 2327,
-      "width": 3007,
+      "height": 290,
+      "width": 375,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg",
@@ -62,10 +62,10 @@
       "width": 12030,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg/full/3007,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg/full/375,/0/default.jpg",
           "type": "Image",
-          "height": 2327,
-          "width": 3007,
+          "height": 290,
+          "width": 375,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0030_1109th_Engr_Combat_Group.jpg",

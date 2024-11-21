@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg/full/3506,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg/full/438,/0/default.jpg",
       "type": "Image",
-      "height": 2705,
-      "width": 3506,
+      "height": 338,
+      "width": 438,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg",
@@ -74,10 +74,10 @@
       "width": 14024,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg/full/3506,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg/full/438,/0/default.jpg",
           "type": "Image",
-          "height": 2705,
-          "width": 3506,
+          "height": 338,
+          "width": 438,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg",

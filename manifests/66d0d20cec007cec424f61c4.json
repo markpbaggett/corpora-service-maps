@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0019_Hell_on_Wheels_1942-1943-1944.jpg/full/3034,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0019_Hell_on_Wheels_1942-1943-1944.jpg/full/379,/0/default.jpg",
       "type": "Image",
-      "height": 2406,
-      "width": 3034,
+      "height": 300,
+      "width": 379,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0019_Hell_on_Wheels_1942-1943-1944.jpg",
@@ -74,10 +74,10 @@
       "width": 12138,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0019_Hell_on_Wheels_1942-1943-1944.jpg/full/3034,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0019_Hell_on_Wheels_1942-1943-1944.jpg/full/379,/0/default.jpg",
           "type": "Image",
-          "height": 2406,
-          "width": 3034,
+          "height": 300,
+          "width": 379,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0019_Hell_on_Wheels_1942-1943-1944.jpg",

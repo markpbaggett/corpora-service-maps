@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0002_Thirty-sixth_Armored_Infantry.jpg/full/4500,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0002_Thirty-sixth_Armored_Infantry.jpg/full/1125,/0/default.jpg",
       "type": "Image",
-      "height": 1702,
-      "width": 4500,
+      "height": 425,
+      "width": 1125,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0002_Thirty-sixth_Armored_Infantry.jpg",
@@ -74,10 +74,10 @@
       "width": 18000,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0002_Thirty-sixth_Armored_Infantry.jpg/full/4500,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0002_Thirty-sixth_Armored_Infantry.jpg/full/1125,/0/default.jpg",
           "type": "Image",
-          "height": 1702,
-          "width": 4500,
+          "height": 425,
+          "width": 1125,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0002_Thirty-sixth_Armored_Infantry.jpg",

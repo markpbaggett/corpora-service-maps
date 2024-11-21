@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0006_First_US_Army_June_6_1944_-_May_9_1945.jpg/full/3527,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0006_First_US_Army_June_6_1944_-_May_9_1945.jpg/full/440,/0/default.jpg",
       "type": "Image",
-      "height": 3153,
-      "width": 3527,
+      "height": 394,
+      "width": 440,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0006_First_US_Army_June_6_1944_-_May_9_1945.jpg",
@@ -74,10 +74,10 @@
       "width": 14109,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0006_First_US_Army_June_6_1944_-_May_9_1945.jpg/full/3527,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0006_First_US_Army_June_6_1944_-_May_9_1945.jpg/full/440,/0/default.jpg",
           "type": "Image",
-          "height": 3153,
-          "width": 3527,
+          "height": 394,
+          "width": 440,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0006_First_US_Army_June_6_1944_-_May_9_1945.jpg",

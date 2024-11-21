@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Battle-route-of-the-XII-Corps-in-the-European-Theater-of-Operations_1.jpg/full/4500,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Battle-route-of-the-XII-Corps-in-the-European-Theater-of-Operations_1.jpg/full/562,/0/default.jpg",
       "type": "Image",
-      "height": 3593,
-      "width": 4500,
+      "height": 449,
+      "width": 562,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Battle-route-of-the-XII-Corps-in-the-European-Theater-of-Operations_1.jpg",
@@ -74,10 +74,10 @@
       "width": 18000,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Battle-route-of-the-XII-Corps-in-the-European-Theater-of-Operations_1.jpg/full/4500,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Battle-route-of-the-XII-Corps-in-the-European-Theater-of-Operations_1.jpg/full/562,/0/default.jpg",
           "type": "Image",
-          "height": 3593,
-          "width": 4500,
+          "height": 449,
+          "width": 562,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/Battle-route-of-the-XII-Corps-in-the-European-Theater-of-Operations_1.jpg",

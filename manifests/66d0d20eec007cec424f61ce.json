@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0015_III_Corps_Campaigns.jpg/full/3287,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0015_III_Corps_Campaigns.jpg/full/410,/0/default.jpg",
       "type": "Image",
-      "height": 2061,
-      "width": 3287,
+      "height": 257,
+      "width": 410,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0015_III_Corps_Campaigns.jpg",
@@ -74,10 +74,10 @@
       "width": 13148,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0015_III_Corps_Campaigns.jpg/full/3287,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0015_III_Corps_Campaigns.jpg/full/410,/0/default.jpg",
           "type": "Image",
-          "height": 2061,
-          "width": 3287,
+          "height": 257,
+          "width": 410,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0015_III_Corps_Campaigns.jpg",

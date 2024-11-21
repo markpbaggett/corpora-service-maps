@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg/full/2068,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg/full/517,/0/default.jpg",
       "type": "Image",
-      "height": 1614,
-      "width": 2068,
+      "height": 403,
+      "width": 517,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg",
@@ -74,10 +74,10 @@
       "width": 8275,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg/full/2068,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg/full/517,/0/default.jpg",
           "type": "Image",
-          "height": 1614,
-          "width": 2068,
+          "height": 403,
+          "width": 517,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0040_509th_Military_Police_Battalion.jpg",

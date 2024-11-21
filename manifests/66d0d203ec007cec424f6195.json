@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0028_Transportation_Corps.jpg/full/3846,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0028_Transportation_Corps.jpg/full/480,/0/default.jpg",
       "type": "Image",
-      "height": 4000,
-      "width": 3846,
+      "height": 500,
+      "width": 480,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0028_Transportation_Corps.jpg",
@@ -74,10 +74,10 @@
       "width": 15387,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0028_Transportation_Corps.jpg/full/3846,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0028_Transportation_Corps.jpg/full/480,/0/default.jpg",
           "type": "Image",
-          "height": 4000,
-          "width": 3846,
+          "height": 500,
+          "width": 480,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0028_Transportation_Corps.jpg",

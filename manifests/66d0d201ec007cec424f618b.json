@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0019_Blackhawks_in_WWII.jpg/full/3396,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0019_Blackhawks_in_WWII.jpg/full/424,/0/default.jpg",
       "type": "Image",
-      "height": 2731,
-      "width": 3396,
+      "height": 341,
+      "width": 424,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0019_Blackhawks_in_WWII.jpg",
@@ -74,10 +74,10 @@
       "width": 13585,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0019_Blackhawks_in_WWII.jpg/full/3396,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0019_Blackhawks_in_WWII.jpg/full/424,/0/default.jpg",
           "type": "Image",
-          "height": 2731,
-          "width": 3396,
+          "height": 341,
+          "width": 424,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0019_Blackhawks_in_WWII.jpg",

@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0001_292_Engineer_Battalion.jpg/full/4167,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0001_292_Engineer_Battalion.jpg/full/520,/0/default.jpg",
       "type": "Image",
-      "height": 3204,
-      "width": 4167,
+      "height": 400,
+      "width": 520,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0001_292_Engineer_Battalion.jpg",
@@ -74,10 +74,10 @@
       "width": 16669,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0001_292_Engineer_Battalion.jpg/full/4167,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0001_292_Engineer_Battalion.jpg/full/520,/0/default.jpg",
           "type": "Image",
-          "height": 3204,
-          "width": 4167,
+          "height": 400,
+          "width": 520,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0001_292_Engineer_Battalion.jpg",

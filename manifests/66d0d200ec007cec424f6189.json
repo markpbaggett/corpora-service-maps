@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0009_215_F.A._Bn.jpg/full/3417,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0009_215_F.A._Bn.jpg/full/427,/0/default.jpg",
       "type": "Image",
-      "height": 4500,
-      "width": 3417,
+      "height": 562,
+      "width": 427,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0009_215_F.A._Bn.jpg",
@@ -74,10 +74,10 @@
       "width": 13669,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0009_215_F.A._Bn.jpg/full/3417,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0009_215_F.A._Bn.jpg/full/427,/0/default.jpg",
           "type": "Image",
-          "height": 4500,
-          "width": 3417,
+          "height": 562,
+          "width": 427,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0009_215_F.A._Bn.jpg",

@@ -35,10 +35,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0003_USS_Lexington.jpg/full/3915,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0003_USS_Lexington.jpg/full/489,/0/default.jpg",
       "type": "Image",
-      "height": 3008,
-      "width": 3915,
+      "height": 376,
+      "width": 489,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0003_USS_Lexington.jpg",
@@ -62,10 +62,10 @@
       "width": 15660,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0003_USS_Lexington.jpg/full/3915,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0003_USS_Lexington.jpg/full/489,/0/default.jpg",
           "type": "Image",
-          "height": 3008,
-          "width": 3915,
+          "height": 376,
+          "width": 489,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0003_USS_Lexington.jpg",

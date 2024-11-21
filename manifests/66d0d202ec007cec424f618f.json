@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0013_36th_Infantry_Division.jpg/full/4180,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0013_36th_Infantry_Division.jpg/full/522,/0/default.jpg",
       "type": "Image",
-      "height": 2571,
-      "width": 4180,
+      "height": 321,
+      "width": 522,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0013_36th_Infantry_Division.jpg",
@@ -74,10 +74,10 @@
       "width": 16720,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0013_36th_Infantry_Division.jpg/full/4180,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0013_36th_Infantry_Division.jpg/full/522,/0/default.jpg",
           "type": "Image",
-          "height": 2571,
-          "width": 4180,
+          "height": 321,
+          "width": 522,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0013_36th_Infantry_Division.jpg",

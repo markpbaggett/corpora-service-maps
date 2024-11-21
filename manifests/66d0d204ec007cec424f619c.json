@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg/full/2103,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg/full/525,/0/default.jpg",
       "type": "Image",
-      "height": 1320,
-      "width": 2103,
+      "height": 330,
+      "width": 525,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg",
@@ -74,10 +74,10 @@
       "width": 8414,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg/full/2103,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg/full/525,/0/default.jpg",
           "type": "Image",
-          "height": 1320,
-          "width": 2103,
+          "height": 330,
+          "width": 525,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0006_5th_Armored_Victory_Division.jpg",

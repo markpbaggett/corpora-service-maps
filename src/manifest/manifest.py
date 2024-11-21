@@ -30,7 +30,7 @@ class ManifestCreator:
     @staticmethod
     def _get_thumbnail(url):
         image_response = httpx.get(f"{url}/info.json", timeout=60).json()
-        size = image_response['sizes'][2]
+        size = image_response['sizes'][-3]
         return {
             "id": f"{url}/full/{size['width']},/0/default.jpg",
             "width": size['width'],

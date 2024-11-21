@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240424_0028_542_QM_Depot.jpg/full/3364,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240424_0028_542_QM_Depot.jpg/full/420,/0/default.jpg",
       "type": "Image",
-      "height": 4500,
-      "width": 3364,
+      "height": 562,
+      "width": 420,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240424_0028_542_QM_Depot.jpg",
@@ -74,10 +74,10 @@
       "width": 13458,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240424_0028_542_QM_Depot.jpg/full/3364,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240424_0028_542_QM_Depot.jpg/full/420,/0/default.jpg",
           "type": "Image",
-          "height": 4500,
-          "width": 3364,
+          "height": 562,
+          "width": 420,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240424_0028_542_QM_Depot.jpg",

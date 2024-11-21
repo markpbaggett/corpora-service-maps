@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/282-Engineer-Combat-Battalion-route-of-march-2-November-44---2-November-45.jpg/full/4500,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/282-Engineer-Combat-Battalion-route-of-march-2-November-44---2-November-45.jpg/full/562,/0/default.jpg",
       "type": "Image",
-      "height": 3557,
-      "width": 4500,
+      "height": 444,
+      "width": 562,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/282-Engineer-Combat-Battalion-route-of-march-2-November-44---2-November-45.jpg",
@@ -74,10 +74,10 @@
       "width": 18000,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/282-Engineer-Combat-Battalion-route-of-march-2-November-44---2-November-45.jpg/full/4500,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/282-Engineer-Combat-Battalion-route-of-march-2-November-44---2-November-45.jpg/full/562,/0/default.jpg",
           "type": "Image",
-          "height": 3557,
-          "width": 4500,
+          "height": 444,
+          "width": 562,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/282-Engineer-Combat-Battalion-route-of-march-2-November-44---2-November-45.jpg",

@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0036_88_Blue_Devil_Division.jpg/full/2353,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0036_88_Blue_Devil_Division.jpg/full/588,/0/default.jpg",
       "type": "Image",
-      "height": 1857,
-      "width": 2353,
+      "height": 464,
+      "width": 588,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0036_88_Blue_Devil_Division.jpg",
@@ -74,10 +74,10 @@
       "width": 9413,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0036_88_Blue_Devil_Division.jpg/full/2353,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0036_88_Blue_Devil_Division.jpg/full/588,/0/default.jpg",
           "type": "Image",
-          "height": 1857,
-          "width": 2353,
+          "height": 464,
+          "width": 588,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0036_88_Blue_Devil_Division.jpg",

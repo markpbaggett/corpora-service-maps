@@ -35,10 +35,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg/full/2774,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg/full/346,/0/default.jpg",
       "type": "Image",
-      "height": 2172,
-      "width": 2774,
+      "height": 271,
+      "width": 346,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg",
@@ -62,10 +62,10 @@
       "width": 11099,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg/full/2774,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg/full/346,/0/default.jpg",
           "type": "Image",
-          "height": 2172,
-          "width": 2774,
+          "height": 271,
+          "width": 346,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0005_5_Suddenly_and_Violently.jpg",

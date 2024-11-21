@@ -47,10 +47,10 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0017_31st_Engr._Combat_Battalion.jpg/full/4201,/0/default.jpg",
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0017_31st_Engr._Combat_Battalion.jpg/full/525,/0/default.jpg",
       "type": "Image",
-      "height": 3323,
-      "width": 4201,
+      "height": 415,
+      "width": 525,
       "service": [
         {
           "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0017_31st_Engr._Combat_Battalion.jpg",
@@ -74,10 +74,10 @@
       "width": 16805,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0017_31st_Engr._Combat_Battalion.jpg/full/4201,/0/default.jpg",
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0017_31st_Engr._Combat_Battalion.jpg/full/525,/0/default.jpg",
           "type": "Image",
-          "height": 3323,
-          "width": 4201,
+          "height": 415,
+          "width": 525,
           "service": [
             {
               "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0017_31st_Engr._Combat_Battalion.jpg",
