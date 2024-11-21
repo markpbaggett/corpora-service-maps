@@ -1,0 +1,32 @@
+name: Nightly run to create export of all Allmaps annotations that I care about
+on:
+  schedule:
+    - cron: '30 2 * * 0'
+  workflow_dispatch:
+jobs:
+  regenerate-manifests:
+    name: Regenerate Manifests
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+      - name: Run image
+        uses: abatilo/actions-poetry@v2
+        with:
+          poetry-version: "1.8.2"
+      - name: Install application
+        run: poetry install
+      - name: Run tests
+        run: poetry run python src/generator.py
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "markpbaggett"
+          git config user.email "markpbaggett@gmail.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Update manifests from Corpra: ${timestamp}" || exit 0
+          git push
