@@ -32,7 +32,6 @@ if __name__ == "__main__":
         "https://corpora.dh.tamu.edu/api/corpus/66d0cf276083e79367c617c6/Feature/"
     )
     for annotation in annotations.all['results']:
-        # print(annotation)
         for work in records.all['results']:
             if work['id'] == annotation['map']['id']:
                 if work.get('annotations'):
