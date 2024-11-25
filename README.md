@@ -1,6 +1,6 @@
-# Corpra Service Maps
+# Corpora Service Maps
 
-IIIF Manifests and Generator based from Corpra data. 
+IIIF Manifests and Generator based from Corpora data. 
 
 ## What can I do with this?
 
