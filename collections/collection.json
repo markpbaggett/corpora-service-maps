@@ -9,91 +9,10 @@
   },
   "items": [
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a2.json",
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f619f.json",
       "label": {
         "en": [
-          "Graphical History of 987th F.A. Battalion, 155mm Self Propelled Guns"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b4.json",
-      "label": {
-        "en": [
-          " 165 Engr. Combat Battalion Command Posts France - Germany, 27 July 1944 - 27 July 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61be.json",
-      "label": {
-        "en": [
-          "XIX Corps In Action from D Day (6 June 1944) To Germany"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20eec007cec424f61cf.json",
-      "label": {
-        "en": [
-          "Campaigns in Italy of 111th Engineer Combat Battalion, Sept. 9, 1943 to Aug. 11, 1944"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f61a1.json",
-      "label": {
-        "en": [
-          "Advance of the 4th Infantry Division from Utah Beach to the Siegfried Line"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d203ec007cec424f6195.json",
-      "label": {
-        "en": [
-          "The Transportation Corps in the European Theater of Operations"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d207ec007cec424f61ac.json",
-      "label": {
-        "en": [
-          "G-2 After Action Report April 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f6193.json",
-      "label": {
-        "en": [
-          "To Belgium and Back with the 79th Infantry Division"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c2.json",
-      "label": {
-        "en": [
-          "Operations Against Germany World War II, 188th Field Artillery Battalion, 155mm Howitzer, Trac-drawn, First U.S. Army 1944-45"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61c7.json",
-      "label": {
-        "en": [
-          "\"Hell on Wheels\" War Against the Axis, 1942-1943-1944-1945"
+          "Over the Rhine with the 79th Infantry Division"
         ]
       },
       "type": "Manifest"
@@ -108,397 +27,10 @@
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f6192.json",
-      "label": {
-        "en": [
-          "1150 Engineer Combat Group in the European Theater 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d207ec007cec424f61ab.json",
-      "label": {
-        "en": [
-          " 106th Evacuation Hospital, Semi-Mobile"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d207ec007cec424f61a9.json",
-      "label": {
-        "en": [
-          "Route of E Company 344th Engr. Regt. during World War II, 1 July 1942 - 1 July 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d203ec007cec424f6194.json",
-      "label": {
-        "en": [
-          "III Corps Reference"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61ca.json",
-      "label": {
-        "en": [
-          "13th Armored (Black Cat) Division: A History in Pictures, Jan - May 1945 "
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f61a0.json",
-      "label": {
-        "en": [
-          "Engineer Operational Report Roer River Crossing at Julich"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61bd.json",
-      "label": {
-        "en": [
-          "The Thunderbolt Across Europe (reverse)"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b5.json",
-      "label": {
-        "en": [
-          "Major Operations of the 1120 Engineer Combat Group, 6 June 1944 - 19 March 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a3.json",
-      "label": {
-        "en": [
-          "Map History of the 1st Armored Division"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c4.json",
-      "label": {
-        "en": [
-          "\"Hell on Wheels\" 1942-1943-1944"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f619a.json",
-      "label": {
-        "en": [
-          "6th Ordnance MM Co in the European War, 6 June 44 - 8 May 45"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20eec007cec424f61d0.json",
-      "label": {
-        "en": [
-          "105 Eng'r. Combat Battalion - In Action from June 13, 1944 to May 9, 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b2.json",
-      "label": {
-        "en": [
-          "To the Rhine with the 79th Infantry Division, 25 Oct to 14 Feb. 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61bc.json",
-      "label": {
-        "en": [
-          "1104 Engineer Combat Group, from \"D\" Day to the Elbe"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d208ec007cec424f61ae.json",
-      "label": {
-        "en": [
-          "517 Attack"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d3.json",
-      "label": {
-        "en": [
-          "Duplicate"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d200ec007cec424f618a.json",
-      "label": {
-        "en": [
-          "Through France With the 79th Infantry Division"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d2.json",
-      "label": {
-        "en": [
-          " The Cactus Route, 500 Fighting Miles: France, Germany, Austria, Italy, 11 Nov. 44 - 4 May 45"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d208ec007cec424f61ad.json",
-      "label": {
-        "en": [
-          "The 36th Infantry Division Campaigns in France, Germany, Austria"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b3.json",
-      "label": {
-        "en": [
-          "509th Military Police Battalion European Path with First U.S. Army World War II, 1941-1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f619f.json",
-      "label": {
-        "en": [
-          "Over the Rhine with the 79th Infantry Division"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a5.json",
-      "label": {
-        "en": [
-          "292 Engineer (C) Battalion In Action from England to the Elbe"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20aec007cec424f61ba.json",
-      "label": {
-        "en": [
-          "Operations of First United States Army in Europe, June 6, 1944 to May 9, 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c5.json",
-      "label": {
-        "en": [
-          "Route of B Company, 136 Ordnance Maintenance Battalion, France-Germany, 22 November 1944 to 6 May 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61c0.json",
-      "label": {
-        "en": [
-          "Major Operations of the Thirty-sixth Armored Infantry Regiment, 18 June 1944 - 25 April 1945: Normandy, Northern France, Ardennes, Rhineland, Central Europe"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c6.json",
-      "label": {
-        "en": [
-          "42nd Inf. Rainbow Div."
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d1.json",
-      "label": {
-        "en": [
-          "5: Suddenly and Violently"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d201ec007cec424f618e.json",
-      "label": {
-        "en": [
-          "March Through Germany"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f619c.json",
-      "label": {
-        "en": [
-          "Advance of the 5th Armored \"Victory Division\" Normandy to the Seine River, 1 August to 29 August"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f6198.json",
-      "label": {
-        "en": [
-          "Roll on 110th: Route of March on the Continent, 22 July 44 to 9 May 45"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a6.json",
-      "label": {
-        "en": [
-          "Battle Route of the XII Corps in the European Theater of Operations"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f619e.json",
-      "label": {
-        "en": [
-          "XXI Corps :activated 6 December 1943, Camp Polk, LA. : England 11 November 1944 France 27 December 1944 Germany 23 March 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20aec007cec424f61b9.json",
-      "label": {
-        "en": [
-          "102d. Infantry Division. The Ozarks"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f618f.json",
-      "label": {
-        "en": [
-          "Campaigns in France, Germany, Austria"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20aec007cec424f61bb.json",
-      "label": {
-        "en": [
-          "42. Inf Rainbow Division (Reverse)"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
       "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20aec007cec424f61b8.json",
       "label": {
         "en": [
           "Lightning Strikes Twice"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a7.json",
-      "label": {
-        "en": [
-          "535th AAA Automatic Weapons Bn Travels 1944-45"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f619d.json",
-      "label": {
-        "en": [
-          "Major Operations of the 25th Armored Engineer Battalion, 23 July 1944-8 May 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f6199.json",
-      "label": {
-        "en": [
-          "103rd Evacuation Hospital (SM)"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b1.json",
-      "label": {
-        "en": [
-          "\"Load up\" with the 2nd Bn. 417th Inf. 76 Div."
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f619b.json",
-      "label": {
-        "en": [
-          "Advance of One Hundred Seventy-Third Field Artillery Group, England to Austria, July 20, 1944 to May 8, 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d201ec007cec424f618d.json",
-      "label": {
-        "en": [
-          "G-2 After Action Report, March 1945"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20eec007cec424f61cc.json",
-      "label": {
-        "en": [
-          "VII Corps"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d200ec007cec424f6189.json",
-      "label": {
-        "en": [
-          "Combat Diary of the 215 F.A.B"
         ]
       },
       "type": "Manifest"
@@ -513,28 +45,37 @@
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61c9.json",
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d207ec007cec424f61ab.json",
       "label": {
         "en": [
-          "USS Lexington"
+          " 106th Evacuation Hospital, Semi-Mobile"
         ]
       },
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20eec007cec424f61cd.json",
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b1.json",
       "label": {
         "en": [
-          " Battle Route of the 90 Inf. Div. in the European Theater of Operations"
+          "\"Load up\" with the 2nd Bn. 417th Inf. 76 Div."
         ]
       },
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d201ec007cec424f618c.json",
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b5.json",
       "label": {
         "en": [
-          "202nd Field Artillery Battalion, France-Germany"
+          "Major Operations of the 1120 Engineer Combat Group, 6 June 1944 - 19 March 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f619b.json",
+      "label": {
+        "en": [
+          "Advance of One Hundred Seventy-Third Field Artillery Group, England to Austria, July 20, 1944 to May 8, 1945"
         ]
       },
       "type": "Manifest"
@@ -549,15 +90,6 @@
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d208ec007cec424f61b0.json",
-      "label": {
-        "en": [
-          "World War II, 542nd QM Depot Co. (Supply) in ETO"
-        ]
-      },
-      "type": "Manifest"
-    },
-    {
       "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d207ec007cec424f61aa.json",
       "label": {
         "en": [
@@ -567,19 +99,118 @@
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d203ec007cec424f6196.json",
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f6193.json",
       "label": {
         "en": [
-          "1109th Engr. Combat Group Command Posts France - Germany 17 June 1944 - 9 May 1945"
+          "To Belgium and Back with the 79th Infantry Division"
         ]
       },
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f6190.json",
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f619c.json",
       "label": {
         "en": [
-          "Campaigns of the 9th Armored Div in Western-Europe"
+          "Advance of the 5th Armored \"Victory Division\" Normandy to the Seine River, 1 August to 29 August"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61c9.json",
+      "label": {
+        "en": [
+          "USS Lexington"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f61a0.json",
+      "label": {
+        "en": [
+          "Engineer Operational Report Roer River Crossing at Julich"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f619d.json",
+      "label": {
+        "en": [
+          "Major Operations of the 25th Armored Engineer Battalion, 23 July 1944-8 May 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c6.json",
+      "label": {
+        "en": [
+          "42nd Inf. Rainbow Div."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c2.json",
+      "label": {
+        "en": [
+          "Operations Against Germany World War II, 188th Field Artillery Battalion, 155mm Howitzer, Trac-drawn, First U.S. Army 1944-45"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d200ec007cec424f6189.json",
+      "label": {
+        "en": [
+          "Combat Diary of the 215 F.A.B"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61bc.json",
+      "label": {
+        "en": [
+          "1104 Engineer Combat Group, from \"D\" Day to the Elbe"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d1.json",
+      "label": {
+        "en": [
+          "5: Suddenly and Violently"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20aec007cec424f61ba.json",
+      "label": {
+        "en": [
+          "Operations of First United States Army in Europe, June 6, 1944 to May 9, 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f61a1.json",
+      "label": {
+        "en": [
+          "Advance of the 4th Infantry Division from Utah Beach to the Siegfried Line"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a5.json",
+      "label": {
+        "en": [
+          "292 Engineer (C) Battalion In Action from England to the Elbe"
         ]
       },
       "type": "Manifest"
@@ -594,10 +225,46 @@
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61bf.json",
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20aec007cec424f61bb.json",
       "label": {
         "en": [
-          " 88 \"Blue Devil\" Division Occupation Force in Venezia-Giulia"
+          "42. Inf Rainbow Division (Reverse)"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b2.json",
+      "label": {
+        "en": [
+          "To the Rhine with the 79th Infantry Division, 25 Oct to 14 Feb. 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f6192.json",
+      "label": {
+        "en": [
+          "1150 Engineer Combat Group in the European Theater 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61c8.json",
+      "label": {
+        "en": [
+          "31st Engr. Combat Battalion Command Posts, Europe, 3 Nov. 1944 - 8 July 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c4.json",
+      "label": {
+        "en": [
+          "\"Hell on Wheels\" 1942-1943-1944"
         ]
       },
       "type": "Manifest"
@@ -612,10 +279,343 @@
       "type": "Manifest"
     },
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61c8.json",
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d208ec007cec424f61b0.json",
       "label": {
         "en": [
-          "31st Engr. Combat Battalion Command Posts, Europe, 3 Nov. 1944 - 8 July 1945"
+          "World War II, 542nd QM Depot Co. (Supply) in ETO"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20eec007cec424f61cf.json",
+      "label": {
+        "en": [
+          "Campaigns in Italy of 111th Engineer Combat Battalion, Sept. 9, 1943 to Aug. 11, 1944"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61c0.json",
+      "label": {
+        "en": [
+          "Major Operations of the Thirty-sixth Armored Infantry Regiment, 18 June 1944 - 25 April 1945: Normandy, Northern France, Ardennes, Rhineland, Central Europe"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d201ec007cec424f618d.json",
+      "label": {
+        "en": [
+          "G-2 After Action Report, March 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20eec007cec424f61d0.json",
+      "label": {
+        "en": [
+          "105 Eng'r. Combat Battalion - In Action from June 13, 1944 to May 9, 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20eec007cec424f61cd.json",
+      "label": {
+        "en": [
+          " Battle Route of the 90 Inf. Div. in the European Theater of Operations"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d201ec007cec424f618e.json",
+      "label": {
+        "en": [
+          "March Through Germany"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a6.json",
+      "label": {
+        "en": [
+          "Battle Route of the XII Corps in the European Theater of Operations"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d201ec007cec424f618c.json",
+      "label": {
+        "en": [
+          "202nd Field Artillery Battalion, France-Germany"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d3.json",
+      "label": {
+        "en": [
+          "Duplicate"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61bf.json",
+      "label": {
+        "en": [
+          " 88 \"Blue Devil\" Division Occupation Force in Venezia-Giulia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f6199.json",
+      "label": {
+        "en": [
+          "103rd Evacuation Hospital (SM)"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d200ec007cec424f618a.json",
+      "label": {
+        "en": [
+          "Through France With the 79th Infantry Division"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d203ec007cec424f6194.json",
+      "label": {
+        "en": [
+          "III Corps Reference"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d203ec007cec424f6196.json",
+      "label": {
+        "en": [
+          "1109th Engr. Combat Group Command Posts France - Germany 17 June 1944 - 9 May 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a7.json",
+      "label": {
+        "en": [
+          "535th AAA Automatic Weapons Bn Travels 1944-45"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d203ec007cec424f6195.json",
+      "label": {
+        "en": [
+          "The Transportation Corps in the European Theater of Operations"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61bd.json",
+      "label": {
+        "en": [
+          "The Thunderbolt Across Europe (reverse)"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20aec007cec424f61b9.json",
+      "label": {
+        "en": [
+          "102d. Infantry Division. The Ozarks"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61c7.json",
+      "label": {
+        "en": [
+          "\"Hell on Wheels\" War Against the Axis, 1942-1943-1944-1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b4.json",
+      "label": {
+        "en": [
+          " 165 Engr. Combat Battalion Command Posts France - Germany, 27 July 1944 - 27 July 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20dec007cec424f61ca.json",
+      "label": {
+        "en": [
+          "13th Armored (Black Cat) Division: A History in Pictures, Jan - May 1945 "
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d208ec007cec424f61ae.json",
+      "label": {
+        "en": [
+          "517 Attack"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20cec007cec424f61c5.json",
+      "label": {
+        "en": [
+          "Route of B Company, 136 Ordnance Maintenance Battalion, France-Germany, 22 November 1944 to 6 May 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d208ec007cec424f61ad.json",
+      "label": {
+        "en": [
+          "The 36th Infantry Division Campaigns in France, Germany, Austria"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f6190.json",
+      "label": {
+        "en": [
+          "Campaigns of the 9th Armored Div in Western-Europe"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a3.json",
+      "label": {
+        "en": [
+          "Map History of the 1st Armored Division"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d202ec007cec424f618f.json",
+      "label": {
+        "en": [
+          "Campaigns in France, Germany, Austria"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f619a.json",
+      "label": {
+        "en": [
+          "6th Ordnance MM Co in the European War, 6 June 44 - 8 May 45"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d207ec007cec424f61a9.json",
+      "label": {
+        "en": [
+          "Route of E Company 344th Engr. Regt. during World War II, 1 July 1942 - 1 July 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d205ec007cec424f619e.json",
+      "label": {
+        "en": [
+          "XXI Corps :activated 6 December 1943, Camp Polk, LA. : England 11 November 1944 France 27 December 1944 Germany 23 March 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20bec007cec424f61be.json",
+      "label": {
+        "en": [
+          "XIX Corps In Action from D Day (6 June 1944) To Germany"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d204ec007cec424f6198.json",
+      "label": {
+        "en": [
+          "Roll on 110th: Route of March on the Continent, 22 July 44 to 9 May 45"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d209ec007cec424f61b3.json",
+      "label": {
+        "en": [
+          "509th Military Police Battalion European Path with First U.S. Army World War II, 1941-1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d207ec007cec424f61ac.json",
+      "label": {
+        "en": [
+          "G-2 After Action Report April 1945"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d2.json",
+      "label": {
+        "en": [
+          " The Cactus Route, 500 Fighting Miles: France, Germany, Austria, Italy, 11 Nov. 44 - 4 May 45"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20eec007cec424f61cc.json",
+      "label": {
+        "en": [
+          "VII Corps"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a2.json",
+      "label": {
+        "en": [
+          "Graphical History of 987th F.A. Battalion, 155mm Self Propelled Guns"
         ]
       },
       "type": "Manifest"
