@@ -18,6 +18,10 @@ jobs:
         uses: abatilo/actions-poetry@v2
         with:
           poetry-version: "1.8.2"
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libjpeg-dev
       - name: Install application
         run: poetry install
       - name: Run tests
