@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d217ec007cec424f61fe.json",
+  "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d217ec007cec424f61fe.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -47,29 +47,19 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg/full/548,/0/default.jpg",
-      "type": "Image",
-      "height": 433,
-      "width": 548,
-      "service": [
-        {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg",
-          "type": "ImageService3",
-          "profile": "level2"
-        }
-      ],
-      "format": "image/jpeg"
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg",
+      "type": "Image"
     }
   ],
   "partOf": [
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
       "type": "Collection"
     }
   ],
   "items": [
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fe/canvas/1",
+      "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d217ec007cec424f61fe/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -96,11 +86,11 @@
       ],
       "items": [
         {
-          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fe/canvas/1/annotation/1/page/1",
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d217ec007cec424f61fe/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fe/canvas/1/annotation/1",
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d217ec007cec424f61fe/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -117,7 +107,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fe/canvas/1"
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d217ec007cec424f61fe/canvas/1"
             }
           ]
         }
