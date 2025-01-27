@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d216ec007cec424f61f8.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Another Year with the 951st, or, \"Like ah done tol' yu befo'\""
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Map of Italy, with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "951st Engineer Topographic Company"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d216ec007cec424f61f8"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0004_Another_Year_w_951st.jpg/full/393,/0/default.jpg",
+      "type": "Image",
+      "height": 327,
+      "width": 393,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0004_Another_Year_w_951st.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d216ec007cec424f61f8/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Another Year with the 951st, or, \"Like ah done tol' yu befo'\""
+        ]
+      },
+      "height": 10483,
+      "width": 12578,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0004_Another_Year_w_951st.jpg/full/393,/0/default.jpg",
+          "type": "Image",
+          "height": 327,
+          "width": 393,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0004_Another_Year_w_951st.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d216ec007cec424f61f8/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d216ec007cec424f61f8/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0004_Another_Year_w_951st.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 10483,
+                "width": 12578,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240418_0004_Another_Year_w_951st.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d216ec007cec424f61f8/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

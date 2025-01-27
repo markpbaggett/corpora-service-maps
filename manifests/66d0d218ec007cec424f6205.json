@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d218ec007cec424f6205.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "\u00a0Advance of the XV Corps of the Third United States Army, Seine River to the Moselle River, 30 August to 15 September 1944"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Basic route map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "XV Corps"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d218ec007cec424f6205"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0012_Advance_of_the_XV_Corps.jpg/full/672,/0/default.jpg",
+      "type": "Image",
+      "height": 432,
+      "width": 672,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0012_Advance_of_the_XV_Corps.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d218ec007cec424f6205/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for \u00a0Advance of the XV Corps of the Third United States Army, Seine River to the Moselle River, 30 August to 15 September 1944"
+        ]
+      },
+      "height": 6923,
+      "width": 10757,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0012_Advance_of_the_XV_Corps.jpg/full/672,/0/default.jpg",
+          "type": "Image",
+          "height": 432,
+          "width": 672,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0012_Advance_of_the_XV_Corps.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0012_Advance_of_the_XV_Corps.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 6923,
+                "width": 10757,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0012_Advance_of_the_XV_Corps.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d218ec007cec424f6205/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

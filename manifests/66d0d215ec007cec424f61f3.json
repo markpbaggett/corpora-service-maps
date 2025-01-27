@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d215ec007cec424f61f3.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Movements of 71st Armored Field Artillery Battalion and Btry. \"B\"; 387th AA (AW) Battalion, part of 5th Armored Division, July 28 1944 to February 08 1945 "
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Basic route map with unit crests"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "71st Armored Field Artillery Battalion, 5th Armored Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d215ec007cec424f61f3"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0007_71st_Armored_Field_Artillery.jpg/full/556,/0/default.jpg",
+      "type": "Image",
+      "height": 411,
+      "width": 556,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0007_71st_Armored_Field_Artillery.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d215ec007cec424f61f3/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Movements of 71st Armored Field Artillery Battalion and Btry. \"B\"; 387th AA (AW) Battalion, part of 5th Armored Division, July 28 1944 to February 08 1945 "
+        ]
+      },
+      "height": 13165,
+      "width": 17818,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0007_71st_Armored_Field_Artillery.jpg/full/556,/0/default.jpg",
+          "type": "Image",
+          "height": 411,
+          "width": 556,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0007_71st_Armored_Field_Artillery.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d215ec007cec424f61f3/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d215ec007cec424f61f3/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0007_71st_Armored_Field_Artillery.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 13165,
+                "width": 17818,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0007_71st_Armored_Field_Artillery.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d215ec007cec424f61f3/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d217ec007cec424f61ff.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Pacific"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d217ec007cec424f61ff"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0014_Philippine_Campaign.jpg/full/394,/0/default.jpg",
+      "type": "Image",
+      "height": 442,
+      "width": 394,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0014_Philippine_Campaign.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61ff/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Pacific"
+        ]
+      },
+      "height": 14165,
+      "width": 12609,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0014_Philippine_Campaign.jpg/full/394,/0/default.jpg",
+          "type": "Image",
+          "height": 442,
+          "width": 394,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0014_Philippine_Campaign.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61ff/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61ff/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0014_Philippine_Campaign.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 14165,
+                "width": 12609,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0014_Philippine_Campaign.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61ff/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

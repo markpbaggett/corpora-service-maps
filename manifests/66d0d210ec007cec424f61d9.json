@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d210ec007cec424f61d9.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Travels of 70th A.I.B., 20th A.D."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Black and white map with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "70th "
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d210ec007cec424f61d9"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0020_70th_A.I.B.jpg/full/431,/0/default.jpg",
+      "type": "Image",
+      "height": 339,
+      "width": 431,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0020_70th_A.I.B.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d210ec007cec424f61d9/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Travels of 70th A.I.B., 20th A.D."
+        ]
+      },
+      "height": 10876,
+      "width": 13800,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0020_70th_A.I.B.jpg/full/431,/0/default.jpg",
+          "type": "Image",
+          "height": 339,
+          "width": 431,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0020_70th_A.I.B.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d210ec007cec424f61d9/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d210ec007cec424f61d9/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0020_70th_A.I.B.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 10876,
+                "width": 13800,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0020_70th_A.I.B.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d210ec007cec424f61d9/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

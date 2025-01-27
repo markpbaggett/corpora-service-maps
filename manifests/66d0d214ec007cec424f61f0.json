@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d214ec007cec424f61f0.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      " Route of the Seven Five Zero in the E.T.O"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Great map with lots of cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "750th Tank Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d214ec007cec424f61f0"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0017_Seven_Five_Zero.jpg/full/459,/0/default.jpg",
+      "type": "Image",
+      "height": 330,
+      "width": 459,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0017_Seven_Five_Zero.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d214ec007cec424f61f0/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for  Route of the Seven Five Zero in the E.T.O"
+        ]
+      },
+      "height": 10584,
+      "width": 14706,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0017_Seven_Five_Zero.jpg/full/459,/0/default.jpg",
+          "type": "Image",
+          "height": 330,
+          "width": 459,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0017_Seven_Five_Zero.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d214ec007cec424f61f0/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d214ec007cec424f61f0/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0017_Seven_Five_Zero.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 10584,
+                "width": 14706,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0017_Seven_Five_Zero.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d214ec007cec424f61f0/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d211ec007cec424f61dc.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "\u00a0Major operations of the 1106th Engineer Combat Group from 1 Nov. 1944 to 20 Apr. 1945"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Very detailed black and white route map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "1106th Engineer Combat Group"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d211ec007cec424f61dc"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0022_1106th_Engineer_Combat_Group.jpg/full/577,/0/default.jpg",
+      "type": "Image",
+      "height": 388,
+      "width": 577,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0022_1106th_Engineer_Combat_Group.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d211ec007cec424f61dc/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for \u00a0Major operations of the 1106th Engineer Combat Group from 1 Nov. 1944 to 20 Apr. 1945"
+        ]
+      },
+      "height": 6220,
+      "width": 9239,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0022_1106th_Engineer_Combat_Group.jpg/full/577,/0/default.jpg",
+          "type": "Image",
+          "height": 388,
+          "width": 577,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0022_1106th_Engineer_Combat_Group.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d211ec007cec424f61dc/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d211ec007cec424f61dc/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0022_1106th_Engineer_Combat_Group.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 6220,
+                "width": 9239,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0022_1106th_Engineer_Combat_Group.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d211ec007cec424f61dc/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

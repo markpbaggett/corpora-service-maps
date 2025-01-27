@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d5.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "ADSEC: in Action from the Thames to the Rhine"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Interesting map with city cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "European Theater of Operations Advance Section"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d20fec007cec424f61d5"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0012_ADSEC_in_Action.jpg/full/561,/0/default.jpg",
+      "type": "Image",
+      "height": 422,
+      "width": 561,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0012_ADSEC_in_Action.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d5/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for ADSEC: in Action from the Thames to the Rhine"
+        ]
+      },
+      "height": 13506,
+      "width": 17957,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0012_ADSEC_in_Action.jpg/full/561,/0/default.jpg",
+          "type": "Image",
+          "height": 422,
+          "width": 561,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0012_ADSEC_in_Action.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0012_ADSEC_in_Action.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 13506,
+                "width": 17957,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240419_0012_ADSEC_in_Action.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d5/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

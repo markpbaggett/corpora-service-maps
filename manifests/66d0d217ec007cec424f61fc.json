@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d217ec007cec424f61fc.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "European Theatre, 1340th Engineer Combat Battalion"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Very simple route map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "1340th Engineer Combat Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d217ec007cec424f61fc"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0016_1340th_Engineer_Battalion.jpg/full/411,/0/default.jpg",
+      "type": "Image",
+      "height": 452,
+      "width": 411,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0016_1340th_Engineer_Battalion.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fc/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for European Theatre, 1340th Engineer Combat Battalion"
+        ]
+      },
+      "height": 14472,
+      "width": 13153,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0016_1340th_Engineer_Battalion.jpg/full/411,/0/default.jpg",
+          "type": "Image",
+          "height": 452,
+          "width": 411,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0016_1340th_Engineer_Battalion.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fc/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fc/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0016_1340th_Engineer_Battalion.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 14472,
+                "width": 13153,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0016_1340th_Engineer_Battalion.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fc/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

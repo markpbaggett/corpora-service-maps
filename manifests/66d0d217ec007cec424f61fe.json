@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d217ec007cec424f61fe.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "The Odyssey of the Fourteenth Infantry Regt. from 7 February 45 to 8 May 45"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Route map with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "14th Infantry Regiment"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d217ec007cec424f61fe"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg/full/548,/0/default.jpg",
+      "type": "Image",
+      "height": 433,
+      "width": 548,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fe/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for The Odyssey of the Fourteenth Infantry Regt. from 7 February 45 to 8 May 45"
+        ]
+      },
+      "height": 6936,
+      "width": 8771,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg/full/548,/0/default.jpg",
+          "type": "Image",
+          "height": 433,
+          "width": 548,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fe/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fe/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 6936,
+                "width": 8771,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0028_Odyssey_of_the_Fourteenth_Infantry_Regt..jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d217ec007cec424f61fe/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

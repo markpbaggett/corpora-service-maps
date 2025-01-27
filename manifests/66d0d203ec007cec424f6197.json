@@ -1,0 +1,103 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d203ec007cec424f6197.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Half of \"March to Victory: 1277th Engineer Combat Battalion\" (G5721.S7 1945 .M37)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d203ec007cec424f6197"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240423_0024_1277_Engineer_Batt_0001.jpg/full/427,/0/default.jpg",
+      "type": "Image",
+      "height": 562,
+      "width": 427,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240423_0024_1277_Engineer_Batt_0001.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d203ec007cec424f6197/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Half of \"March to Victory: 1277th Engineer Combat Battalion\" (G5721.S7 1945 .M37)"
+        ]
+      },
+      "height": 18000,
+      "width": 13684,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240423_0024_1277_Engineer_Batt_0001.jpg/full/427,/0/default.jpg",
+          "type": "Image",
+          "height": 562,
+          "width": 427,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240423_0024_1277_Engineer_Batt_0001.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d203ec007cec424f6197/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d203ec007cec424f6197/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240423_0024_1277_Engineer_Batt_0001.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 18000,
+                "width": 13684,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240423_0024_1277_Engineer_Batt_0001.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d203ec007cec424f6197/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

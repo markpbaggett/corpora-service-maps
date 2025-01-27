@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d214ec007cec424f61ee.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "\u00a0First European Civil Affairs Regiment in the European Theater of Operations, 1944 - 1945"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Very simple map.  Badly faded"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "\u00a0First European Civil Affairs Regiment"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d214ec007cec424f61ee"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/First-European-Civil-Affairs-REgiment-in-the-European-Theater-of-Operations-1944---1945.jpg/full/562,/0/default.jpg",
+      "type": "Image",
+      "height": 449,
+      "width": 562,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/First-European-Civil-Affairs-REgiment-in-the-European-Theater-of-Operations-1944---1945.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d214ec007cec424f61ee/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for \u00a0First European Civil Affairs Regiment in the European Theater of Operations, 1944 - 1945"
+        ]
+      },
+      "height": 14396,
+      "width": 18000,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/First-European-Civil-Affairs-REgiment-in-the-European-Theater-of-Operations-1944---1945.jpg/full/562,/0/default.jpg",
+          "type": "Image",
+          "height": 449,
+          "width": 562,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/First-European-Civil-Affairs-REgiment-in-the-European-Theater-of-Operations-1944---1945.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d214ec007cec424f61ee/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d214ec007cec424f61ee/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/First-European-Civil-Affairs-REgiment-in-the-European-Theater-of-Operations-1944---1945.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 14396,
+                "width": 18000,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/First-European-Civil-Affairs-REgiment-in-the-European-Theater-of-Operations-1944---1945.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d214ec007cec424f61ee/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

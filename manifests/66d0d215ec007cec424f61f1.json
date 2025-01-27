@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d215ec007cec424f61f1.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "The Trek of the 5th Armored"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Detailed route map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "5th Armored Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d215ec007cec424f61f1"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0033_Trek_of_the_5th_Armored.jpg/full/699,/0/default.jpg",
+      "type": "Image",
+      "height": 371,
+      "width": 699,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0033_Trek_of_the_5th_Armored.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d215ec007cec424f61f1/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for The Trek of the 5th Armored"
+        ]
+      },
+      "height": 5946,
+      "width": 11190,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0033_Trek_of_the_5th_Armored.jpg/full/699,/0/default.jpg",
+          "type": "Image",
+          "height": 371,
+          "width": 699,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0033_Trek_of_the_5th_Armored.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d215ec007cec424f61f1/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d215ec007cec424f61f1/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0033_Trek_of_the_5th_Armored.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 5946,
+                "width": 11190,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0033_Trek_of_the_5th_Armored.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d215ec007cec424f61f1/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

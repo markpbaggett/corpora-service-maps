@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d212ec007cec424f61e3.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "\u00a0106th Evacuation Hospital, Semi-Mobile, activated - May 20, 1943, arrived in France - July 18, 1944"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Double sided map - with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "106th Evacuation Hospital"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d212ec007cec424f61e3"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/106th-Evacuation-Hospital-Semi-Mobile-activated---May-20-1943-arrived-in-France---July-18-1944_2.jpg/full/562,/0/default.jpg",
+      "type": "Image",
+      "height": 457,
+      "width": 562,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/106th-Evacuation-Hospital-Semi-Mobile-activated---May-20-1943-arrived-in-France---July-18-1944_2.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d212ec007cec424f61e3/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for \u00a0106th Evacuation Hospital, Semi-Mobile, activated - May 20, 1943, arrived in France - July 18, 1944"
+        ]
+      },
+      "height": 14634,
+      "width": 18000,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/106th-Evacuation-Hospital-Semi-Mobile-activated---May-20-1943-arrived-in-France---July-18-1944_2.jpg/full/562,/0/default.jpg",
+          "type": "Image",
+          "height": 457,
+          "width": 562,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/106th-Evacuation-Hospital-Semi-Mobile-activated---May-20-1943-arrived-in-France---July-18-1944_2.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d212ec007cec424f61e3/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d212ec007cec424f61e3/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/106th-Evacuation-Hospital-Semi-Mobile-activated---May-20-1943-arrived-in-France---July-18-1944_2.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 14634,
+                "width": 18000,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/106th-Evacuation-Hospital-Semi-Mobile-activated---May-20-1943-arrived-in-France---July-18-1944_2.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d212ec007cec424f61e3/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

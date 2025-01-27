@@ -1,0 +1,103 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d206ec007cec424f61a4.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Back of something.  Not sure what"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d206ec007cec424f61a4"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg/full/432,/0/default.jpg",
+      "type": "Image",
+      "height": 307,
+      "width": 432,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a4/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for Back of something.  Not sure what"
+        ]
+      },
+      "height": 9839,
+      "width": 13827,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg/full/432,/0/default.jpg",
+          "type": "Image",
+          "height": 307,
+          "width": 432,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a4/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a4/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 9839,
+                "width": 13827,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d206ec007cec424f61a4/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d219ec007cec424f6207.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "53rd Reinf. Bn Operations Map"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Basic route map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "53rd Reinforcement Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d219ec007cec424f6207"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0004_53rd_Reinf._Bn..jpg/full/749,/0/default.jpg",
+      "type": "Image",
+      "height": 438,
+      "width": 749,
+      "service": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0004_53rd_Reinf._Bn..jpg",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d219ec007cec424f6207/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 53rd Reinf. Bn Operations Map"
+        ]
+      },
+      "height": 7019,
+      "width": 11995,
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0004_53rd_Reinf._Bn..jpg/full/749,/0/default.jpg",
+          "type": "Image",
+          "height": 438,
+          "width": 749,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0004_53rd_Reinf._Bn..jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d219ec007cec424f6207/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d219ec007cec424f6207/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0004_53rd_Reinf._Bn..jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 7019,
+                "width": 11995,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0004_53rd_Reinf._Bn..jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d219ec007cec424f6207/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
