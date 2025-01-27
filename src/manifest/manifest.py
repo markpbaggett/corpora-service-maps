@@ -49,29 +49,32 @@ class ManifestCreator:
     def _build(self):
         thumbnail = self._get_thumbnail(self.data['iiif_url'])
         manifest = Manifest(
-            id=f"https://markpbaggett.github.io/corpra-service-maps/manifests/{self.data['id']}.json",
+            id=f"https://markpbaggett.github.io/corpora-service-maps/manifests/{self.data['id']}.json",
             label=self.label,
             metadata=self.metadata,
-            thumbnail=thumbnail,
+            # thumbnail=thumbnail,
             partOf=[
                 {
-                    "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+                    "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
                     "type": "Collection"
                 }
             ]
+        )
+        manifest.add_thumbnail(
+            image_url=self.data['iiif_url']
         )
         canvas = manifest.make_canvas_from_iiif(
             url=self.data['iiif_url'],
             thumbnail=thumbnail,
             label=f"Canvas for {self.label}",
-            id=f"https://markpbaggett.github.io/corpra-service-maps/{self.data['id']}/canvas/1",
-            anno_id=f"https://markpbaggett.github.io/corpra-service-maps/{self.data['id']}/canvas/1/annotation/1",
-            anno_page_id=f"https://markpbaggett.github.io/corpra-service-maps/{self.data['id']}/canvas/1/annotation/1/page/1",
+            id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1",
+            anno_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/1",
+            anno_page_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/1/page/1",
         )
         i = 0
         for annotation in self.annotations:
             canvas.make_annotation(
-                id=f"https://markpbaggett.github.io/corpra-service-maps/{self.data['id']}/canvas/1/annotation/{i}",
+                id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/{i}",
                 motivation="tagging",
                 body={
                     "type": "TextualBody",
@@ -79,7 +82,7 @@ class ManifestCreator:
                     "format": "text/plain",
                     "value": annotation["description"]},
                 target=f"{canvas.id}#xywh={annotation['image_url'].split('/')[-4]}",
-                anno_page_id=f"https://markpbaggett.github.io/corpra-service-maps/{self.data['id']}/canvas/1/annotation_page/{i}"
+                anno_page_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation_page/{i}"
             )
             i += 1
         x = manifest.json(indent=2)
@@ -103,7 +106,7 @@ class CollectionBuilder:
 
     def _build_collection(self):
         collection = Collection(
-            id=f"https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+            id=f"https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
             label="World War II Service Maps",
         )
         for path, directories, files in os.walk(self.path):
