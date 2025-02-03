@@ -47,47 +47,50 @@ class ManifestCreator:
         }
 
     def _build(self):
-        thumbnail = self._get_thumbnail(self.data['iiif_url'])
-        manifest = Manifest(
-            id=f"https://markpbaggett.github.io/corpora-service-maps/manifests/{self.data['id']}.json",
-            label=self.label,
-            metadata=self.metadata,
-            # thumbnail=thumbnail,
-            partOf=[
-                {
-                    "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
-                    "type": "Collection"
-                }
-            ]
-        )
-        manifest.add_thumbnail(
-            image_url=self.data['iiif_url']
-        )
-        canvas = manifest.make_canvas_from_iiif(
-            url=self.data['iiif_url'],
-            thumbnail=thumbnail,
-            label=f"Canvas for {self.label}",
-            id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1",
-            anno_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/1",
-            anno_page_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/1/page/1",
-        )
-        i = 0
-        for annotation in self.annotations:
-            canvas.make_annotation(
-                id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/{i}",
-                motivation="tagging",
-                body={
-                    "type": "TextualBody",
-                    "language": "en",
-                    "format": "text/plain",
-                    "value": annotation["description"]},
-                target=f"{canvas.id}#xywh={annotation['image_url'].split('/')[-4]}",
-                anno_page_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation_page/{i}"
+        try:
+            thumbnail = self._get_thumbnail(self.data['iiif_url'])
+            manifest = Manifest(
+                id=f"https://markpbaggett.github.io/corpora-service-maps/manifests/{self.data['id']}.json",
+                label=self.label,
+                metadata=self.metadata,
+                # thumbnail=thumbnail,
+                partOf=[
+                    {
+                        "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
+                        "type": "Collection"
+                    }
+                ]
             )
-            i += 1
-        x = manifest.json(indent=2)
-        manifest_as_json = json.loads(x)
-        return manifest_as_json
+            manifest.add_thumbnail(
+                image_url=self.data['iiif_url']
+            )
+            canvas = manifest.make_canvas_from_iiif(
+                url=self.data['iiif_url'],
+                thumbnail=thumbnail,
+                label=f"Canvas for {self.label}",
+                id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1",
+                anno_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/1",
+                anno_page_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/1/page/1",
+            )
+            i = 0
+            for annotation in self.annotations:
+                canvas.make_annotation(
+                    id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation/{i}",
+                    motivation="tagging",
+                    body={
+                        "type": "TextualBody",
+                        "language": "en",
+                        "format": "text/plain",
+                        "value": annotation["description"]},
+                    target=f"{canvas.id}#xywh={annotation['image_url'].split('/')[-4]}",
+                    anno_page_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation_page/{i}"
+                )
+                i += 1
+            x = manifest.json(indent=2)
+            manifest_as_json = json.loads(x)
+            return manifest_as_json
+        except KeyError as e:
+            print(f"Failed to generate manifest. Missing {e} on {self.data['title']}")
 
     def write(self):
         with open(f'manifests/{self.data['id']}.json', 'w') as outfile:
@@ -112,11 +115,14 @@ class CollectionBuilder:
         for path, directories, files in os.walk(self.path):
             for file in files:
                 with open(f'{self.path}/{file}', 'r') as new_file:
-                    data = new_file.read()
-                    json_data = json.loads(data)
-                    collection.make_manifest(
-                        id=json_data['id'],
-                        label=json_data['label']['en'][0],
-                    )
+                    try:
+                        data = new_file.read()
+                        json_data = json.loads(data)
+                        collection.make_manifest(
+                            id=json_data['id'],
+                            label=json_data['label']['en'][0],
+                        )
+                    except TypeError as e:
+                        print(f"Failed to add manifest. Encountered {e} on {self.path}")
         with open('collections/collection.json', 'w') as outfile:
             outfile.write(collection.json(indent=2))
