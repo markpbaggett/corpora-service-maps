@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://markpbaggett.github.io/corpra-service-maps/manifests/66d0d20fec007cec424f61d3.json",
+  "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d20fec007cec424f61d3.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -35,29 +35,19 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg/full/562,/0/default.jpg",
-      "type": "Image",
-      "height": 452,
-      "width": 562,
-      "service": [
-        {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg",
-          "type": "ImageService3",
-          "profile": "level2"
-        }
-      ],
-      "format": "image/jpeg"
+      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/7-26-2023/42-Inf.-Rainbow-Div._1.jpg",
+      "type": "Image"
     }
   ],
   "partOf": [
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/collections/collection.json",
+      "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
       "type": "Collection"
     }
   ],
   "items": [
     {
-      "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1",
+      "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d3/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -84,11 +74,11 @@
       ],
       "items": [
         {
-          "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1/annotation/1/page/1",
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d3/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1/annotation/1",
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d3/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -105,7 +95,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://markpbaggett.github.io/corpra-service-maps/66d0d20fec007cec424f61d3/canvas/1"
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d3/canvas/1"
             }
           ]
         }
