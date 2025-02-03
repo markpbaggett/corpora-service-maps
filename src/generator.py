@@ -41,5 +41,7 @@ if __name__ == "__main__":
         if 'title' in work:
             x = ManifestCreator(work)
             x.write()
+        else:
+            print(work['iiif_url'])
 
     CollectionBuilder('manifests')
