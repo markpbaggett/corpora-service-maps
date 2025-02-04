@@ -53,16 +53,13 @@ class ManifestCreator:
                 id=f"https://markpbaggett.github.io/corpora-service-maps/manifests/{self.data['id']}.json",
                 label=self.label,
                 metadata=self.metadata,
-                # thumbnail=thumbnail,
+                thumbnail=thumbnail,
                 partOf=[
                     {
                         "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
                         "type": "Collection"
                     }
                 ]
-            )
-            manifest.add_thumbnail(
-                image_url=self.data['iiif_url']
             )
             canvas = manifest.make_canvas_from_iiif(
                 url=self.data['iiif_url'],
