@@ -23,7 +23,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjIvcGFnZXMvcGFnZV8xL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIxXzAwMDIuanAy",
       "type": "Image"
     }
   ],
@@ -42,17 +42,17 @@
           "Canvas for Back of something.  Not sure what"
         ]
       },
-      "height": 9839,
-      "width": 13827,
+      "height": 6559,
+      "width": 9218,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg/full/432,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjIvcGFnZXMvcGFnZV8xL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIxXzAwMDIuanAy/full/2305,/0/default.jpg",
           "type": "Image",
-          "height": 307,
-          "width": 432,
+          "height": 1640,
+          "width": 2305,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjIvcGFnZXMvcGFnZV8xL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIxXzAwMDIuanAy",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -70,15 +70,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjIvcGFnZXMvcGFnZV8xL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIxXzAwMDIuanAy/full/full/0/default.jpg",
                 "type": "Image",
-                "height": 9839,
-                "width": 13827,
+                "height": 6559,
+                "width": 9218,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0015_Timberwolves_Back.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjIvcGFnZXMvcGFnZV8xL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIxXzAwMDIuanAy",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"

@@ -47,7 +47,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0024_79th_Over_the_Rhine.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE4L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExN18wMDAxLmpwMg==",
       "type": "Image"
     }
   ],
@@ -66,17 +66,17 @@
           "Canvas for Over the Rhine with the 79th Infantry Division"
         ]
       },
-      "height": 14205,
-      "width": 18000,
+      "height": 10997,
+      "width": 13935,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0024_79th_Over_the_Rhine.jpg/full/562,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE4L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExN18wMDAxLmpwMg==/full/3484,/0/default.jpg",
           "type": "Image",
-          "height": 443,
-          "width": 562,
+          "height": 2749,
+          "width": 3484,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0024_79th_Over_the_Rhine.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE4L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExN18wMDAxLmpwMg==",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -94,20 +94,100 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0024_79th_Over_the_Rhine.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE4L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExN18wMDAxLmpwMg==/full/full/0/default.jpg",
                 "type": "Image",
-                "height": 14205,
-                "width": 18000,
+                "height": 10997,
+                "width": 13935,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0024_79th_Over_the_Rhine.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE4L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExN18wMDAxLmpwMg==",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of troops crossing the Rhine under fire north of Duisburg</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1#xywh=937,900,6595,4196"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of devastated cities in the Ruhr region during the clearing of the Ruhr Pocket, March-April 1945.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1#xywh=7622,1947,4935,2416"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"And, on May 9, 'Victory in Europe Day,' the 79th Division was engaged in government of more than 1,000 square miles of the industrial Ruhr Valley.&nbsp; Each man was filled with pride in his combat record and confidence in the future.\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1#xywh=8357,941,3609,644"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American soldiers looking confused as they provide supplies for Displaced Persons (DPs), marked by flags from various European nations.&nbsp; There were more than 100,000 DPs in the Ruhr area under the direct supervision of the 79th.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1#xywh=8839,4537,4169,2983"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Caption: \"So, from Pont-a-Mousson through Luxembourg, over the bloody ground of the Ardennes Bulge, thorugh Liege to Tongeren, in Belgium.&nbsp; Some by train and some by truck, the division moved into place behind the Ninth Army. Passes to Brussels and Liege - 'Ja, Ja\" instead of \"Oui, Oui\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1#xywh=922,8949,2080,1028"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit crest of the 79th Infantry Division - Over the Rhine. With hand written \"Map No. 4\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f619f/canvas/1#xywh=7166,7931,5270,2043"
             }
           ]
         }

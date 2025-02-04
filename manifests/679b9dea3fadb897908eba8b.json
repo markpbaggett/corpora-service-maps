@@ -1,0 +1,185 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/679b9dea3fadb897908eba8b.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "The Battle of Bitche"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Detailed four-panel battle map"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "100th Infantry Division"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "679b9dea3fadb897908eba8b"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvODAvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDc5XzAwMDEuanAy",
+      "type": "Image"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for The Battle of Bitche"
+        ]
+      },
+      "height": 9243,
+      "width": 10897,
+      "thumbnail": [
+        {
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvODAvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDc5XzAwMDEuanAy/full/2724,/0/default.jpg",
+          "type": "Image",
+          "height": 2311,
+          "width": 2724,
+          "service": [
+            {
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvODAvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDc5XzAwMDEuanAy",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvODAvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDc5XzAwMDEuanAy/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 9243,
+                "width": 10897,
+                "service": [
+                  {
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvODAvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDc5XzAwMDEuanAy",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The Battle of Bitche</p>\n<p>From 11 December 1944 to 15 March 1945, Bitche, France and its highly systemitized fortifications on commanding terrain was a thorn in the side of the 100th Infantry Division. This period is described schematically in the diagrams on this page.&nbsp; It represents four phases of combat:</p>\n<p>1. The Attack on Bitche</p>\n<p>2. The Counterattack coincident with the Ardennes Offensive</p>\n<p>3. On the defensive.</p>\n<p>4. Resuming the Offensive and the capture of Bitche</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=696,713,1915,1386"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"On December 11, the 398th Infantry, spearheading the attack, moved to the northeast capturing Reyersviller and Reyersviller Ridge.&nbsp; The 397th Infantry moved North from Mouterhouse blocking to the East and protecting the Division's right flank.&nbsp; The 399th Infantry was in Division reserve.&nbsp; Moving north along the Reyersviller Ridge to a position west of Bitche, the 398th Infantry breached the Maginot Line, completing the mission on 20 December.&nbsp; At this point, the 399th Infantry was astride the Bitche-Lemberg road, the 397th Infantry blocking on the East.&nbsp; On 20 December, the Division was ordered to consolidate gains and prepare defensive positions.&nbsp;</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=691,1365,4777,3566"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Having occupied defensive positions shown in Sketch No. 1 of Sheet No. 1, the enemy attacked our positions at 010015 January, part of a general attack along the entire Seventh Army front.&nbsp; With the left and right flanks of the Division exposed by withdrawals of units on the right and left, the Division extended its lines and held practically all the sector originally held on 31 December.&nbsp; On 10 January the counterattack ceased. The 100th dug in.\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=678,4984,4826,3549"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"From 10 January - 15 March the defensive line was held through all kinds of weather.&nbsp; Thirty kilometers of front required almost every front line infantryman in the line guarding against further attacks.&nbsp; 1 March 1945 brought melting snows and the coming Spring offensive.\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=5514,1378,4708,3557"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"At 0500, 15 March the Division attacked to the North and in 48 hours had captured Bitche, Camp de Bitche, all forts of the Maginot Line surrounding Bitche, the high ground and towns surrouding Bitche to the North and Northeast.&nbsp; Extensive minefields and sporadic resistance were encountered as the 389th Infantry made the main effort on Bitche with the 397th&nbsp; on the left, the 399th on the Right.&nbsp; Twenty-four hours after Bitche fell, the Division was driving to the North and Northeast toward the heavily fortified Siegfried Line\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=5524,5009,4619,3493"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

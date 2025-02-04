@@ -47,7 +47,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0018_1104_Engr_Roer_River.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy",
       "type": "Image"
     }
   ],
@@ -66,17 +66,17 @@
           "Canvas for Engineer Operational Report Roer River Crossing at Julich"
         ]
       },
-      "height": 12787,
-      "width": 15140,
+      "height": 8499,
+      "width": 10063,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0018_1104_Engr_Roer_River.jpg/full/473,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy/full/2516,/0/default.jpg",
           "type": "Image",
-          "height": 399,
-          "width": 473,
+          "height": 2125,
+          "width": 2516,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0018_1104_Engr_Roer_River.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -94,20 +94,76 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0018_1104_Engr_Roer_River.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy/full/full/0/default.jpg",
                 "type": "Image",
-                "height": 12787,
-                "width": 15140,
+                "height": 8499,
+                "width": 10063,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-04-19/20240422_0018_1104_Engr_Roer_River.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Map of Roer River in Flood Stage Showing River Crossing Sites, Scale 1:10,000\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1#xywh=2843,1125,4005,5315"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Treadway Bridge: Under Construction at Site 5. This bridge was constructed after flood water receded at the site of destroyed timber bridge.\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1#xywh=779,699,2096,2459"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Bailey Bridge Under Construction at Site 2:&nbsp;</p>\n<p>Double double Class 60 was built after the original offensive on the site of destroyed masonry arch bridge.&nbsp; Cribbing was built up from the demolished stone piers to support the new bridge\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1#xywh=778,3112,2110,2499"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Foot Bridge Under Construction</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1#xywh=761,5584,2049,2112"
             }
           ]
         }

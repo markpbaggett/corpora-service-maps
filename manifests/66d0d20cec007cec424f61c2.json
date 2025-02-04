@@ -47,7 +47,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0014_188th_Field_Artillery_Battalion.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNDIvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDQxXzAwMDEuanAy",
       "type": "Image"
     }
   ],
@@ -66,17 +66,17 @@
           "Canvas for Operations Against Germany World War II, 188th Field Artillery Battalion, 155mm Howitzer, Trac-drawn, First U.S. Army 1944-45"
         ]
       },
-      "height": 9783,
-      "width": 13912,
+      "height": 6522,
+      "width": 9275,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0014_188th_Field_Artillery_Battalion.jpg/full/434,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNDIvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDQxXzAwMDEuanAy/full/2319,/0/default.jpg",
           "type": "Image",
-          "height": 305,
-          "width": 434,
+          "height": 1631,
+          "width": 2319,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0014_188th_Field_Artillery_Battalion.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNDIvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDQxXzAwMDEuanAy",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -94,15 +94,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0014_188th_Field_Artillery_Battalion.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNDIvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDQxXzAwMDEuanAy/full/full/0/default.jpg",
                 "type": "Image",
-                "height": 9783,
-                "width": 13912,
+                "height": 6522,
+                "width": 9275,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0014_188th_Field_Artillery_Battalion.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNDIvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDQxXzAwMDEuanAy",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"

@@ -47,7 +47,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNzEvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDcwXzAwMDEuanAy",
       "type": "Image"
     }
   ],
@@ -66,17 +66,17 @@
           "Canvas for Advance of the 4th Infantry Division from Utah Beach to the Siegfried Line"
         ]
       },
-      "height": 10820,
-      "width": 14024,
+      "height": 7213,
+      "width": 9349,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg/full/438,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNzEvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDcwXzAwMDEuanAy/full/2337,/0/default.jpg",
           "type": "Image",
-          "height": 338,
-          "width": 438,
+          "height": 1803,
+          "width": 2337,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNzEvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDcwXzAwMDEuanAy",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -94,15 +94,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNzEvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDcwXzAwMDEuanAy/full/full/0/default.jpg",
                 "type": "Image",
-                "height": 10820,
-                "width": 14024,
+                "height": 7213,
+                "width": 9349,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0008__Advance_of_4th_Infantry_Division.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNzEvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDcwXzAwMDEuanAy",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"

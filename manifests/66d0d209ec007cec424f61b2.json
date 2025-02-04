@@ -47,7 +47,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0023_79th_To_The_Rhine.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE3L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNl8wMDAxLmpwMg==",
       "type": "Image"
     }
   ],
@@ -66,17 +66,17 @@
           "Canvas for To the Rhine with the 79th Infantry Division, 25 Oct to 14 Feb. 1945"
         ]
       },
-      "height": 14508,
-      "width": 18000,
+      "height": 11127,
+      "width": 13805,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0023_79th_To_The_Rhine.jpg/full/562,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE3L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNl8wMDAxLmpwMg==/full/3451,/0/default.jpg",
           "type": "Image",
-          "height": 453,
-          "width": 562,
+          "height": 2782,
+          "width": 3451,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0023_79th_To_The_Rhine.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE3L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNl8wMDAxLmpwMg==",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -94,20 +94,124 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0023_79th_To_The_Rhine.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE3L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNl8wMDAxLmpwMg==/full/full/0/default.jpg",
                 "type": "Image",
-                "height": 14508,
-                "width": 18000,
+                "height": 11127,
+                "width": 13805,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0023_79th_To_The_Rhine.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE3L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNl8wMDAxLmpwMg==",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of American soldiers watching a performance.&nbsp; Female singer, clown juggling, piano player.&nbsp; Sign \"USO Camp Shows.\"</p>\n<p>Caption: \"Only eight days in this rest period - days filled with training of reinforcements, more repair and maintenance, a few movies, clean clothes, then once more - destination, Belgium\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=869,1273,2920,4052"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"After sixteen days in a rest area southwest of Luneville spent in maintenance, repair, and training the division was alerted for the race to the Rhine\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=900,6878,2148,979"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"More than two months after harrying the fleeing Germans through Saverne Gap the Division moved westward again on February 4 headed for Pont-a-Mousson and rest\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=5477,4663,2300,1141"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of destroyed German column.&nbsp; Fighting vehicles including tanks, artillery, horse carts, and a crashed plane.&nbsp; Dead mule in foreground</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=6885,6420,4946,3416"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American troops entrenched on a hillside in winter.&nbsp; Machine gun position and mounted artillery.&nbsp; December 1944 in Eastern France.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=6311,1900,5030,2741"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of a small building with a blue sign front. \"You Are Now Entering Germany Through the Courtesy of the 79th Infantry Division.\" Sign has the division's Cross of Lorraine.&nbsp; Small object, maybe a can, below the sign.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=11534,1257,1380,1477"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Black and white cartoon of fighting during Operation Northwind.&nbsp; Not colored like cartoons in this series.&nbsp; Possibly a different artist.&nbsp; American soldiers advancing through a village with shellfire.&nbsp; Several bodies in the streets.&nbsp; Street sign pointing toward Hatten. \"House by house and stone by stone, lacking blood plasma and ammunition, the 315 Inf made of Hatten and Rittershoffen a burial ground for many of Hitler's best troops.\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=10862,4677,2236,2587"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit crest of the 79th Infantry (the Cross of Lorraine). Hand written \"map no. 3\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=1114,8107,4966,2015"
             }
           ]
         }

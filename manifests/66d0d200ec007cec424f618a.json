@@ -47,7 +47,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0025_79th_Through_France.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE1L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNF8wMDAxLmpwMg==",
       "type": "Image"
     }
   ],
@@ -66,17 +66,17 @@
           "Canvas for Through France With the 79th Infantry Division"
         ]
       },
-      "height": 14373,
-      "width": 18000,
+      "height": 11127,
+      "width": 13935,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0025_79th_Through_France.jpg/full/562,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE1L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNF8wMDAxLmpwMg==/full/3484,/0/default.jpg",
           "type": "Image",
-          "height": 449,
-          "width": 562,
+          "height": 2782,
+          "width": 3484,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0025_79th_Through_France.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE1L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNF8wMDAxLmpwMg==",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -94,20 +94,76 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0025_79th_Through_France.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE1L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNF8wMDAxLmpwMg==/full/full/0/default.jpg",
                 "type": "Image",
-                "height": 14373,
-                "width": 18000,
+                "height": 11127,
+                "width": 13935,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-07-01/0025_79th_Through_France.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE1L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNF8wMDAxLmpwMg==",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Description of the Normandy Landing and campaign. Drawing of Fort du Roule (Cherbourg).&nbsp; Image of soldiers and ships coming ashore.&nbsp; Image of a ruined Norman town</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1#xywh=935,973,5333,5497"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Pursuit across central France</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1#xywh=4157,6506,2623,2216"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Description of the crossing of the Seine.&nbsp; Text in red; \"At 2130 on the darkest, rainiest Aug 19 on record the division received orders to cross the Seine.&nbsp; By 0300 the 313th had one battalion across - the first Allied troops over the Seine.&nbsp; The Luftwaffe came in swarms but the 463 AAA bn made the homeward flight a lonely ride.&nbsp; The division artillery's murderous fire made a continuous pattern of death.\"&nbsp; Drawing of soldiers advancing in darkness.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1#xywh=4157,6506,2623,2216"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit crest of the 79th Infantry Division (Cross of Lorraine).&nbsp; Hand written \"map no. 1\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1#xywh=8305,8007,4546,2166"
             }
           ]
         }

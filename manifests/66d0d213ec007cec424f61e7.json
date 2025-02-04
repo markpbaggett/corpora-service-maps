@@ -23,7 +23,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0013a_IV_Corps_in_the_Italian_Campaign.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNC9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDNfMDAwMS5qcDI=",
       "type": "Image"
     }
   ],
@@ -46,13 +46,13 @@
       "width": 11052,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0013a_IV_Corps_in_the_Italian_Campaign.jpg/full/690,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNC9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDNfMDAwMS5qcDI=/full/2763,/0/default.jpg",
           "type": "Image",
-          "height": 473,
-          "width": 690,
+          "height": 1894,
+          "width": 2763,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0013a_IV_Corps_in_the_Italian_Campaign.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNC9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDNfMDAwMS5qcDI=",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -70,15 +70,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0013a_IV_Corps_in_the_Italian_Campaign.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNC9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDNfMDAwMS5qcDI=/full/full/0/default.jpg",
                 "type": "Image",
                 "height": 7575,
                 "width": 11052,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0013a_IV_Corps_in_the_Italian_Campaign.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvNC9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDNfMDAwMS5qcDI=",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"

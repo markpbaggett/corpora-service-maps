@@ -47,7 +47,7 @@
   ],
   "thumbnail": [
     {
-      "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0025_20th_Armored_Division.jpg",
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzQvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDMzXzAwMDEuanAy",
       "type": "Image"
     }
   ],
@@ -70,13 +70,13 @@
       "width": 10924,
       "thumbnail": [
         {
-          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0025_20th_Armored_Division.jpg/full/682,/0/default.jpg",
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzQvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDMzXzAwMDEuanAy/full/2731,/0/default.jpg",
           "type": "Image",
-          "height": 488,
-          "width": 682,
+          "height": 1954,
+          "width": 2731,
           "service": [
             {
-              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0025_20th_Armored_Division.jpg",
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzQvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDMzXzAwMDEuanAy",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -94,20 +94,148 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0025_20th_Armored_Division.jpg/full/max/0/default.jpg",
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzQvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDMzXzAwMDEuanAy/full/full/0/default.jpg",
                 "type": "Image",
                 "height": 7816,
                 "width": 10924,
                 "service": [
                   {
-                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/2024-08-13/20240813_0025_20th_Armored_Division.jpg",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzQvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDMzXzAwMDEuanAy",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ],
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Comical \"Time Table\" for unit's activities in Europe:</p>\n<p>6 Feb - We Sail!</p>\n<p>18 Feb - We Arrive!</p>\n<p>10 April - We Cross the Rhine</p>\n<p>28 April - We Cross the Danube</p>\n<p>30 April - Munich: 'The 20th Armored Division Roars in from the West'</p>\n<p>4 May - Salzburg: The End of the Road</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=5328,971,1385,1464"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Crossing from south coast of England to Le Havre. Cartoon of ships (the Barry and the Brazil) and a mermaid holding the division crest.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=462,3093,1590,2044"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Humerous cartoon of the unit advancing from Le Havre to Cambrai.&nbsp; Something may have happened near Amiens, because a tank is depicting losing its tracks.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=1641,3715,1980,1279"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon depicting the unit crossing into Germany.&nbsp; Sign reading \"You Are Now Entering Germany,\" with an arrow below it pointing back into France reading \"Fraternization.\"</p>\n<p>Small image of an American jeep.&nbsp; Self-propelled gun firing across the Rhine.&nbsp; Bridge south of Bonn.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=4062,2864,1518,854"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of German bomber, labelled \"Bed Check Charlie\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=5931,2948,1406,1156"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Humerous image of Hitler watching anxiously from Berlin</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=7481,1133,1155,818"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depiction of the assault across the Danube and the division's arrival in Munich.&nbsp; German soldiers surrendering.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=7102,4060,1439,1276"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of an American soldier raising the American flag above Salzburg.&nbsp; Another American soldier smiles while he lies down in the shade of a tree with his helmet off and his rifle lying next to him.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=8506,4648,951,954"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of the Eiffel Tower</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=2661,4933,658,543"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Compass rose for division maps.&nbsp; Soldier in red with explosion behind him.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=827,5241,1490,1538"
             }
           ]
         }
