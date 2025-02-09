@@ -47,8 +47,18 @@
   ],
   "thumbnail": [
     {
-      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTIzL3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDEyMl8wMDAxLmpwMg==",
-      "type": "Image"
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTIzL3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDEyMl8wMDAxLmpwMg==/full/4528,/0/default.jpg",
+      "type": "Image",
+      "height": 3655,
+      "width": 4528,
+      "service": [
+        {
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTIzL3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDEyMl8wMDAxLmpwMg==",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
     }
   ],
   "partOf": [
@@ -108,6 +118,182 @@
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Half-tracked AAA vehicle (need to identify)</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=1348,1470,4023,2207"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Need to identify</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=14023,1774,2211,1751"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit's arrival and service in the UK. Includes arrival at Avonmouth (October 10, 1944) training in Hungerford (villa Little Cote) and Ramsbury (parachute training), then departure from Southampton on November 28, 1944.&nbsp; Avonmouth is geolocated differently on this map.&nbsp; It appears north of the other sites, but is actually to the west.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=1382,3534,3889,2796"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit crossing from Southampton to France (November-December 1944), arrival at Red Horse Assembly Area in the rain (December 2, 1944). Red Horse was one of the \"cigarette camps,\" named after popular brands, in the Le Havre area.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=2778,5881,3291,2809"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Image of Paris.&nbsp; Dancing girls, woman on bicycle, man with a wolf face chasing a woman, French and American flags on top of the Eiffel Tower, Notre Dame, Arc de Triomphe</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=5335,8663,1894,1402"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Image of a chateau in Reims with a small outbuilding. German Messerschmidt strafing the position. December 26, 1944.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=7692,8123,1659,1293"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Battalion Record</p>\n<p>Activated Jan. 20, 1943</p>\n<p>Overseas Sept. 29, 1944</p>\n<p>Committed Dec. 10, 1944</p>\n<p>VE-Day May 9, 1945</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=1162,11335,2323,1790"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit Crest, Third Army</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=3897,11504,2443,1915"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit Crest - 549th AAA Battalion</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=6950,10894,4253,2499"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit crest, 87th Infantry Division (the Golden Acorn)</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=11686,11079,2432,2337"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Battle Participations</p>\n<p>Ardennes</p>\n<p>Rhineland</p>\n<p>Central Europe</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=14648,11240,2288,1947"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Swastika broken into pieces.&nbsp; Smoke</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=12689,8074,2148,2482"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of the city of Antwerp (June 25, 1945).&nbsp; Unit arrived after occupation service on the German-Czech border.</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=7713,5099,1846,1319"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Travel through Verdun (December 8, 1945).&nbsp; Image of a figure on a bridge</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d219ec007cec424f6208/canvas/1#xywh=9182,8478,1157,683"
             }
           ]
         }

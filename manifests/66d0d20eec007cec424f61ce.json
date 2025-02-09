@@ -47,8 +47,18 @@
   ],
   "thumbnail": [
     {
-      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvOC9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDdfMDAwMS5qcDI=",
-      "type": "Image"
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvOC9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDdfMDAwMS5qcDI=/full/3287,/0/default.jpg",
+      "type": "Image",
+      "height": 2061,
+      "width": 3287,
+      "service": [
+        {
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvOC9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDdfMDAwMS5qcDI=",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
     }
   ],
   "partOf": [

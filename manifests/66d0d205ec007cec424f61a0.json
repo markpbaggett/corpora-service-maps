@@ -47,8 +47,18 @@
   ],
   "thumbnail": [
     {
-      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy",
-      "type": "Image"
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy/full/2516,/0/default.jpg",
+      "type": "Image",
+      "height": 2125,
+      "width": 2516,
+      "service": [
+        {
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
     }
   ],
   "partOf": [
@@ -164,6 +174,42 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1#xywh=761,5584,2049,2112"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Heavy Pontoon Bridge under construction above site 2. This was the first vehicular bridge in the offensive across the Roer River\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1#xywh=6892,942,2405,2084"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Infantry Support Bridge under construction at Site 3</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1#xywh=6922,3157,2364,1953"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Treadway Bridge knocked out by enemy action at Site 2. Treadway bridge replacing this destroyed bridge can be seen in the distance.\"</p>",
+                "format": "text/plain",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a0/canvas/1#xywh=7145,5563,1852,2245"
             }
           ]
         }

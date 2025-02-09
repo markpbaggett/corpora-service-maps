@@ -47,8 +47,18 @@
   ],
   "thumbnail": [
     {
-      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzkvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDM4XzAwMDEuanAy",
-      "type": "Image"
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzkvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDM4XzAwMDEuanAy/full/2305,/0/default.jpg",
+      "type": "Image",
+      "height": 3035,
+      "width": 2305,
+      "service": [
+        {
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzkvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDM4XzAwMDEuanAy",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
     }
   ],
   "partOf": [
@@ -108,26 +118,6 @@
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f6189/canvas/1"
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f6189/canvas/1/annotation_page/0",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f6189/canvas/1/annotation/0",
-              "type": "Annotation",
-              "motivation": "tagging",
-              "body": {
-                "type": "TextualBody",
-                "value": "<p>A man sleeping in a bed.</p>",
-                "format": "text/plain",
-                "language": "en"
-              },
-              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f6189/canvas/1#xywh=9745,3118,900,652"
             }
           ]
         }
