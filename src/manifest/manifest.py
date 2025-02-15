@@ -77,7 +77,7 @@ class ManifestCreator:
                     body={
                         "type": "TextualBody",
                         "language": "en",
-                        "format": "text/plain",
+                        "format": "text/html",
                         "value": annotation["description"]},
                     target=f"{canvas.id}#xywh={annotation['image_url'].split('/')[-4]}",
                     anno_page_id=f"https://markpbaggett.github.io/corpora-service-maps/{self.data['id']}/canvas/1/annotation_page/{i}"
