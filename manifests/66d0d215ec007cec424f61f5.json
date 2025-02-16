@@ -134,7 +134,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Comical \"Time Table\" for unit's activities in Europe:</p>\n<p>6 Feb - We Sail!</p>\n<p>18 Feb - We Arrive!</p>\n<p>10 April - We Cross the Rhine</p>\n<p>28 April - We Cross the Danube</p>\n<p>30 April - Munich: 'The 20th Armored Division Roars in from the West'</p>\n<p>4 May - Salzburg: The End of the Road</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=5328,971,1385,1464"
@@ -146,7 +146,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Crossing from south coast of England to Le Havre. Cartoon of ships (the Barry and the Brazil) and a mermaid holding the division crest.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=462,3093,1590,2044"
@@ -158,7 +158,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Humerous cartoon of the unit advancing from Le Havre to Cambrai.&nbsp; Something may have happened near Amiens, because a tank is depicting losing its tracks.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=1641,3715,1980,1279"
@@ -170,7 +170,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon depicting the unit crossing into Germany.&nbsp; Sign reading \"You Are Now Entering Germany,\" with an arrow below it pointing back into France reading \"Fraternization.\"</p>\n<p>Small image of an American jeep.&nbsp; Self-propelled gun firing across the Rhine.&nbsp; Bridge south of Bonn.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=4062,2864,1518,854"
@@ -182,7 +182,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon of German bomber, labelled \"Bed Check Charlie\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=5931,2948,1406,1156"
@@ -194,7 +194,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Humerous image of Hitler watching anxiously from Berlin</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=7481,1133,1155,818"
@@ -206,7 +206,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Depiction of the assault across the Danube and the division's arrival in Munich.&nbsp; German soldiers surrendering.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=7102,4060,1439,1276"
@@ -218,7 +218,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon of an American soldier raising the American flag above Salzburg.&nbsp; Another American soldier smiles while he lies down in the shade of a tree with his helmet off and his rifle lying next to him.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=8506,4648,951,954"
@@ -230,7 +230,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon of the Eiffel Tower</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=2661,4933,658,543"
@@ -242,7 +242,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Compass rose for division maps.&nbsp; Soldier in red with explosion behind him.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d215ec007cec424f61f5/canvas/1#xywh=827,5241,1490,1538"

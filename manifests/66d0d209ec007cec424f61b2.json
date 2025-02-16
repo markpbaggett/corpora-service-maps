@@ -134,7 +134,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon of American soldiers watching a performance.&nbsp; Female singer, clown juggling, piano player.&nbsp; Sign \"USO Camp Shows.\"</p>\n<p>Caption: \"Only eight days in this rest period - days filled with training of reinforcements, more repair and maintenance, a few movies, clean clothes, then once more - destination, Belgium\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=869,1273,2920,4052"
@@ -146,7 +146,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"After sixteen days in a rest area southwest of Luneville spent in maintenance, repair, and training the division was alerted for the race to the Rhine\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=900,6878,2148,979"
@@ -158,7 +158,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"More than two months after harrying the fleeing Germans through Saverne Gap the Division moved westward again on February 4 headed for Pont-a-Mousson and rest\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=5477,4663,2300,1141"
@@ -170,7 +170,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon of destroyed German column.&nbsp; Fighting vehicles including tanks, artillery, horse carts, and a crashed plane.&nbsp; Dead mule in foreground</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=6885,6420,4946,3416"
@@ -182,7 +182,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>American troops entrenched on a hillside in winter.&nbsp; Machine gun position and mounted artillery.&nbsp; December 1944 in Eastern France.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=6311,1900,5030,2741"
@@ -194,7 +194,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon of a small building with a blue sign front. \"You Are Now Entering Germany Through the Courtesy of the 79th Infantry Division.\" Sign has the division's Cross of Lorraine.&nbsp; Small object, maybe a can, below the sign.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=11534,1257,1380,1477"
@@ -206,7 +206,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Black and white cartoon of fighting during Operation Northwind.&nbsp; Not colored like cartoons in this series.&nbsp; Possibly a different artist.&nbsp; American soldiers advancing through a village with shellfire.&nbsp; Several bodies in the streets.&nbsp; Street sign pointing toward Hatten. \"House by house and stone by stone, lacking blood plasma and ammunition, the 315 Inf made of Hatten and Rittershoffen a burial ground for many of Hitler's best troops.\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=10862,4677,2236,2587"
@@ -218,7 +218,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit crest of the 79th Infantry (the Cross of Lorraine). Hand written \"map no. 3\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b2/canvas/1#xywh=1114,8107,4966,2015"

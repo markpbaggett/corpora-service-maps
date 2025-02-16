@@ -134,7 +134,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Attached and Supporting Units</p>\n<p>609 Field Artillery Bn</p>\n<p>Co A, 81 Chemical Mortar BN</p>\n<p>Co A, 635 Tank Destroyer BN</p>\n<p>Co C, 271 Engineer BN</p>\n<p>Co C, 371 Medical BN</p>\n<p>Co C, 761 Tank BN</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d216ec007cec424f61f7/canvas/1#xywh=754,5186,1600,732"
@@ -146,7 +146,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"Soldiers of the 66th Infantry Regiment, I present you with graphic history of two campaigns, Battle of the Rhineland and Battle of Central Europe, in which this Regiment has so gallantly fought.</p>\n<p>For you soldiers who took part in these campaigns, in the years to come it will serve to refreshen your memory as you reminisce with yoru families and friends in the security of your homes.</p>\n<p>For those soldiers who subsequently join this splendid organization, it will furnish them with an historical background of the great deeds accomplished by the founders of this Regiment in the struggle for World Freedom.</p>\n<p>A.J. Regnier, Colonel, 66th Inf, Commanding\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d216ec007cec424f61f7/canvas/1#xywh=9055,5151,3197,1489"
@@ -158,7 +158,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"On 13 March 45, the 66th Infantry began the first combat action in its history.&nbsp; During 58 days of continual fighting, the Regiment covered nearly 600 miles, mostly by foot, and captured 28,623 enemy.&nbsp; On 9. May 45 - VE Day - an additional 18,300 troops, principally from the 1st SS Panzer Corps, surrendered, bringing the total number of prisoners taken to 46,923.\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d216ec007cec424f61f7/canvas/1#xywh=816,5926,3241,639"
@@ -170,7 +170,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit's departure from New York (January 26), arrival in the UK, subsequent travel to Le Havre (February 7) and training north of Paris (February 8-March 9). Includes small image of Eiffel Tower</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d216ec007cec424f61f7/canvas/1#xywh=900,881,2326,2603"
@@ -182,7 +182,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit's approach to the Rhine River, March 1945. Siegfried Line</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d216ec007cec424f61f7/canvas/1#xywh=2957,2455,2759,1971"
@@ -194,7 +194,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit's route across the Rhine and Main Valleys to Fulda.&nbsp;</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d216ec007cec424f61f7/canvas/1#xywh=3985,1144,2884,1710"
@@ -206,7 +206,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Advance along the Danube, with crossing at Sulzbach. Crossing the Isar (near Ganacker) and Inn Rivers. \"Goering's Castle\" at Burg Veldenstein. Seized a dam on the Inn River on May 2.&nbsp; Met Red Army near Steyr on May 10.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d216ec007cec424f61f7/canvas/1#xywh=6813,855,4935,4229"

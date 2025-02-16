@@ -134,7 +134,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Map section depicting the advance of the 397th, 398th, and 399th Infantry from April 5-12, 1945</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba87/canvas/1#xywh=758,1610,4469,5432"
@@ -146,7 +146,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Depicts assault on the city by 397th, 398th, and 399th Infantry, along with German counter-attack. April 5-12, 1945</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba87/canvas/1#xywh=5674,1814,4456,5212"
@@ -158,7 +158,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"The Battle for Heilbronn</p>\n<p>One of the bloodiest battles fought by the 100th Division was the battle for Heilbronn, key railroad and defense metropolis in the heart of Germany.&nbsp; The battle began on 3 April when the 3rd Bn, 398th Infantry was attached to an armored division as Infantry to establish a bridgehead, for armor.&nbsp; A change in Corps plans necessitated a frontal assault across the Neckar River by the 39th Infantry and later by the 399th Infantry when the armored division was taken from the area.&nbsp; Building by building, block by block, the doughs advanced supported by magnificent artillery and air support until on 12 April at 1530, the city was declared cleared\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba87/canvas/1#xywh=3975,7100,2960,1203"
@@ -170,7 +170,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit crest of the 374th Field Artillery Battalion</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba87/canvas/1#xywh=1515,7598,1039,908"
@@ -182,7 +182,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit crest of the 375th Field Artillery Battalion</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba87/canvas/1#xywh=3031,7046,885,885"
@@ -194,7 +194,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit crest of the 925th Field Artillery Battalion</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba87/canvas/1#xywh=7109,7080,803,908"
@@ -206,7 +206,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit crest of the 373rd Field Artillery Battalion</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba87/canvas/1#xywh=8576,7648,750,825"

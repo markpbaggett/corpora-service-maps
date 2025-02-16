@@ -134,7 +134,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon of division units chasing fleeing Germans northeast after crossing the Seine.&nbsp; Captions \"Upon breaking out of the Seine Bridgehead the division started a record breaking advance - destination - Belgium\" and \"One of the fastest advances of comparable distance by any infantry division in wartime.\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d202ec007cec424f6193/canvas/1#xywh=259,239,4132,7242"
@@ -146,7 +146,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Badly damaged Reims Cathedral</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d202ec007cec424f6193/canvas/1#xywh=3742,4414,2108,1699"
@@ -158,7 +158,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Men loading and unloading trucks near Chalons&nbsp;</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d202ec007cec424f6193/canvas/1#xywh=3742,4414,2108,1699"
@@ -170,7 +170,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>German combat team (Team Wetzel) cut off near Neufchateau on September 14.&nbsp; Commander Col. Wetzel negotiated the terms of the surrender of his unit.&nbsp;</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d202ec007cec424f6193/canvas/1#xywh=8157,8452,3418,1715"
@@ -182,7 +182,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"On September 12 the 341 Inf, disregarding blown bridges and bullets, battered across to the first Moselle Bridgehead\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d202ec007cec424f6193/canvas/1#xywh=11413,8668,1527,1245"
@@ -194,7 +194,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Cartoon of mortar unit firing and infantry advancing</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d202ec007cec424f6193/canvas/1#xywh=10578,4374,2588,3886"
@@ -206,7 +206,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"On October 24, after 127 days of continuous combat, the division was relieved and moved into assembly south of Luneville\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d202ec007cec424f6193/canvas/1#xywh=9643,1570,2895,1716"
@@ -218,7 +218,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit crest of the 79th Infantry Division (the Cross of Lorraine). Hand written \"map no. 2\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d202ec007cec424f6193/canvas/1#xywh=2012,7908,4680,2092"

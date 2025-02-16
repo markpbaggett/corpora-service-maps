@@ -134,7 +134,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>The Battle of Bitche</p>\n<p>From 11 December 1944 to 15 March 1945, Bitche, France and its highly systemitized fortifications on commanding terrain was a thorn in the side of the 100th Infantry Division. This period is described schematically in the diagrams on this page.&nbsp; It represents four phases of combat:</p>\n<p>1. The Attack on Bitche</p>\n<p>2. The Counterattack coincident with the Ardennes Offensive</p>\n<p>3. On the defensive.</p>\n<p>4. Resuming the Offensive and the capture of Bitche</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=696,713,1915,1386"
@@ -146,7 +146,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"On December 11, the 398th Infantry, spearheading the attack, moved to the northeast capturing Reyersviller and Reyersviller Ridge.&nbsp; The 397th Infantry moved North from Mouterhouse blocking to the East and protecting the Division's right flank.&nbsp; The 399th Infantry was in Division reserve.&nbsp; Moving north along the Reyersviller Ridge to a position west of Bitche, the 398th Infantry breached the Maginot Line, completing the mission on 20 December.&nbsp; At this point, the 399th Infantry was astride the Bitche-Lemberg road, the 397th Infantry blocking on the East.&nbsp; On 20 December, the Division was ordered to consolidate gains and prepare defensive positions.&nbsp;</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=691,1365,4777,3566"
@@ -158,7 +158,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"Having occupied defensive positions shown in Sketch No. 1 of Sheet No. 1, the enemy attacked our positions at 010015 January, part of a general attack along the entire Seventh Army front.&nbsp; With the left and right flanks of the Division exposed by withdrawals of units on the right and left, the Division extended its lines and held practically all the sector originally held on 31 December.&nbsp; On 10 January the counterattack ceased. The 100th dug in.\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=678,4984,4826,3549"
@@ -170,7 +170,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"From 10 January - 15 March the defensive line was held through all kinds of weather.&nbsp; Thirty kilometers of front required almost every front line infantryman in the line guarding against further attacks.&nbsp; 1 March 1945 brought melting snows and the coming Spring offensive.\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=5514,1378,4708,3557"
@@ -182,7 +182,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>\"At 0500, 15 March the Division attacked to the North and in 48 hours had captured Bitche, Camp de Bitche, all forts of the Maginot Line surrounding Bitche, the high ground and towns surrouding Bitche to the North and Northeast.&nbsp; Extensive minefields and sporadic resistance were encountered as the 389th Infantry made the main effort on Bitche with the 397th&nbsp; on the left, the 399th on the Right.&nbsp; Twenty-four hours after Bitche fell, the Division was driving to the North and Northeast toward the heavily fortified Siegfried Line\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/679b9dea3fadb897908eba8b/canvas/1#xywh=5524,5009,4619,3493"

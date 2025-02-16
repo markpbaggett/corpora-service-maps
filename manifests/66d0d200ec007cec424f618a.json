@@ -134,7 +134,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Description of the Normandy Landing and campaign. Drawing of Fort du Roule (Cherbourg).&nbsp; Image of soldiers and ships coming ashore.&nbsp; Image of a ruined Norman town</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1#xywh=935,973,5333,5497"
@@ -146,7 +146,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Pursuit across central France</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1#xywh=4157,6506,2623,2216"
@@ -158,7 +158,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Description of the crossing of the Seine.&nbsp; Text in red; \"At 2130 on the darkest, rainiest Aug 19 on record the division received orders to cross the Seine.&nbsp; By 0300 the 313th had one battalion across - the first Allied troops over the Seine.&nbsp; The Luftwaffe came in swarms but the 463 AAA bn made the homeward flight a lonely ride.&nbsp; The division artillery's murderous fire made a continuous pattern of death.\"&nbsp; Drawing of soldiers advancing in darkness.</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1#xywh=4157,6506,2623,2216"
@@ -170,7 +170,7 @@
               "body": {
                 "type": "TextualBody",
                 "value": "<p>Unit crest of the 79th Infantry Division (Cross of Lorraine).&nbsp; Hand written \"map no. 1\"</p>",
-                "format": "text/plain",
+                "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d200ec007cec424f618a/canvas/1#xywh=8305,8007,4546,2166"
