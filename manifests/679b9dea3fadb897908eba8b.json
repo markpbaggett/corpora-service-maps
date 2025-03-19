@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/679b9dea3fadb897908eba8b.json",
   "type": "Manifest",
   "label": {
@@ -45,6 +48,29 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/679b9dea3fadb897908eba8bnotdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "The Battle of Bitche -- Bitche (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.425638328024561,
+            49.05058270099887
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvODAvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDc5XzAwMDEuanAy/full/2724,/0/default.jpg",

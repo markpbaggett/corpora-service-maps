@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d209ec007cec424f61b2.json",
   "type": "Manifest",
   "label": {
@@ -45,6 +48,65 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d209ec007cec424f61b2notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To the Rhine with the 79th Infantry Division, 25 Oct to 14 Feb. 1945 -- Pont-\u00e0-Mousson (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.054368019104005,
+            48.90236127377419
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d209ec007cec424f61b2notdereferenceable/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To the Rhine with the 79th Infantry Division, 25 Oct to 14 Feb. 1945 -- Metz (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.176576614379897,
+            49.119444617490224
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d209ec007cec424f61b2notdereferenceable/feature/2",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To the Rhine with the 79th Infantry Division, 25 Oct to 14 Feb. 1945 -- Nomeny (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.248735215928822,
+            48.91257230555584
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE3L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNl8wMDAxLmpwMg==/full/3451,/0/default.jpg",

@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/679b9dea3fadb897908eba94.json",
   "type": "Manifest",
   "label": {

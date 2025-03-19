@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d205ec007cec424f619f.json",
   "type": "Manifest",
   "label": {
@@ -45,6 +48,47 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d205ec007cec424f619fnotdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Over the Rhine with the 79th Infantry Division -- Duisburg (Germany)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.759527556344485,
+            51.43399922569388
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d205ec007cec424f619fnotdereferenceable/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Over the Rhine with the 79th Infantry Division -- Rhine River (Germany)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.23228760110247,
+            50.58083860833382
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE4L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExN18wMDAxLmpwMg==/full/3484,/0/default.jpg",

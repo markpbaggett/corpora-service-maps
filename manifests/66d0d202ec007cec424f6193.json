@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193.json",
   "type": "Manifest",
   "label": {
@@ -45,6 +48,173 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Paris (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.347224638423811,
+            48.85274321845838
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Soissons (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            3.3276145003483797,
+            49.383434428011824
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/2",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Cambrai (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            3.2336563865190153,
+            50.1740396768687
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/3",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Saint-Quintin (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            3.2868796023880713,
+            49.84617453678587
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/4",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Aisne River"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.9365171340697764,
+            49.41376531613956
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/5",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Oise River"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.8689906856380487,
+            49.45936600129137
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/6",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Seine River (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            1.2647151947021487,
+            49.201784646246495
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/7",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Somme River"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.92712238808154,
+            49.878597132108666
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d202ec007cec424f6193notdereferenceable/feature/8",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "To Belgium and Back with the 79th Infantry Division -- Marne River"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            3.037698706628587,
+            49.00449031959475
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE2L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNV8wMDAxLmpwMg==/full/3480,/0/default.jpg",

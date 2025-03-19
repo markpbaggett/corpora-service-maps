@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d205ec007cec424f61a0.json",
   "type": "Manifest",
   "label": {
@@ -45,6 +48,47 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d205ec007cec424f61a0notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Engineer Operational Report Roer River Crossing at Julich -- J\u00fclich (Germany)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.3611585762050336,
+            50.922069524225535
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d205ec007cec424f61a0notdereferenceable/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Engineer Operational Report Roer River Crossing at Julich -- Roer River (Germany)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.484895688928258,
+            50.772236048509015
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjYvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDI1XzAwMDEuanAy/full/2516,/0/default.jpg",

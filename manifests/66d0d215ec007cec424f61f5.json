@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d215ec007cec424f61f5.json",
   "type": "Manifest",
   "label": {
@@ -45,6 +48,47 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d215ec007cec424f61f5notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "The Trails and Travails of the 20th Armored Division -- Munich (Germany)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.574819488789833,
+            48.13642300141409
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d215ec007cec424f61f5notdereferenceable/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "The Trails and Travails of the 20th Armored Division -- Salzburg (Austria)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.04515640285236,
+            47.797474168447
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMzQvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDMzXzAwMDEuanAy/full/2731,/0/default.jpg",

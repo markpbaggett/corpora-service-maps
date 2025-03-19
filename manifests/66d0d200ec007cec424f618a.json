@@ -1,5 +1,8 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618a.json",
   "type": "Manifest",
   "label": {
@@ -45,6 +48,173 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Cherbourg (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.6240882873535158,
+            49.64151166312159
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Sainte-M\u00e8re-\u00c9glise"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.3170933723449707,
+            49.40846015910584
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/2",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Valognes (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.470751762390137,
+            49.508769992832654
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/3",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Saint-L\u00f4 (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.0898780822753908,
+            49.11455716608633
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/4",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Caen (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.3620338439941407,
+            49.17923473756174
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/5",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Bayeux (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.7050132751464845,
+            49.27430088974207
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/6",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Avranches (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.358613967895508,
+            48.68552087440201
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/7",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Lessay (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.5318202972412112,
+            49.21737285033705
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d200ec007cec424f618anotdereferenceable/feature/8",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Through France With the 79th Infantry Division -- Fort du Roule (France)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.6143786907196045,
+            49.62954633868249
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMTE1L3BhZ2VzL3BhZ2VfMC9maWxlcy9zZXJ2aWNlX21hcHNfMDExNF8wMDAxLmpwMg==/full/3484,/0/default.jpg",
