@@ -33,15 +33,19 @@ if __name__ == "__main__":
     )
     record_map = {record['id']: record for record in records.all['results']}
     for annotation in annotations.all['results']:
+        nav_places = []
+        if 'locations' in annotation:
+            for location in annotation['locations']:
+                nav_places.append(location)
         map_id = annotation.get('map', {}).get('id')
         if map_id and map_id in record_map:
             record = record_map[map_id]
             record.setdefault('annotations', []).append(annotation)
+            record.setdefault('nav_place', nav_places)
     for work in records.all['results']:
         if 'title' in work:
             x = ManifestCreator(work)
             x.write()
         else:
             print(work['iiif_url'])
-
     CollectionBuilder('manifests')

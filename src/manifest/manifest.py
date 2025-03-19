@@ -1,15 +1,21 @@
-from iiif_prezi3 import Manifest, config, KeyValueString, Collection
+from iiif_prezi3 import Manifest, config, KeyValueString, Collection, load_bundled_extensions
 import json
 import httpx
 import os
 
+navPlace = httpx.get("http://iiif.io/api/extension/navplace/context.json", follow_redirects=True)
+navplace_json = navPlace.json()
 
 class ManifestCreator:
     def __init__(self, data):
         self.data = data
+        self.extensions = load_bundled_extensions(
+            extensions=[navplace_json]
+        )
         self.config = config.configs['helpers.auto_fields.AutoLang'].auto_lang = "en"
         self.label = data['title']
         self.annotations = data.get('annotations', [])
+        self.nav_place = data.get('nav_place', [])
         self.metadata = self._get_metadata()
         self.manifest = self._build()
 
@@ -49,18 +55,36 @@ class ManifestCreator:
     def _build(self):
         try:
             thumbnail = self._get_thumbnail(self.data['iiif_url'])
-            manifest = Manifest(
-                id=f"https://markpbaggett.github.io/corpora-service-maps/manifests/{self.data['id']}.json",
-                label=self.label,
-                metadata=self.metadata,
-                thumbnail=thumbnail,
-                partOf=[
-                    {
-                        "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
-                        "type": "Collection"
-                    }
-                ]
-            )
+            if len(self.nav_place) > 0:
+                nav_place = NavPlace(self.nav_place, f"https://markpbaggett.github.io/corpora-service-maps/manifests/{self.data['id']}", self.label).features
+                manifest = Manifest(
+                    id=f"https://markpbaggett.github.io/corpora-service-maps/manifests/{self.data['id']}.json",
+                    label=self.label,
+                    metadata=self.metadata,
+                    thumbnail=thumbnail,
+                    partOf=[
+                        {
+                            "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
+                            "type": "Collection"
+                        }
+                    ],
+                    navPlace={"features": nav_place}
+                )
+                print(manifest)
+                print("\n")
+            else:
+                manifest = Manifest(
+                    id=f"https://markpbaggett.github.io/corpora-service-maps/manifests/{self.data['id']}.json",
+                    label=self.label,
+                    metadata=self.metadata,
+                    thumbnail=thumbnail,
+                    partOf=[
+                        {
+                            "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
+                            "type": "Collection"
+                        }
+                    ]
+                )
             canvas = manifest.make_canvas_from_iiif(
                 url=self.data['iiif_url'],
                 thumbnail=thumbnail,
@@ -85,6 +109,8 @@ class ManifestCreator:
                 i += 1
             x = manifest.json(indent=2)
             manifest_as_json = json.loads(x)
+            manifest_as_json['@context'] = ["http://iiif.io/api/extension/navplace/context.json",
+                                            "http://iiif.io/api/presentation/3/context.json"]
             return manifest_as_json
         except KeyError as e:
             print(f"Failed to generate manifest. Missing {e} on {self.data['title']}")
@@ -123,3 +149,43 @@ class CollectionBuilder:
                         print(f"Failed to add manifest. Encountered {e} on {self.path}")
         with open('collections/collection.json', 'w') as outfile:
             outfile.write(collection.json(indent=2))
+
+
+class NavPlace:
+    def __init__(self, data, parent_uri, manifest_label):
+        self.features = data
+        self.label = manifest_label
+        self.parent_uri = parent_uri
+        self.features = self.__add_navplace_features()
+
+    def __add_navplace_features(self):
+        features = []
+        i = 0
+        for feature in self.features:
+            try:
+                features.append(
+                    {
+                        "id": f"{self.parent_uri}notdereferenceable/feature/{i}",
+                        "type": "Feature",
+                        "properties": {
+                            "label": {
+                                "en": [
+                                    f"{self.label} -- {feature.get('name', '')}"
+                                ]
+                            }
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                feature['coordinates'][0],
+                                feature['coordinates'][1]
+                            ]
+                        }
+                    }
+                )
+                i += 1
+            except KeyError:
+                print(f"Feature {feature} not found in locations. Add.")
+                with open('errors.log', 'a') as f:
+                    f.write(f'{feature}\n')
+        return features
