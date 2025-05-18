@@ -48,6 +48,47 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d212ec007cec424f61e1notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "71st Infantry Division - World War II - Europe -- Amstetten (Austria)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.87206,
+            48.12291487206
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d212ec007cec424f61e1notdereferenceable/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "71st Infantry Division - World War II - Europe -- Waidhofen (Austria)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.77361,
+            47.96004
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMi9wYWdlcy9wYWdlXzAvZmlsZXMvc2VydmljZV9tYXBzXzAwMDFfMDAwMS5qcDI=/full/3379,/0/default.jpg",
@@ -121,6 +162,134 @@
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The 71st Infantry Division depicted in a cartoon taking German prisoners close to Amstetten and Waidhofen, Austria. This is their last marked position at the end of the war, with the previous marker being the seizure of Steyr, Austria on May 4th.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=12008,5470,1091,624"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The 71st Infantry Division crossing the English Channel is depicted by a cartoon of a soldier on a ship pointing at France with the caption, \"Land! Hooray!\" They landed in Le Havre, France on February 6, 1945.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=548,1800,1432,1435"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The unit crest of the 71st Infantry Division is depicted as crushing a swastika, which also serves as the map's compass rose.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=4185,4655,2544,3048"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of a soldier from the 71st sleeping in a tent labeled \"U.S.\" accompanied by \"ZZZ\" In Sierning on May 6, 1945.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=11316,5602,783,510"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The 71st Infantry \"Contacted Russians 7 May.\" Their meeting is depicted by a cartoon of an American soldier shaking hands with a Soviet soldier. Their location on May 6th is listed as Sierning, however, this could as be in Steyr, Austria.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=11464,5497,1335,1403"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This cartoon depicts a Soviet soldier sitting with a dagger at his feet and a cooler of Vodka next to him. The 71st met the Russians on May 7th around Steyr, Austria.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=11865,4628,1120,689"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of a soldier pointing at the Danube River with the caption \"Hey Joe- Dis 'Blue' Danube is Doity Green.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=10044,3862,1657,916"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>71st Infantry crossing the Danube River on April 26, 1945 around Regensburg, Germany.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=9181,4379,1354,724"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon depiction of two soldiers running with a bridge tagged as the \"Danube River Bridge.\" The 71st crossed the Danube on April 26th around Regensburg.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=9104,4090,1194,601"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon depiction of a soldier bathing in a tub in Fulda dated April 6th.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d212ec007cec424f61e1/canvas/1#xywh=8037,2136,597,610"
             }
           ]
         }

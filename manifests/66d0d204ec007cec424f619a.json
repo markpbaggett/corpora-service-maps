@@ -124,6 +124,62 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A set of four pictures displayed on a wall. Pictures are all of women in the nude.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=11445,6040,1298,1852"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A caption with the words \"Couchez Avec.\" A shortened version of the French phrase meaning, \"Do you want to sleep with me tonight?\" Voulez-vous coucher avec moi ce soir.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=5872,8265,1821,210"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A barrel with various containers of alcohol nearby.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=8902,7431,1600,2076"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A man in the nude, presumably an American soldier, bathing himself. A crowd of four women and one child are nearby watching the man.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=8081,7421,1061,1391"
+            }
+          ]
+        }
       ]
     }
   ]

@@ -124,6 +124,74 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Germany on the map depicts a tattered Nazi flag. A knife stabs the swastika on the flag. The flag is draped over a signpost that reads \"(H)ere Lies Der Super Race\".</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=7835,4894,1957,1038"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Scribbled, partially colored sketch depicts the city of Frankfurt in ruins</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=6807,5855,1161,795"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depicts map title as a scroll in front of a castle or fortress structure</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=7688,6354,2766,1482"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Four military trucks on a road</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=7194,4576,2415,445"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Conventionally attractive woman stands in a doorway. Two soldiers walk past, ignoring her. A sign next to her reads \"OFF LIMITS\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=8105,3677,565,583"
+            }
+          ]
+        }
       ]
     }
   ]
