@@ -199,7 +199,43 @@
                 "format": "text/html",
                 "language": "en"
               },
-              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1#xywh=9224,4741,997,523"
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1#xywh=3658,2784,2013,1615"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>&nbsp;A cartoonish depiction of a standoff between German and American troops at the Rhine River. It depicts both parties making humorous faces at each other mockingly, with catastrophes and chaos in the background.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1#xywh=5912,2747,1557,1800"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A cartoon depiction of several G.I.s huddled around a campfire while precipitation (just rain) falls on them. A G.I. is shown hurriedly taking wood to the flame, and another in the background is shown gathering wood from a building.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1#xywh=674,4014,1230,1168"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A cartoon depiction of a soldier saying, \"Give me that P-38\" while pointing a rifle at a German soldier's back. The P-38 in question is one of many items taken by G.I.s as souvenirs in the war during their time outside the U.S. These items or souvenirs that soldiers would bring home range from pictures, documents (such as one Book from Hitler's collection at A&amp;M's Sam Houston Sanders Corps of Cadets Center),&nbsp; and military firearms such as the P-38. The military had issues with souvenir hunting because of several issues:</p>\n<p>1. Souvenir hunters often put themselves and their comrades in danger trying to gather such items</p>\n<p>2. Valuable information or intelligence could be tampered with or gone</p>\n<p>3. The transport of these items could be dangerous</p>\n<p>&nbsp;</p>\n<p>Promotion against Souvenir Hunting posted in 1945</p>\n<p><img src=\"https://www.americanrifleman.org/media/knyo53am/souvenir-ad-hands-off.jpg?mode=crop&amp;width=1920&amp;height=1080\" width=\"1020\" height=\"574\" /></p>\n<p>Image from https://www.americanrifleman.org/content/the-firearm-war-trophies-of-world-war-ii/</p>\n<p>&nbsp;</p>\n<p>Depiction of a Walther P-38, a 9 mm semi-automatic pistol in use since the start of WWII by Nazi Germans</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/8/86/Walther_P38_(6971798779).jpg\" alt=\"Walther_P38_(6971798779).jpg (4288&times;2848)\" width=\"484\" height=\"321\" /></p>\n<p>Image from https://upload.wikimedia.org/wikipedia/commons/8/86/Walther_P38_(6971798779).jpg</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1#xywh=657,5924,1572,1008"
             }
           ]
         }

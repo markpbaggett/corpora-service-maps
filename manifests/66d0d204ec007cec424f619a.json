@@ -177,6 +177,114 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=8081,7421,1061,1391"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon drawing of a pile of American newspapers, army newspapers \"Stars Strips\"/\"Stars and Stripes\" and \"YANK\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=7145,8884,1866,643"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A cartoon drawing depicting stacks of letters in envelopes. A brown bag with the word \"MAIL\" on it.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=6127,8484,1647,1047"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Wall inscription of the words \"VERBODEN TOEGANG\" accompanied by a swastika.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=10054,7098,1227,870"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Caption that reads, \"Bleiche: Apr. 14th: <span style=\"font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;\">Pleasant park area; quarters in apartment houses; Military Government problem; Division discovered 2000 starved Jews 25 were dead and more dying; War ends May 3,1945\"</span></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=13970,9120,3318,324"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Wrecked wall with an inscription that reads, \"BOCHE KAPUT.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=2999,7710,940,1294"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The insignia (from left to right) of the 30th Infantry Division, the First Army, and the Ninth Army.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=13974,660,3306,1494"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A spread of playing cards accompanied by dice.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=6662,7914,1239,353"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Map's title text box.</p>\n<p style=\"text-align: left;\">\"6TH ORDNANCE MM CO.</p>\n<p style=\"text-align: left;\">In Memoriam - S/Sgt. Edgar E. Holmes, Killed in Action</p>\n<p style=\"text-align: left;\">IN THE EUROPEAN WAR</p>\n<p style=\"text-align: left;\">6 JUNE 44 - 8 MAY 45\"</p>\n<p>\"6TH\" features a cartoon drawing of the number \"6\" with arms in boxing gloves, legs, and shoes.</p>\n<p>Five Battle Stars.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=1155,621,6099,2371"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Path from Southampton/\"Southhampton\" (June 16) to Omaha Beach (June 18)</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f619a/canvas/1#xywh=1402,3869,1825,2526"
             }
           ]
         }
