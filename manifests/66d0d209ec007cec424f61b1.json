@@ -248,6 +248,30 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1#xywh=2168,5751,1098,726"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The title of the \"Load up\" map. The title depicts a total of 11 G.I.s in the photo, either operating machinery or in a stationary position, and a large V. The V is a motif most G.I.s used to symbolize the \"victory\" of the Allied powers in the European front of WWII. The cartoon also comes with a majority of the colors used in the map (light blue, pink, black, and green).</p>\n<p>Depictions of Victory come in many forms.</p>\n<p>- V</p>\n<p>- Morse code ( . . . - )</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1#xywh=3451,453,5173,2240"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A cartoon depiction of a military vehicle with several G.I.s passing through a ruined city.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d209ec007cec424f61b1/canvas/1#xywh=4037,4787,1622,1059"
             }
           ]
         }
