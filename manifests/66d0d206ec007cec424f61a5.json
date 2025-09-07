@@ -1,1 +1,570 @@
-null
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d206ec007cec424f61a5.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "292 Engineer (C) Battalion In Action from England to the Elbe"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Very colorful route map with cartoons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "292nd Engineer Battalion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "id"
+        ]
+      },
+      "value": {
+        "en": [
+          "66d0d206ec007cec424f61a5"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjMvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIyXzAwMDEuanAy/full/2778,/0/default.jpg",
+      "type": "Image",
+      "height": 2137,
+      "width": 2778,
+      "service": [
+        {
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjMvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIyXzAwMDEuanAy",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Canvas for 292 Engineer (C) Battalion In Action from England to the Elbe"
+        ]
+      },
+      "height": 8546,
+      "width": 11113,
+      "thumbnail": [
+        {
+          "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjMvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIyXzAwMDEuanAy/full/2778,/0/default.jpg",
+          "type": "Image",
+          "height": 2137,
+          "width": 2778,
+          "service": [
+            {
+              "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjMvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIyXzAwMDEuanAy",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjMvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIyXzAwMDEuanAy/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 8546,
+                "width": 11113,
+                "service": [
+                  {
+                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvMjMvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDIyXzAwMDEuanAy",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Germany on the map depicts a tattered Nazi flag. A knife stabs the swastika on the flag. The flag is draped over a signpost that reads \"(H)ere Lies Der Super Race\".</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=7835,4894,1957,1038"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Scribbled, partially colored sketch depicts the city of Frankfurt in ruins</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=6807,5855,1161,795"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depicts map title as a scroll in front of a castle or fortress structure</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=7688,6354,2766,1482"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Four military trucks on a road passing Erfurt heading towards Giessen. This road begins in Osterburg and ends in Mainz, Luxembourg</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=7194,4576,2415,445"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Conventionally attractive woman stands in a doorway. Two soldiers walk past, ignoring her. A sign next to her reads \"OFF LIMITS\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=8105,3677,565,583"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>In the city of Hanover, a soldier in a military vehicle labeled \"M8\" crosses the Autobahn Highway. A sign labeled \"To the Elbe River\" points in the direction he is heading.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=8506,2992,907,629"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>In the city of Munster, Germany, a soldier holds two ragged people (likely civilians, as they are not in uniform) at gunpoint and forces them across a bridge. Facing the bridge is a sign that reads \"By Courtesy of the 292\". Corpses lay dead at the foot of the bridge. The soldier exclaims with mostly symbols * , !, ?, etc. as well as the word \"Raus!\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=7690,3003,1073,698"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The American flag and Soviet Union flag are positioned next to each other. The Soviet flag takes the forefront and overlaps with roughly half the American flag. The flags are positioned in an unlabeled area, closest to Berlin, Osterburg, and Stapel.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=9779,3116,293,240"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depicts the city of Berlin in smoky, scribbled ruins</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=10007,2764,509,550"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A German Soldier (understood by his swastika) points a gun at a small community in the Harz Mountains near Blankenburg. The area depicts trees and tents. Most notably a corpse lies on the ground, with another figure leaning over it.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=8626,3844,1172,736"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit crest for the 292 Engineer Battalion includes the following: A green four leaf clover and red triangle inside a silver circle. Above it is a horizontal rectangle with stripes and yellow stars. Above it is another circle, red, with a large red A and decorative shape surrounding it.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=2753,5853,1338,2058"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>THE BATTLE OF GERMANY he 292nd Engineer Combat Battalion was activated Nov. 5, 1943 at Camp Butner, N.C. under the command of Major Karl F. Elliot. In July, Lt. Col. George M. Reeves assumed command. On Oct. 10, 1944... after training and processing... we left Butner for our POE, Camp Kilmer, N.J. We steamed out of N.Y. Harbor, enroute to foreign shores, on Oct.22. Arrival at Southampton, England, was made Nov.2 after an uneventful, eleven-day crossing. The following 5 weeks at Oulton Park Camp near Chester, Englad, were spent readying our equipment for the Channel Crossing. Early in Dec. we moved across the Channel in 5 separate ships... a portion of the battalion docking at Le Havre, the remainder at Rouen, France. Assembling in the&nbsp; Vicinity of the Chateau de Merval....near Fry, France, we awaited further orders. On Dec. 22 and 23 a 30-hour convoy took us to Merkstein, Germany. Here, in the Siegfried Line, we first glimpsed WAR .... for destruction was everywhere. Attached to the XIII Corps of Gen. Simpson's Ninth Army we began our engineer</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=1807,1050,2426,2252"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>operations. Our only casualties.... resulting from 3 bombs dropped the night of Jan. 22, 1945.... were a truck, bull-dozer and its trailer. On Feb 23.... after a 45 minute \"blanket barrage\" of artillery.... the 9TH assaulted the Roer River barrier. Our part in this great drive was heavy with responsibility. It meant building numerous bridges and maintaining suply routes under constant strafing and shell-fire..... in order that the 84th and 102nd Infantry and the 5th Armored Divisions could smash Hitler's fast-fading \"Super-men\". On Mar. 31.... after 5 weeks spent near Krefeld.... we crossed the Rhine at Wesel in direct support of the 5th Armored. Our lightning-like advances were long and frequent-- always with missions to accomplish.... mines to be cleared, bridges to be built, roads to be repaired. We bridged the Weser River.... billetted temporarily in the vicinities of Munster, Hanover and Brunswick...... finally halting on the banks of the Elbe River in April of '45. Casualties numbering 13 were inflicted on our battalion when Jerry unleashed 200 anti-personnel bombs at Stapel. When the enemy frantically swarmed the West bank of the Elbe in face of the Russian onslaught we were assigned to engin- eer a PW enclosure at Calbe. South of Magdeburg, at Barby, elements of the 292ND were among the first engineer troops to reach the opposite bank of the Elbe. It was there that we officially greeted some of the first Red units to complete the Allied junction at the River. A 3-day convoy down through the Harz Mts., and along the Autobahn Highway past Frankfurt, brought us further, post-war details in Mainz. July we spent in Liege, Bel-gium. At Antwerp, under Lt. Col. S. M. Lipton, we helped build \"Camp Top Hat\".... from where troops were departing.... ....homeward bound.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=4114,1116,5105,1616"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Port city Southampton depicts the following: British flag, person riding bicycle, and a crowd of people with noise signifiers as well as music notes. These are a sharp, a sixteenth note and a note that does not exist. In the forefront is an officer blowing a whistle. Above his head it says \"Tweet!\"&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=1064,3564,1001,693"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Crumbled, ruined buildings line the coast of Le Havre, France. To its immediate left is the Seine River, which the 292 Engineer Battalion uses for transport.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=1316,4481,966,439"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Two tents. One contains the bare feet of a (presumably) sleeping soldier. Above him, the moon looks down on him and smiles peacefully. Compared to the surrounding chaos, this moment is calming. Located between Le Havre and Rouen.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=1934,4861,551,358"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Six (6) military vehicles Travel from the Seine River through Rouen and deeper into Europe. Each vehicle is populated with many of the battalion.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=1657,5132,1316,617"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Map of France depicts the flag. Underneath it is a star labeled \"Paris\" but no iconography.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=1407,5740,1765,958"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Arrow depicting the battalion's journey from Rouen, France to Liege, Belgium and beyond. Inside the arrow is written \"On to Fight With the 9th Army\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=2646,4430,1902,741"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depicts Battle of the Bulge. Soldiers against a red and blue sky face a military tank and evident explosions. A tree in the background is dead and broken. One soldier is buried to the shoulder and holding a rifle. The other soldier kneels on the ground and is aiming what may be a sniper rifle.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=4442,4475,1093,638"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A man and woman walk together. Next to them and almost as large is a champagne bottle and half-full glass</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=5330,4361,678,711"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depicts the Chateau de Merval (written in a cursive script) and surrounding lands, a seventeeth century palace. Details include shrubbery, a pond, and small buildings.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=2815,5197,1788,802"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depicts Oulton Park as a walled fortress. At the time the map was made, Oulton Park was a Polish Resettlement Camp.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=2104,3033,938,705"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The prisoner of war camp is depicted as surrounded in barbed fance. Prisoners do labor such as shovelling, roofing, and building the encampment's structures. A vehicle inside the camp contains many prisoners. The door is open and someone stands just outside the gate.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=5583,5382,822,686"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The city of Mainz is reduced largely to rubble (scribbles). Two bridges cross the adjacent Rhine river. One of them has a sign labelled \"For Memorial\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=5546,5838,1030,833"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A soldier lays on his stomach and looks towards the Siegfried line outside of Antwerp, Belgium. Next to him are tents and the inscription \"So Near and Yet-- So Far\". Other features include an arrow pointing towards a Top Hat labelled \"Top Hat\" and a small boat labelled \"Toot Toot\".&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=4809,3394,780,565"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A large plane drops bombs upon an isolated building in Merkstein among hills. The bomb is labelled \"292\". Smaller planes are flying in the background</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=5506,3582,987,773"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Engineers build bridges across the Roer River. On the other side of the Rhine, German soldiers and a plane shoot and attack the engineers. Various areas surrounding the Roer show signs of explosion and damage such as smoke.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=5916,4236,1937,1159"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Flag of Union Jack. Over the flag the word \"England\" is written in bubble letters</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=3011,3141,877,455"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Belgium Flag. Over the center of the flag \"Belgium\" is written in bubble letters.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=4659,3746,1192,644"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Flag of Holland. Over the middle of the flag the word \"Holland\" is written in bubble letters</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=5349,2802,1229,637"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Soldiers shoot each other across the Rhine river in Krefeld. Barbed fence on the German side along the coast. A sign on the Allies' side says \"Achtung Minen!\" which means \"Attention Mines.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=6479,3697,920,560"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Tanks cross a bridge across the Rhine River in Wesel</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=6467,3349,919,367"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A bridge crosses the Rhine River. Above the bridge is a sign that says \"The longest, widest milt(ary) Pile Bent BR(idge) in the world.\"&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=6188,5643,660,485"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Buildings depicted in bombed, smoky ruins. Barrage balloon fill the air.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=6421,2000,1325,1455"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A man pulls three small boats towards the Elbe. A rocket heads towards three alarmed people (likely civilians) on a raft, and a soldier holding a gun runs towards them. The people on the raft shout \"Kamerao!!!\"&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a5/canvas/1#xywh=9359,3374,1105,620"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

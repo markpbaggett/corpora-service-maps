@@ -124,6 +124,158 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>History of the XIX Corps from when General McLain assumed command until Victory in Europe day:</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"<span style=\"font-family: Arial, sans-serif; font-size: 11pt; font-weight: bold; white-space-collapse: preserve; text-align: center;\">XIX </span><span style=\"font-family: Arial, sans-serif; font-size: 11pt; font-weight: bold; white-space-collapse: preserve; text-align: center;\">Corps</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">MAJ. GEN. RAYMOND S. McLAIN\u2014COMMANDING</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">BRIG. GEN. GEORGE D. SHEA\u2014ARTILLERY COMMANDER</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">BRIG. GEN. H. E. MAGUIRE\u2014CHIEF OF STAFF</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; text-align: center; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">General McLain marked his assumption of command of XIX Corps with an expertly planned and directed drive by the 2nd Armored and 29th and 30th Divisions, which plunged through bitter German opposition to the banks of the Roer. The Corps crossing of the Roer had to wait two months, while our troops in the south wiped out the &ldquo;Bulge&rdquo; of the German Ardennes counter-offensive. Meantime XIX Corps launched the first successful attacks for control of the threatening Roer Dams with the 8th and 78th Divisions, in the bitter cold. Finally on 23 February, we jumped the Roer, and in another twisting, smashing drive by the 2nd Armored, 30th, 29th and 83rd Divisions brought the Corps first to the Rhine. On 28 March the Corps crossed the Rhine, smashed out of the bridgehead, and led the Ninth Army in the final push across the Elbe. On its way, the 2nd Armored helped to close the ring around the Ruhr, and drove on across the Weser to the Elbe. Contact was finally made with the Russian Army. For two weeks the XIX Corps fought a two-front war, with the two fronts 125 miles apart, reducing the Ruhr Pocket to the Southwest, and pushing on Northeast towards Berlin. V-E Day found the Corps on its way South to take up its occupational duties in one of the most important areas of Germany.\"</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; text-align: left;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">The text is framed by a drawing of two soldiers and the XIX Corps insignia. \"Drawn by T/5 Henry J. Mac Millan\" and \"Reproduced by 62nd Engr. Top. Co. U.S. Army May 1945\" is printed below the history.</span></p>\n<p><span style=\"font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">&nbsp;</span></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=805,1170,2442,3680"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image depicts a point on the map in Heerlen, Holland, along with the caption, \"Here Gen. McLain assumed command of the XIX CORPS on 18 October. During our long stay many G.I.s found a Dutch home.\"&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=679,5154,989,1167"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image depicts a drawing of what may be little buildings exploding and a portion of the Roer River along with the caption, \"The 2nd Armored and 30th Inf. Div. reached the Roer River on 28 November after a bitterly contested adrance.\"&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=1621,4836,881,811"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image depicts a point on the map at Aachen, Germany, along with a drawing of damaged buildings and dead trees.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=748,6950,831,737"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image shows a point on the map at Kornelim&uuml;nster, Germany, along with the caption, \"where we stood fast to anchor the North shoulder of the Bulge from 23 December to 7 February and launched the initial attack for the SCHWAMMENAUEL and ERFT DAMS.\" The image also shows a point on the map at Bardenburg.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=1615,7446,1590,689"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image shows a point on the map at Alsdorf, Germany, along with the caption, \"The fanatic resistance crushed by the 29th Inf. Div at the SPORTS PLATZ marked the end of the fighting West of the ROER.\" Below the caption, there is a drawing of a sign with a skull and cross bones and the word \"minen\".&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=1664,5584,1526,984"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image shows a point on the map at J&uuml;lich, Germany, along with a drawing of what appears to be the Roer River, bridges, soldiers, rafts, dead trees, and buildings. The caption states, \"400 tons of CORPS ARTILLERY steel stunned and smashed the enemy. XIX CORPS ENGINEERS bridges, boats, alligators and rafts beat the flooded Roer. On 23 February the 29th and 30th INF. DIV. swarmed across, and with the 83rd and 2nd Armored dashed for the Rhine.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=3199,5331,1932,2149"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image shows a drawing of industrial buildings and German prisoners being escorted out. \"The Ruhr Pocket\" is in text below the drawing along with the caption, \"One of the greatest double envelopments in history. Germany lost her most vital industrial area, and the Ninth and First Armies got a bag of over 300,000 prisoners.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=5110,3753,1823,1647"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image shows a point on the map at Alfeld, Germany, along with people carrying bags on their backs and pushing/pulling carts full of belongings. The caption states, \"Tens of thousands of slave workers and liberated prisoners thronged the roads.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=7660,3465,2028,893"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image shows a point on the map at Langenstein, Germany, along with a drawing of concentration camp prisoners, some appearing to be dead. The caption states, \"The horrors of a German Concentration Camp - the living dead, liberated by XIX CORPS Troops.\"&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=7473,5191,1601,898"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image shows what appears to be damaged buildings, dead trees, surrendering Germans, a swastika on the ground, and a banner that says \"ALLES KAPUT.\"&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=8173,6273,1504,837"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The image shows a point on the map at Ameln, Germany, and a drawing of a box that says \"Captured Liquor\" with bottles inside.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6201/canvas/1#xywh=3196,4656,747,519"
+            }
+          ]
+        }
       ]
     }
   ]
