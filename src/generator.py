@@ -26,10 +26,10 @@ class SearchResults:
 
 if __name__ == "__main__":
     records = SearchResults(
-        "https://corpora.dh.tamu.edu/api/corpus/66d0cf276083e79367c617c6/Map/"
+        "https://corpora.library.tamu.edu/api/corpus/66d0cf276083e79367c617c6/Map/"
     )
     annotations = SearchResults(
-        "https://corpora.dh.tamu.edu/api/corpus/66d0cf276083e79367c617c6/Feature/"
+        "https://corpora.library.tamu.edu/api/corpus/66d0cf276083e79367c617c6/Feature/"
     )
     record_map = {record['id']: record for record in records.all['results']}
     for annotation in annotations.all['results']:
