@@ -124,6 +124,710 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Major General John Milliken, Commanding Until March 17, 45.&nbsp; Note spelling error.&nbsp; Correctly spelled \"Millikin\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=4418,1743,777,1157"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Patch of the Third Army</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=597,2166,635,763"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Crest of the III Army Corps</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=6019,610,1126,1447"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of US First Army</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=11971,2177,626,729"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Major General James A. Van Fleet. Commanding from March 17, 45</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=7996,1739,847,1195"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the 17th Airborne Division</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=592,3926,635,613"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the 4th Infantry Division</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=599,4539,624,624"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/6th_Infantry_Division_(United_States)\">6th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=598,5153,623,617"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/7th_Armored_Division_(United_States)\">7th Armored Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=595,5760,623,641"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/9th_Armored_Division_(United_States)\">9th Armored Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=595,6386,636,623"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/1st_Infantry_Division_(United_States)\">1st Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=597,7006,615,639"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/4th_Infantry_Division_(United_States)\">4th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=1220,7006,641,639"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/5th_Infantry_Division_(United_States)\">5th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=1872,7011,625,636"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/9th_Infantry_Division_(United_States)\">9th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=2498,7006,623,628"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/26th_Infantry_Division_(United_States)\">26th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=3126,7014,615,617"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/28th_Infantry_Division_(United_States)\">28th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=3751,7011,620,625"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/35th_Infantry_Division_(United_States)\">35th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=4382,7011,625,628"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/44th_Infantry_Division_(United_States)\">44th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=5010,7016,610,633"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/78th_Infantry_Division_(United_States)\">78th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=5625,7012,633,633"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/80th_Division_(United_States)\">80th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=6257,7016,633,642"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/86th_Infantry_Division_(United_States)\">86th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=6894,7003,614,637"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/87th_Infantry_Division_(United_States)\">87th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=7513,7012,633,633"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/90th_Infantry_Division_(United_States)\">90th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=8155,7016,619,628"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/94th_Infantry_Division_(United_States)\">94th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=8783,7030,619,619"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/95th_Infantry_Division_(United_States)\">95th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=9397,7021,633,628"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/97th_Infantry_Division_(United_States)\">97th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=10030,7021,624,637"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/99th_Infantry_Division_(United_States)\">99th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=10654,7016,651,633"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/102nd_Infantry_Division_(United_States)\">102nd Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=11286,7007,691,637"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/104th_Infantry_Division_(United_States)\">104th Infantry Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=11950,7003,624,642"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/20th_Armored_Division_(United_States)\">20th Armored Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=11959,6379,614,642"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/14th_Armored_Division_(United_States)\">14th Armored Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=11959,5778,637,614"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/11th_Armored_Division_(United_States)\">11th Armored Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=11968,5137,619,642"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/10th_Armored_Division_(United_States)\">10th Armored Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=11964,4513,633,633"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the <a href=\"https://en.wikipedia.org/wiki/82nd_Airborne_Division\">82nd Airborne Division</a></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=11964,3894,614,637"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p><a href=\"https://en.wikipedia.org/wiki/101st_Airborne_Division\">101st Airborne Division</a> attached to III Corps during the Battle of the Bulge</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=9811,2488,1288,565"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p><a href=\"https://en.wikipedia.org/wiki/6th_Cavalry_Regiment\">6th Cavalry Group</a> attached to III Corps during the battle beyond Metz and the Battle of the Bulge</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=9748,3057,1365,407"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>14th Cavalry Group attached to III Corps during the Battle of the Roer Pocket and the Drive to Austrian Border</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=9757,3504,1342,474"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/37",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Photo of the railroad bridge at Remagen.&nbsp; Inset map of the area</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=4041,3960,1453,1339"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/38",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Arrival of III Corps near Cherbourg on August 29, 1944.&nbsp; Headquarters remained until October 31.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=1316,3091,1791,1853"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/39",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of <a href=\"https://en.wikipedia.org/wiki/Ninth_Army_(United_States)\">9th Army</a>.&nbsp; \"III Corps under Ninth Army on the Contentin Peninsula\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=1552,5149,893,702"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/40",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Paris, including the Eiffel Tower</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=3911,4977,523,836"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/41",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>III Corps in France, operating under Third Army</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=4353,5252,1354,880"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/42",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>III Corps in action near Metz, including battle for <a href=\"https://en.wikipedia.org/wiki/Fort_Jeanne_d'Arc\">Fort Jeanne D'Arc</a>.&nbsp; Corps headquarters at Etain (November 2-December 5), Metz (December 6-8) and Carling (Proposed)</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=6366,5258,1403,799"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/43",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Operations of III Corps during the Battle of Bulge (labelled here as \"Runstedt's Offensive, December 16, 1944\"). Unit headquarters at Luxembourg (December 19), Arlon (December 20-February 11) and Martelange (January 20-February 11)</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=6269,4296,1415,819"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/44",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>III Corps advance toward and across the Rhine \"to the First Army Zone.\" Seizure of Aachen. Crossing at Remagen.&nbsp; Corps HQ at Zwifall (sp - should be \"Zweifall\") (February 2-March 3), Nidiggen (sp - should be \"Nidiggen\") (March 4-5), Zulpich (March 6-8), Rheinbach (March 9-12), Bad Neuenahr (March 12-20), Linz (March 21-22)</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=6045,3381,2132,984"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/45",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Advance of III Corps into the Ruhr Pocket.&nbsp; Corps HQ at Selters (March 28), Erda (March 9-30), Roschenberg (sp: should be \"Rauschenberg) (April 1-3), Frankberg (April 4-9), Freidburg (sp: should be \"Friedberg\") (April 10-17)</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=7993,3008,1479,1163"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/46",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Transfer of III Corps to Third Army in Bavaria</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=8442,4390,1284,989"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/47",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Occupation in Bavaria - 12 May 1945 - 13 June 1945</p>\n<p>Occupation of Regional Districts of Mainfranken, Oberfranken, and Mittelfranken</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=9727,4490,817,481"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/48",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>III Corps During the Invasion of Bavaria.&nbsp; Headquarters at Neustadt (April 18-27), Schwabach (April 25-29), Beilngries (April 26-28), and Erlangen (May 12-June 14)</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=10087,4804,891,1232"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/49",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>III Corps at the end of the war in southern Bavaria</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=10592,5812,1345,1144"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/50",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Contentin Peninsula [sp: should be \"Cotentin\"]</p>\n<p>August 29 - October 31 1944</p>\n<p>Reception and processing of troops of Twelfth Army Group upon Arrival on Normandy Beaches</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=1173,1676,1429,1116"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/51",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Fort Jeanne d'Arc</p>\n<p>6 December 1944 - 19 December 1944</p>\n<p>Became combat operational on 8 Dec. Fort Jeanne D'Arc fortified group induced to surrender on 13 Dec. maintained pressure toward Saar River</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=2385,1242,1405,935"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/52",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Ardennes Counter Offensive</p>\n<p>19 December 1944 - 12 February 1945</p>\n<p>Initial attack launched 22 Dec. Relieved American defenders of Bastogne on 26 Dec. by 4th Armd. Div. and elements of 35th Inf. Div. Advanced across Sure, Wiltz, Clerf and Our Rivers and breached Siegfried Line.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=3634,1025,1313,879"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/53",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Roer River Phase</p>\n<p>12 February 1945 - 7 March 1945</p>\n<p>Initial bridgehead over the Roer River established 25 Feb. by 1st Infantry Div. (who later captured the City of Bonn) Crossing followed by rapid drive to the Rhine River</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=4870,949,1253,711"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/54",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Rhine Crossing at Remagen</p>\n<p>7 March 1945 - 24 March 1945</p>\n<p>Ludendorf (sp) RR Bridge captured by elements of the 9th Armored Division on 7 March.&nbsp; Completed first tactical bridge across the Rhine and passed the main elements of an army over corps bridges.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=7074,853,1293,895"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/55",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Breakthrough to the Edersee Dam</p>\n<p>24 March 1945 - 31 March 1945</p>\n<p>Main attack began night of 24 March.&nbsp; Armored Division advanced rapidly after breakthrough 26 March while Infantry Division mopped up by-passed enemy. Captured Edersee Dam intact 30 March.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=8307,973,1232,887"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/56",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Ruhr Pocket</p>\n<p>1 April 1945 - 18 April 1945</p>\n<p>Reformed and launched attack 5 April - All resistance collapsed 16-17 April and Corps began movement to Third U.S. Army Zone 18 April</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=9555,1306,1212,972"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1/annotation/57",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drive to Austria</p>\n<p>18 April - 8 May 1945</p>\n<p>Corps attack began 24 April Altmuhl River crossed 25 April Danube River crossed 27 April Isar River crossed 30 April Corps ordered halt at Inn River 2 May</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20eec007cec424f61ce/canvas/1#xywh=10647,1628,1289,951"
+            }
+          ]
+        }
       ]
     }
   ]

@@ -124,6 +124,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f6199/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f6199/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia of the U.S. Army Dental Corps associated with the 103rd Evacuation Hospital</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d204ec007cec424f6199/canvas/1#xywh=4394,1729,411,439"
+            }
+          ]
+        }
       ]
     }
   ]

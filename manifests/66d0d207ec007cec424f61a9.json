@@ -124,6 +124,86 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Map title and insignia</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1#xywh=819,717,2766,2933"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit activities in the UK, including arrival at Greenock on July 12, 1942</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1#xywh=3569,731,2133,2603"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Shows the activities of the unit druing fighting in North Africa, from their arrival on February 1, 1943</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1#xywh=3034,6978,2015,1131"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Route of the unit through the Italian Campaign, beginning with the arrival in Naples on November 17, 1943</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1#xywh=6247,5137,1854,1960"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit's path from its arrival in southern France on August 15, 1944 toward the German border and its return from Germany at the end of the war.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1#xywh=5214,3819,1510,2179"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>E Company's route into and out of southern Germany.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d207ec007cec424f61a9/canvas/1#xywh=6682,3782,1078,744"
+            }
+          ]
+        }
       ]
     }
   ]

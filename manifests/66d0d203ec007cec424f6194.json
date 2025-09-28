@@ -48,6 +48,101 @@
       }
     }
   ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d203ec007cec424f6194notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "III Corps Reference -- Bastogne (Belgium)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.7153,
+            50.0005
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d203ec007cec424f6194notdereferenceable/feature/1",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "III Corps Reference -- Clerve / Clerf River (Luxembourg)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.01861,
+            49.95222
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d203ec007cec424f6194notdereferenceable/feature/2",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "III Corps Reference -- Sauer / S\u00fbre River (Germany and Luxembourg)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.51667,
+            49.73333
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d203ec007cec424f6194notdereferenceable/feature/3",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "III Corps Reference -- Wiltz River (Belgium and Luxembourg)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.05372,
+            49.92139
+          ]
+        }
+      },
+      {
+        "id": "https://markpbaggett.github.io/corpora-service-maps/manifests/66d0d203ec007cec424f6194notdereferenceable/feature/4",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "III Corps Reference -- Our River (Belgium, Germany, Luxembourg)"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.3,
+            49.88333
+          ]
+        }
+      }
+    ]
+  },
   "thumbnail": [
     {
       "id": "https://api-pre.library.tamu.edu/iiif/2/aHR0cHM6Ly9hcGktcHJlLmxpYnJhcnkudGFtdS5lZHUvZmNyZXBvL3Jlc3QvYmF0Y2gtc2VydmljZS1tYXBzLXRlc3RzX29iamVjdHMvOTgvcGFnZXMvcGFnZV8wL2ZpbGVzL3NlcnZpY2VfbWFwc18wMDk3XzAwMDEuanAy/full/3256,/0/default.jpg",
@@ -121,6 +216,86 @@
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Inset of the Battle of the Bulge (here labelled \"Von Runsteds [sic] Winter Offensive\". Notes that \"American Units Surrounded by the Germans in Bastogne.\" Also marks the Siegfried Line</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1#xywh=559,1817,3452,2727"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Key for \"III Corps Reference\" map, including the insignia for III Corps.&nbsp; Notes that \"these enlargements were taken from Sheet 1 to show in more detail the action taken by the corps in its three major battles.\" This appears to refer to the \"III Corps Campaigns\" map in this collection.&nbsp; The three battles are the Battle of the Bulge, the Roer/Ruhr Campaign, and the Drive to the Austrian Border.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1#xywh=3983,399,2797,2144"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Advance of III Corps across the Roer and Rhine, including the crossing at Remagen, the Edersee Dam, and the seizure of Bonn</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1#xywh=480,4981,5376,2762"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Second half of this section of the map. Depicts III Corps's turn to the north and into the Ruhr Pocket.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1#xywh=3989,2566,4749,4959"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>First part of the depiction of the drive south through Bavaria toward the Austrian border</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1#xywh=7076,446,5484,3551"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The end of the war and the beginning of the occupation for III Corps, including the drive into southern Bavaria and Austria. Caption reading \"Combination bridge and dam siezed [sic] by 14th Armored Division May 2. Corps ordered to halt on Inn River 2nd May by Third US Army.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6194/canvas/1#xywh=8789,4162,3719,2564"
             }
           ]
         }

@@ -124,6 +124,146 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Map title and blank label, intended to be folded and mailed.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=714,883,2748,3405"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Legend and insignia of the 1st Armored Division. \"Africa Nov '42 - May '43\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=670,4705,2255,3778"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>1. On 8 November 1942, armored columns landed on the Algerian coast east and west of Oran.&nbsp; A seaborne assault on the city resulted in disaster to the 3rd Battalion of the 6th Armored Infantry, but the tank columns isolated the city in two days.&nbsp; Oran surrendered 10 November after 1st Armored light tanks entered the city.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=1090,8575,2371,1924"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>#2 The 1st Battalion of the 1st Armored Regiment and the 2nd Battalion of the 13th Armored Regiment led the Division into the Tunisian campaign.&nbsp; Attached to a British force, the tanks attacked on 25 November 1942 through Chouigui, Tebourba and Djedeida.&nbsp; At Djedeida the light tanks of the 1st A.R. surprised 54 Stukas on an airport and left 48 of the planes burning.&nbsp; Also early into action in November were \"B\" and \"C\" Companies of the 701st Tank Destroyers at Medjez el Bab, Gafsa, and Kasserine Pass</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=3436,3413,2629,1229"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>#3 CC \"B\" arrived at the Tunisian front on 1 December 1942 and took over a sector straddling the Medjez-Tebourba road.&nbsp; After several days of tank duels, the Germans launched a full-scale land and air attack down the road.&nbsp; CC \"B\" was forced back.&nbsp; Rain mired down their vehicles and most men walked out.&nbsp; \"C\" Battery of the 27th Armored Field Artillery earned a Presidential citation for a heroic stand against the enemy armor.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=6126,4023,1879,1327"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>#4 The remainder of the 1st Armored arrived in Tunisia in late January.&nbsp; They raided Station de Sened twice before CC \"A\" took over a sector opposite Faid Pass the last of the month.&nbsp; On 14 February the Germans threw three panzer divisions against the light CC \"A\" force.&nbsp; The Kraut armor chewed up two battalions of medium tanks, punched through the Sidi bou Zid to Kern's Crossroads.&nbsp; Two wired-in infantry battalions on Djebel Ksaira and Djebel Lessouda were surrounded by the Germans.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=2505,4871,1979,816"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>#5 The Division stemmed the Germans at Sbeitla until 17 February, when they withdrew through Kasserine Pass.&nbsp; The 68th Armored Field Artillery earned a Presidential Citation for their role in blocking and slowing the German spearhead.&nbsp; In Kasserine on 20 February the Germans attacked again, were mauled when they reached the valley floor and forced back.&nbsp; Three days later the pass was recaptured and the Division assembled at El Ma el Abiod.&nbsp; During the next two weeks the Germans withdrew to their starting point at Faid Pass.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=7015,8570,1537,942"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>#6 On the 26th of February, the Division went into Corps Reserve where it remained until 11th March, refitting and reorganizing.&nbsp; The German drive had been smashed, but at heavy cost.&nbsp; During the period the 81st Cavalry Reconnaissance Squadron maintained contact with the retreating enemy until he reestablished his original line, Faid-Rebaou.&nbsp; On 12th March, the Division once more rolled south on the offensive.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=6531,6860,2021,1588"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>#7 In March the Division attacked through Station de Sened toward Maknassy.&nbsp; On 22 March the tanks and infantry rolled through Maknassy toward Djebel Dribica and Djebel Naemia.&nbsp; The Germans reinforced their mountain positions and the fight turned into a deadlock.&nbsp; To the south the Germans were slowly forced back through El Guettar.&nbsp; On 7 April 1st Armored reconnaisance vehicles broke through to contact the northbound British Eight Army.&nbsp; To days later the Division was headed north for their part in the knock-out blow of the campaign.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=3997,8585,1873,872"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>#8 The \"Mousetrap\" was a saucer-like valley held on the south by the Allies and on the north by the Germans. It led to the Tunis-Bizerte plain.&nbsp; The 6th Infantry painstakingly cleaned out the hills on the right of the valley.&nbsp; The break came on 3 May, and the tanks and halftracks of the 1st Armored poured through toward Mateur.&nbsp; The disorganized Germans fell back, blowing bridges where they could be doing little to slow the attack.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=4605,2002,2584,1900"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>#9 The Germans momentarily halted the assault near Ferryville, but on 7 May the town was captured and the tankers found themselves 10 miles from the Tunis-Bizerte road.&nbsp; The tanks raced cross-country, cut the important highway by fire and trapped thousands of Germans between the 1st Armored and the British 1st Army, which had reached Tunis.&nbsp; The next morning the tanks swung north toward Bizerte and the German defenses cracked wide open. At 1055 hours on 8 May 1943 two German generals reported to the division CP to surrender their 40,000 Nazi troops to the commander of the 1st Armored. The African was was finished.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d206ec007cec424f61a3/canvas/1#xywh=6412,1096,2155,2683"
+            }
+          ]
+        }
       ]
     }
   ]

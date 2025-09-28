@@ -124,6 +124,98 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit crest, including unit motto \"Our Utmost Forever\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1#xywh=5568,9030,4629,2634"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Armored division patch without a unit number. \"During 9 1/2 operational months the Bn was assigned to 2 Armies, 6 Corps, 8 Divisions and 2 Cavalry Groups.&nbsp;</p>\n<p>Total Combat Mileage: 2275 miles</p>\n<p>Total Rounds Expended: 75,974 rd&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1#xywh=13044,5916,2019,2807"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit training in the United States</p>\n<p>The 112th FA Regt (horse drawn) of the New Jersey National Guard was inducted in NEW JERSEY 27 Jan. 41. Trained at FORT BRAGG NC 9 Feb. 41 - 9 March 42. Motorized DEC. 41 and lost horses JAN 42.</p>\n<p>Trained at FORT JACKSON SC. 27 April 43 to 4 FEB 44. Lost trucks and gained M-7 tanks 28 AUG 43</p>\n<p>Served as school troops at Field Artillery School, FORT SILL, OKLA 15 MARCH 42 to 24 APRIL 43</p>\n<p>Sailed from CAMP KILMER FEB 11, 1944</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1#xywh=930,9058,4575,2606"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit training and preparing for Europe</p>\n<p>Sailed up CLYDE RIVER 22 FEB. 44. Landed at GLASGOW 26 FEB. 44</p>\n<p>Trained at KINGTON, HEREFORDSHIRE 27 FEB 8 APR. 44</p>\n<p>Trained, as part of 5th FA Gp with XX Corps Arty at WYKHAM PARK near BANBURY, OXFORDSHIRE and on firing ranges in NORTHERN WALES 8 APRIL - 24 JULY 44. Left WYKHAM for staging area in SOUTH ENGLAND 25 JULY 44.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1#xywh=10212,9058,5109,2606"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Sailed from PORTLAND 26 JULY 1944</p>\n<p>Crossed channel from WEYMOUTH to UTAH BEACH on LSTs and LCTs Jul. 26-27. Unloaded JUL 28 44</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1#xywh=1537,1446,3760,2909"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Left bivouac area near BESNEVILLE for combat AUGUST 1 as VIII Corps Arty</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1#xywh=2667,4061,2136,1076"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Breakout from Normandy.</p>\n<p>Broke through narrow corridor at AVRANCHES with the 4th Arm'd Div. on AUG 2, 1944. Arr. vic. of RENNES on 2 AUG</p>\n<p>With a battery as part of the advance guard made a forced march from RENNES to CHATEAU-BRIANT 3-4 AUG.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d210ec007cec424f61d8/canvas/1#xywh=2776,5042,2473,2007"
+            }
+          ]
+        }
       ]
     }
   ]
