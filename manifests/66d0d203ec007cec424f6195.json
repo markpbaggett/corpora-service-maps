@@ -189,6 +189,78 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=3180,11673,664,802"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Red arrow located in \"Period 1\" on map, that shows the 3rd Army under Patton advancing across France after the D-day landings</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=791,1365,697,535"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Red arrow located in \"Period 2\" of the map, shows 3rd Army nearing the Rhine River and Mainz.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=5619,10724,605,577"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Red arrow located in \"Period 3\" on map, points to 3rd Army crossing the Rine River into Mainz</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=12474,2208,644,714"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depiction of some rubble with the name St. Lo on it.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=4653,1688,355,292"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Red arrow located in \"Period 1\" of map, showing the 1st army advancement under Montgomery after they landed on D-Day.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=2129,1876,712,602"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Red arrow in \"Period 2\" on the map showing the 1st army advancment in starting to cross into Germany.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=5373,10213,556,563"
             }
           ]
         }
