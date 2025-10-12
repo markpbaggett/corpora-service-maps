@@ -124,6 +124,134 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Truck resembling the GMC CCKW driving down a highway marked by a red dot, which we can assume to be the Red Ball Express. ADSEC trucks frequently traveled down the Express, and ADSEC created thousands of Red Ball signs. The truck's license plate is \"ASCZ QM\", meaning it is a truck for ADSEC (ASCZ being the abreviation for Advanced Section, Communications Zone) and the Quartermaster Company.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=1811,6443,1243,913"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>ADSEC's unit crest found on the map. This was not the <a href=\"https://upload.wikimedia.org/wikipedia/commons/8/8a/Shoulder_Sleeve_Insignia,_Advanced_Section_Communication_Zone.png\">typical ADSEC crest</a>. This alternative crest can only be found online in a <a href=\"https://www.ebay.com/itm/263651346513\">Christmas card</a> the unit sent in 1944, which indicates they were helping the First Army, Third Army, Eighth Army, and Ninth Air Force at the time.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=8129,7131,1555,663"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Image of London featuring the Union Jack, Big Ben, the Houses of Parliament, Trafalgar Square, and the Thames River.</p>\n<p>The date on the image--14th of March 1944--was not the date that the unit arrived in the United Kingdom but rather the day that ADSEC General Order No. 1 was written, which created ADSEC and placed Brigadier General Ewart G. Plank in control.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=2582,1224,1486,962"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depicts a building labeled \"CO-OP\" with a white ADSEC flag flying over it. It is dated \"MARCH - JUNE 44\".</p>\n<p>The US army paid for the construction of a Co-op bakery building to use as a cover for the warehouse where plans were made and materials were stockpiled for post-D Day France. This bakery was ADSEC's Headquarters from March 20, 1944 until June 21, 1944. ADSEC personnel lived in the homes of Bristol locals.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=828,1753,836,790"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Illustration of two soldiers seemingly in trenches under an ADSEC flag. One is holding a bottle up.</p>\n<p>ADSEC's Headquarters for the First Army moved to Catz on June 21, 1944 to supply the army for its ongoing battles after D-Day.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=1796,4889,765,763"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depiction of Paris featuring Notre Dame, the Eiffel Tower, a woman on a bike, a soldier with the head of a wolf chasing a woman, and two women from the Moulin Rouge.</p>\n<p>ADSEC never officially made it to Paris. Only a few in the unit were able to view it.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=4909,4921,1803,1225"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depiction of a landing craft arriving on the French beaches</p>\n<p>The earliest ADSEC troops arrived June 9, 1944</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=2511,4955,1101,488"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American train carrying two Transportation Corps cars (one holding a tank) over a bridge with a sign marking it as constructed by ASCZ [ADSEC] engineers</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=3187,5797,2006,778"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>A line of Germans holding their arms up in surrender while flying a pair of underwear as a white flag, stomping on a Nazi flag</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=8960,4999,2507,1311"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Military Policeman directing on a road</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=6198,3772,1527,1037"
+            }
+          ]
+        }
       ]
     }
   ]
