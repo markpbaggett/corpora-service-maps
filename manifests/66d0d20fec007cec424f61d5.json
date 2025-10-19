@@ -136,7 +136,7 @@
               "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
-                "value": "<p>Truck resembling the GMC CCKW driving down a highway marked by a red dot, which we can assume to be the Red Ball Express. ADSEC trucks frequently traveled down the Express, and ADSEC created thousands of Red Ball signs. The truck's license plate is \"ASCZ QM\", meaning it is a truck for ADSEC (ASCZ being the abreviation for Advanced Section, Communications Zone) and the Quartermaster Company.</p>",
+                "value": "<p>Truck resembling the GMC CCKW driving down a highway marked by a red dot, which we can assume to be the Red Ball Express. ADSEC trucks frequently traveled down the Express, and ADSEC created over 31,000 Red Ball signs. The truck's license plate is \"ASCZ QM\", meaning it is a truck for ADSEC (ASCZ being the abreviation for Advanced Section, Communications Zone) and the Quartermaster Company.</p>",
                 "format": "text/html",
                 "language": "en"
               },
@@ -249,6 +249,42 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=6198,3772,1527,1037"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depicts ADSEC signalmen on the line in Cherbourg, next to a drawing of a crane.</p>\n<p>ADSEC helped repair Cherbourg, as its port was useful for the Allied Forces. They set up signal poles, handled the mail (which then went to the US), built railroads from Cherbourg, and gathered oil deposited at the port.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=1032,4223,847,1057"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depictions of graves from the Battle of the Bulge. The most prominent one has a swastika on it and a helmet at its feet. There appear to be two Nazi graves and two Allied graves.</p>\n<p>Over 900 ADSEC soldiers were injured and over 100 died. After the chaos of the battle, during which ADSEC provided supplies and helped evacuate hospitals, ADSEC helped put up signals, restocked, and assisted the management of thousands of prisoners of war.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=8450,3387,1782,764"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drawing of the Reims Cathedral with a bottle of champagne and a wine glass in front of it</p>\n<p>ADSEC was stationed in Reims for a little over a month, living in barracks and a school. While there, they created plans to provide the Allies supplies from the Antwerp port and built several dozen bridges.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=7217,4580,1203,1263"
             }
           ]
         }
