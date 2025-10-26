@@ -261,6 +261,90 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=5373,10213,556,563"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Red arrow located in \"Period 3\" of the map, showing the 1st army advancement arcoss the Rhine after capturing Aachen.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=11779,1256,855,528"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of a plane flying across the English Channel</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=811,4009,1336,880"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of a castle, brandishing the location of London as the Headquarters of the Office of Chief of Transportation</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=2007,4830,1135,811"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Depiction of Portsmouth, England which served as a key naval base, central hub for the D-day landings, and General Eisnehower's headquarters.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=3318,4761,631,587"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This port was taken over by the United States Transportation Corps in 1943 and was designated the U.S 14th Major Point. This harbor also served as the main embarkation point for British and Canadian troops on D-day.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=4321,4904,651,458"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Prior to the D-day invasion, the port of Bournemouth suffered through heavy bombing raids by the German Luftwaffe. It then served its main role for D-day as a hub for military supplies, child evacuees from other cities, and troops for the invasion of Normady.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=5849,4810,563,602"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The monastery of Mont St. Michel was overrun by Germans in 1940 and was going to be used for Operation Sea Lion (invasion of Great Britain). However, on D-day, the monastery was liberated by a singular American soldier, Private Freeman Brougher and two reporters.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=5744,981,445,394"
             }
           ]
         }
