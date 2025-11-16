@@ -124,6 +124,134 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature shows a soldier with his arms out in excitement while a young female has her legs spread out on a ship. This represents how there was around 200 young women present on the SS Santa Rosa with over 2,000 young men. This led to soldiers pursuing and chasing after the young women on board the ship to engage in promoscius behavior.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=5574,6090,1290,694"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The 517th PRCT docked at Naples, Italy, on May 31st, 1944. While waiting for vehicles and weapons to arrive, the 517th PRCT set up camp at an extinct volcano named &ldquo;The Crater.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=9072,6308,835,559"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is an illustration of a skirmish occurring in Grosseto, Italy. The 517th RCT's first combat in the Second World War took place in Grosseto, Italy. This battle was part of the larger Liberation of Italy, where the objective was to push the German Army out of Italy.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=8371,5185,676,290"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is an illustration of the Colosseum in Rome and a large building attached to it. The 517th RCT was relocated to Rome so that they could begin preparing for Operation Dragoon with the rest of the First Airborne Task Force. While in Rome, the men had the opportunity to explore many of the tourist sites in Rome, such as the Vatican, the Colosseum, and the Roman Forum. This feature displays how American soldiers had the opportunity to be tourists in some of Europe's most famous cities during the course of the Second World War.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=8568,5526,812,473"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is an illistration of a C47 on the flight that the men of the 517th RCT took when they parachuted into Southern France for Operation Dragoon. In the eary hours of the 15th of August 1944, 180 C47's left Italy for Southern France with the men of the 517th RCT some of those aircraft. Operation Dragoon was the codename for the Allied invasion of Southern France, which occured simultaniously with Operation Overlord.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=7596,5219,717,411"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is an illustration of a paratrooper looking back towards Nice, France after landing in Southern France. The illustration of Nice, France features a depiction of a young lady lying out in the sun in the nude. The soldiers of the 517th RCT were scattered over a distance of 40 miles after jumping out of aircraft during the Allied invasion of Southern France. The feature shows the operational error in Operation Dragoon with the paratroopers landing off of their drop zone. The soldiers who fought in the Battle for Southern France were able to get passes to visit Nice, which would have been considered a luxury because it allowed the men to find some normalcy in the midst of war.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=6917,4498,817,731"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a depiction of a Nazi soldier running away while holding his posterier. A dog, which appear to be a dachshund is looking at the soldier and the text \"Vot Iss\" is above the dog. The text above the dog refers to a German saying \"what is\" in English. The illistration is comical in nature and makes fun of the German Army who were retreating to the Italian border with speed during the Battle of Italy.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=7836,4547,1197,502"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is an illustration of a wine bottle and grapes, which are located in Southern France on the route map. After landing in Southern France during Operation Dragoon, the subsequent combat between the Allied forces and the German Army occurred in the cities and vineyards of Southern France. Thus, the combat following the invasion is often referred to as the Champagne Campaign, which this illustration represents.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=6062,4134,838,591"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is an illustration of a soldier of the 460th Parachute Field Artillery Battalion turning around and closing his eyes while an artillery gun goes off. The field artillery used by the 460th was instrumental in the Champagne Campaign for the 517th Parachute Regimental Combat Team.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=6677,3626,827,507"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is an illustration of a tank from the German Army that had suffered severe damage. The tank appears to not be in working order, which shows the strength of the weapons that the Allies utilized in the Champagne Campaign.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=5834,3418,694,779"
+            }
+          ]
+        }
       ]
     }
   ]

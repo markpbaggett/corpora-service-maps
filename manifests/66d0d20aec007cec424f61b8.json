@@ -141,6 +141,18 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20aec007cec424f61b8/canvas/1#xywh=2153,6151,4511,549"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20aec007cec424f61b8/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p><span style=\"-webkit-text-size-adjust: auto;\">On December 13, the 78th began its attack on Kesternich. German artillery bombarded the 78th from three sides, causing the entire town to tremble. The 78th would advance through barbed wire, mine fields, and machine gun fire, only to be repelled. The battle lasted all day, but the German line held. On the 13th, US soldiers captured a few homes on the outskirts of town as night fell, but they were forced to retreat before nightfall.</span></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20aec007cec424f61b8/canvas/1#xywh=2255,5211,461,334"
             }
           ]
         }

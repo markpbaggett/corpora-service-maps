@@ -381,6 +381,18 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=4649,2481,317,440"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>text description of the roles of the Transportation Corps after D-day through August 25th. Text about the Office of Chief of Tranpsortation being moved to France, operational movements on the beaches, minor ports, major ports, all british ports, wildcat railroads, and the motor transport movement. Text about how much supplies and troops were moved in these areas during this period of time.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=646,5722,3365,3459"
             }
           ]
         }

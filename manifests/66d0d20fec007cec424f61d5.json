@@ -285,6 +285,18 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=7217,4580,1203,1263"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Ruins of Rheims Cathedral. Bottle of champagne and glass. White ADSEC flag.&nbsp; September 8, 1944.</p>\n<p>Unit was stationed in Rheims for about one month.&nbsp; While there, planned for the occupation and reconstruction of the port of Antwerp.&nbsp; Built several dozen bridges.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=7241,4591,1486,1307"
             }
           ]
         }
