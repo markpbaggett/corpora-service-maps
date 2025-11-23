@@ -124,6 +124,170 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Blue compass rose featuring a soldier with a rifle pointing toward north</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=1782,1956,996,1182"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Advance of the 4th Infantry Division from Utah Beach to the Siegfried Line.\" Image of an American soldier preparing to throw a grenade.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=3348,1418,2157,2868"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American soldier looking out from the parapet of a castle in France with binoculars</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=857,4714,838,998"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit's route from Utah Beach to St. Lo.&nbsp; Includes drawing of an apple and greenery.</p>\n<p>\"Landed at h-hour, d-day on 'Utah' Beach\"</p>\n<p>\"Battle of the Hedgerows\"</p>\n<p>\"Entered Cherbourg 25 June\"</p>\n<p>\"Fourth Division infantry spearheaded St. Lo breakthrough 25 July\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=772,3103,1539,1102"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Route of advance from the end of the Normandy campaign to the Seine. \"Normandy Campaign, 6 June to 25 July\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=2118,3479,1872,1818"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Liberation of Paris. \"First American Troops in Paris, 25 Aug 44\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=3826,4150,1185,549"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of American soldiers advancing.&nbsp; One soldier is wounded or dead, the other is a medic.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=4000,4043,2747,1836"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Battle of Northern France, 25 July to 15 Sept.\" Drawing of Rheims Cathedral</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=5241,3009,2166,1060"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drawing of a log bunker with the stovepipe</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=5584,1383,1249,736"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drawing of the heavily forested Ardennes Forest. \"Crossed Belgium Border, 6-Sept\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=6405,2161,1185,904"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The division's entry into Germany and advance north to the Hurtgen Forest. Drawing of dragon's teeth.</p>\n<p>\"Entered Germany 11 Sept\"</p>\n<p>\"Through Siegfried Line 14 Sept\"</p>\n<p>\"Second Breakthrough Siegfried Line\"</p>\n<p>\"Battle of the Hurtgen Forest 7 Nov to 11 Dec\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=7563,1535,977,1088"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drawing of an American soldier sitting on the ground drinking from a canteen</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=7572,3513,981,1099"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Map Legend, including unit insignia of the 4th Infantry Division</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d205ec007cec424f61a1/canvas/1#xywh=6927,4603,1856,1076"
+            }
+          ]
+        }
       ]
     }
   ]

@@ -124,6 +124,146 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Map legend, including crest of the 4th Infantry Division</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=566,4526,1999,1271"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drawing of an American soldier sitting on the ground, reading.&nbsp; Appears to be smiling.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=792,3393,956,1184"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Ardennes Campaign and fighting west of the Rhine.&nbsp; Drawing of dragon's teeth, with one notably broken.&nbsp;</p>\n<p>\"Ardennes Campaign 16 Dec to 25 Jan\"</p>\n<p>\"Halted German offensive in Luxembourg 16 Dec\"</p>\n<p>\"Crossed Sauer River 18 Jan\"</p>\n<p>\"Completed 199 Consecutive Days of Combat 9 Mar 45\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=848,1413,2774,2126"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Division's advance from the Moselle to the Rhine. Drawing of trees. \"Crossed Rhine River 29 March\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=2526,2836,1920,2040"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Division's advance to the Danube</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=5173,2367,1199,1921"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Division's advance into southern Bavaria. End of the war. \"Farthest penetration of Germany vic of Bad Tolz (6 miles from Austrian border) 8 May. Drawing of the Alps</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=6552,4078,1157,1461"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drawing of a village in southern Bavaria.&nbsp; While flags flying from the church and other buildings. Alps in the background</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=7446,3387,1188,1994"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Progress of the 4th Infantry Division from Luxembourg to Bavaria\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=4146,3380,1369,1249"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drawing of a dying German soldier</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=2923,4602,2267,1292"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Compass rose, with an American soldier at the center with his rifle pointing toward north</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=4345,1512,903,1089"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Drawing of an American soldier, without helmet, using a small spade to dig.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d211ec007cec424f61dd/canvas/1#xywh=6062,1277,1639,1366"
+            }
+          ]
+        }
       ]
     }
   ]

@@ -7,10 +7,22 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Newly Imported"
+      "1st Armored Division. Italy Sept '43 to May '45"
     ]
   },
   "metadata": [
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "1st Armored Division"
+        ]
+      }
+    },
     {
       "label": {
         "en": [
@@ -52,7 +64,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Canvas for Newly Imported"
+          "Canvas for 1st Armored Division. Italy Sept '43 to May '45"
         ]
       },
       "height": 12047,

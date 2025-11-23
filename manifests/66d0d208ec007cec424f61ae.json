@@ -249,6 +249,450 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=5834,3418,694,779"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia of the United States 6th Army Group. The 517th RCT was under the 6th Army Group during the invasion of Southern France, Operation Dragoon.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=2447,1653,1202,880"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia of the United States 7th Armored Division. The 517th RCT was attached to the 7th Armored Division from the 28th to the 29th of December of 1944, which was during the Battle of the Bulge.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=9560,1620,848,764"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the United States 5th Army Insignia. The 517th RCT fought with the United States 5th Army during the Battle of Italy.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=2364,3512,1198,1032"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is of the First Allied Airborne Army insignia. The 517th RCT was part of the First Allied Airborne Army when the 517th was attached to the 13th Airborne in February 1945.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=2579,5006,1020,1213"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia of the United States 106th Infantry Division. The 517th RCT was attached to the US 106th Infantry from January 11-17, 1945, during the Battle of the Bulge.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=10283,4703,747,938"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia for the United States 36th Infantry Division. The 517th RCT was attached to the 36th Infantry Division for the 517th&rsquo;s first battle in the Second World War. The first battle for the 517th RCT during the Second World War took place in Grosseto, Italy.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=10449,2637,712,608"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia for the United States Army 30th Infantry Division. The 517th RCT was attached to the 30th Infantry Division from the 17th to the 27th of December in 1944, during the Battle of the Bulge.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=10498,3538,542,769"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia for the United States Army 75th Infantry Division. The 517th RCT was attached to the 75th Infantry Division during a portion of the Battle of the Bulge.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=10310,5658,789,726"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia for the United States Army 82nd Airborne Division. The 517th RCT was attached to the 82nd Airborne from January 1st to 11th, 1945, during the Battle of the Bulge. The 517th RCT was reattached to the 82nd Airborne from February 9th to 10th, 1945, during the Battle of Hurtgen Forest in Germany.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=10415,6883,585,744"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia of the United States Army 78th Infantry Division. The 517th RCT was attached to the 78th Infantry from February 4th to 7th, 1945, during the Battle of Hurtgen Forest.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=10180,8000,873,430"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia of the United States 13th Airborne Division. The 517th RCT was attached to the 13th Airborne after the Battle of Hurtgen Forest, from February 11th, 1945, to when the 517th RCT arrived in New York at the end of the war.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=9506,7526,596,856"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia of the United States 4th Corps. The 517th RCT went into combat in Italy under the 4th Corps on the 17th of June 1944.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=2575,6993,684,632"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia for the United States 5th Corps. The 517th RCT fought under the 5th Corps during the Battle of the Bulge.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=2540,7833,846,621"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia for the United States 6th Corps. The 517th RCT was under the 6th Corps during the Allied invasion of Southern France, Operation Dragoon.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=3379,7772,830,704"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia of the United States Army 18th Airborne Corps. The 517th RCT was under the United States 18th Airborne Corps begininng with the start of the Battle of the Bulge along with every airborne in Europe.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=4293,7650,660,785"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is the insignia of the United States 1st Army. The 517th RCT was under the 1st Army when the team was attached to the 82nd Airborne during the Battle of Hurtgen Forest.&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=2565,2476,753,789"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the 517th RCT in Walk, Belgium. This photograph was taken during the Battle of the Bulge.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=242,286,1869,1196"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the town center of Joigny, France. The 517th RCT were sent to Joigny after the Battle of Hurtgen Forest to rest and wait for futher orders.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=2463,271,1896,1313"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of a camp where there are aircraft in the sky.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=4739,228,1942,1365"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature was a photograph taken in Walk, Belgium, during the Battle of the Bulge. In the photograph, three soldiers are standing in winter gear surrounded by snow.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=7069,233,1872,1374"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of a C47 aircraft. The photograph was taken at an airfield in Achiet, France.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=9329,205,1827,1303"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph from the 517th RCT returning from Germany. In the photograph, a group of soldiers are standing in front of a train car. The Star of David is visible on one of the train cars, so they were likely previously used to transport Jews to concentration camps.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=11550,273,1876,1139"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of C46 aircraft at an airfield in Achiet, France. In the photograph, multiple C46 aircraft are lined up with soldiers standing around with their gear.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=11628,1846,1805,1151"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the Eiffel Tower in Paris, France.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=12232,3392,1198,1796"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the village of Luc&eacute;ram in France. The photo would have been taken during the Champagne Campaign.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=11603,5574,1861,1277"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the U.S.S. Santa Rosa. The Santa Rosa was the ship that the 517th RCT was transported on from the United States to Naples, Italy, at the beginning of the war.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=11499,7176,1962,1266"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of Bergstein, Germany, which was once one of the towns where the Battle of H&uuml;rtgen <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\">Forest was fought. The photograph shows the destruction that Bergstein faced during the Second World War.</span></p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=11659,8822,1747,1229"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/37",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of a tank in a field.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=9738,8773,1650,1271"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/38",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of Major David H. Armstrong. Major Armstrong was an executive officer of the 2nd Battalion of the 517th RCT.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=8082,8645,1421,1406"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/39",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of Colonel Graves and Lt. Colonel Zais of the 517th RCT. Colonel Graves is on the left side of the photograph, and he was the commanding Colonel of the 517th RCT. Lt. Colonel Zais is on the right side of the photograph, and he was the commander of the 3rd Battalion and eventually became the Executive Officer of the 517th RCT.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=5747,8648,2068,1415"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/40",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of Lt. Colonel Richard J. Seitz. Lt. Colonel Seitz was the Commander of the 2nd Battalion of the 517th RCT.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=4121,8701,1484,1376"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/41",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the Victor Emmanuel II National Monument in Rome, Italy. The 517th RCT was able to tour Rome when they were stationed in the Rome area for the preparation of Operation Dragoon.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=2179,8769,1584,1305"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/42",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the beach in Nice, France. The men of the 517th RCT were able to visit Nice during the Champagne Campaign, and later stayed in Nice for an extended period after the Champagne Campaign ended.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=201,8879,1775,1197"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/43",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of soldiers in formation at the barracks in Joigny, France.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=228,7304,1835,1199"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/44",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the 517th RCT liberating a city in Europe. One of the locals is seen welcoming the soldiers in the photograph.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=218,5639,1746,1226"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/45",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of a soldier of the 517th RCT paratrooping.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=239,3418,1173,1820"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1/annotation/46",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>This feature is a photograph of the town of La Roquette in France. The photograph was likely taken after the 517th RCT left Germany and was sent to Northern France to wait for further orders.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d208ec007cec424f61ae/canvas/1#xywh=224,1902,1864,1123"
             }
           ]
         }

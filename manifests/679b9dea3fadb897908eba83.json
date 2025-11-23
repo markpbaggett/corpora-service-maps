@@ -7,10 +7,22 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Newly Imported"
+      "Route of the 89th. France-Luxembourg-Germany"
     ]
   },
   "metadata": [
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "89th Infantry Division"
+        ]
+      }
+    },
     {
       "label": {
         "en": [
@@ -52,7 +64,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Canvas for Newly Imported"
+          "Canvas for Route of the 89th. France-Luxembourg-Germany"
         ]
       },
       "height": 7838,

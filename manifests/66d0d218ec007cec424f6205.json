@@ -124,6 +124,98 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Crest of the <a href=\"https://en.wikipedia.org/wiki/2nd_Armored_Division_(France)#:~:text=The division embarked in April,Western Allied invasion of Germany\">2nd Armored Division</a> (France)</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1#xywh=674,629,744,774"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Crest of the 79th Infantry Division. \"Maj. Gen. Ira T. Wyche, Commanding\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1#xywh=9612,688,502,610"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Crest of the XV Corps. \"Maj. Gen. Wade H. Haislip, Commanding\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1#xywh=8565,4222,764,795"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Corps advancing across the Seine. \"Right flank of Corps and Army actively patrolled and screened by CCD of 2nd French Armored Division Sept 11 to Sept 16.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1#xywh=1006,3330,4305,2392"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Advance across France in mid-September.&nbsp; \"2nd French Armored Division, on 14 Sept, established contact with units of the Seventh Army at Baignaux and Chatillon. Liaison having been established 11 Sept at Sombernon. Par's 9 and 24, reports after action against enemy, 13 Nov. 1944\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1#xywh=4311,1938,3461,2296"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Corps advance to the Moselle, September 1944.&nbsp;</p>\n<p>\"Bridgehead over Moselle R. established on Sept. 12 and maintained by one battalion of 314 Inf. Reg. until Sept. 15\"</p>\n<p>\"Operations of Corps after 15 Sept. will be shown on a separate map, Campaign of Germany as prescribed in GO 80, WD 5 October, 1944.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1#xywh=8028,1357,2116,2787"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"On 29-30 August, Corps Headquarters and Corps troops moved from operational area at Seine River to Rozay-en-Brie. After attachment of 79th Infantry Division and French 2nd Armored Division, Corps concentrated in vicinity of Troyes as shown.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d218ec007cec424f6205/canvas/1#xywh=704,1490,1517,2315"
+            }
+          ]
+        }
       ]
     }
   ]

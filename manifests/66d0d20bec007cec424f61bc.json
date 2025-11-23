@@ -124,6 +124,326 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Symbol of the Corps of Engineers</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=371,831,990,687"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon scene set in a bar in the UK.&nbsp; Officers and at least one woman stand in a bar area, drinking and talking.&nbsp; Possibly a reference to closing time, or possibly a reference to the news that the invasion of Europe is set to begin</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=1822,2056,1008,714"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of American jeep on a street in the UK, seeking directions from a British police officer.&nbsp; Children running and other pedestrians</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=2732,1557,1262,856"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Camp in southern England, preparing for the invasion of France.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=1662,2771,2100,863"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Allied planes crossing the English Channel for the invasion of Europe</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=3928,1173,3104,1311"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Crossing the Channel.&nbsp; Warships and landing craft. \"Some members of the Group landed in Normandy as early as 'D+1' and most of them had arrived by 'D+6.' Group became operational on 'D+5'</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=1252,3279,2142,1717"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Three American soldiers clearing mines.&nbsp; One holds a metal detector.&nbsp; Sign reading \"Mines\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=1812,4872,1368,594"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Armored bulldozer cutting through hedgerows. \"Before St. Lo our dozers cut through two miles of hedgerows, fields, and orchards and through the infantry front lines to make a road for our bridging of the Vire\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=1151,5256,1336,1014"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Construction of a bridge over the Vire, with American vehicles crossing.&nbsp; \"In Normandy we bridged the Vire River eleven times and throughout the campaign bridged the Seine River below Paris 3 times, Meuse River at Maastricht 3 times, Wurm River north of Aachen 9 times, Roer River at Julich 9 times, Weser River deep in Germany 4 times.&nbsp; Plus 61 other bridges and 40 culverts for a total length of 11,459 feet.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=2108,5868,1811,1377"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>French civilians surrounding a truck full of supplies.&nbsp; Children running behind the truck.&nbsp; One civilian holds a wine bottle.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=3066,4662,1152,449"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Eiffel Tower</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=4082,4683,349,1052"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>An American soldier with his arm around a French woman walk into a hotel. Near Paris</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=4464,5392,337,582"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Humorous cartoon of American soldiers chasing German soldiers.&nbsp; One German soldier is fleeing in a rowboat. \"When the Group moved up to the Albert Canal above Maastricht, it was found necessary to deploy as Infantry to chase Jerry out and across the stream.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=4582,4020,1369,1427"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The fall of Aachen.&nbsp; Ruined city in the background.&nbsp; American soldiers advancing.&nbsp; German bunker with a white surrender flag.&nbsp; American soldier escorting prisoners to the rear.&nbsp; \"Acting as infantry again the Group pushed at the Western approached to Aachen while the First and Thirtieth Divisions moved into the city from the other sides.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=5945,3985,1528,1382"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Image of a bridge. \"Across the Meuse at Maastricht we constructed a fixed Bailey more than 600 feet long.&nbsp; One span was 190 ft triple-triple, believed to be the longest Fixed Bailey in the ETO\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=4823,2822,1438,1140"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American soldier walking with his arm around two Dutch women</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=6217,2921,586,952"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American soldier sweeping a floor</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=6457,3029,654,897"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/17",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Arrow pointing to the route of advance in France</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=4380,4006,742,517"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/18",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Arrow pointing to route of advance into Germany</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=7046,3066,707,354"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/19",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"In the early morning hours of 23 February '45 the 29th Division pushed across the Roer River on the bridges constructed by the 1104 Group to start the Ninth Army's offensive into the heart of Germany\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=7469,3435,1260,1033"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/20",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American soldiers unspooling barbed wire. \"In the Hurtgen Forest during the Ardennes Breakthrough, the Group erected a total of 67,700 yards of barbed wire obstacles, constructed many other Barriers and Road Blocks, and dug many Gun positions.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=7412,4672,1533,1141"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/21",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American trucks and a jeep drive down a road deep in Germany.&nbsp; Soldiers and maybe civilians standing along the road watching.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=7562,1645,2178,1451"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Berlin, represented as a swastika, burning.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=10023,1668,799,1310"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American soldiers receiving decorations at a ceremony.&nbsp; Standing in formation.&nbsp; Truck and trees in the background. \"From Normandy on thru Germany members of the group have received numerous medals and decorations.&nbsp; Distinguished Service Cross (1), Silver Star Medal (17), Oak Leaf Cluster (1), Soldier's Medal (2), Bronze Star Medal (189), Oak Leaf Cluster (10), Certificate of Merit (7), Purple Heart (327), Merritorious [sp] Service Unit Plaque (1), Croix de Guerre (6)\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=9330,3639,1477,1405"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>1104 Engineer Combat Group from 'D' Day to the Elbe</p>\n<p>Supporting</p>\n<p>2 Armored Division</p>\n<p>3 Armored Division</p>\n<p>5 Armored Division</p>\n<p>8 Armored Division</p>\n<p>8 Infantry Division</p>\n<p>28 Infantry Division</p>\n<p>29 Infantry Division</p>\n<p>30 Infantry Division</p>\n<p>35 Infantry Division</p>\n<p>78 Infantry Division</p>\n<p>83 Infantry Division</p>\n<p>&nbsp;</p>\n<p>Members</p>\n<p>246 Engineer Combat Battalion</p>\n<p>247 Engineer Combat Battalion</p>\n<p>503 Engineer Light Pontoon Company</p>\n<p>611 Engineer Light Equipment Company</p>\n<p>978 Engineer Maintenance Company</p>\n<p>62 Engineer Topographic Company</p>\n<p>&nbsp;</p>\n<p>Visitors</p>\n<p>82 Engr. Combat Battalion</p>\n<p>172 Engr. Combat Battalion</p>\n<p>208 Engr. Combat Battalion</p>\n<p>254 Engr. Combat Battalion</p>\n<p>295 Engr. Combat Battalion</p>\n<p>86 Engr H. Pon. Battalion</p>\n<p>552 Engr. H. Pon. Battalion</p>\n<p>554 Engr. H. Pon. Battalion</p>\n<p>17 Armored Engr. Bn. E Co.</p>\n<p>989 Engr. Tw. Bridge Comp'y</p>\n<p>992 Engr. Tw. Bridge Comp'y</p>\n<p>993 Engr. Tw. Bridge Comp'y</p>\n<p>999 Engr. Tw. Bridge Comp'y</p>\n<p>1000 Engr. Tw. Bridge Comp'y</p>\n<p>582 Engr. Dump Truck Maintenance Comp'y</p>\n<p>467 Engr. Maintenance Comp'y</p>\n<p>969 Engr. Maintenance Comp'y</p>\n<p>83 Chem. Smoke Generating Co.</p>\n<p>430 AAA Battalion B Bty</p>\n<p>467 AAA Battalion A&amp;B Bty's</p>\n<p>554 AAA Battalion B&amp;D Bty's</p>\n<p>821 Tank Destroyer Bn. B Co.</p>\n<p>&nbsp;</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=4944,5817,5395,2113"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Map border, illustrated with barbed wire in lines and spools</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20bec007cec424f61bc/canvas/1#xywh=4512,7872,3096,496"
+            }
+          ]
+        }
       ]
     }
   ]

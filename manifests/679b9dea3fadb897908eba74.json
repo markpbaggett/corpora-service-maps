@@ -7,10 +7,22 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Newly Imported"
+      "Major Operations of the 486th Antiaircraft Artillery (AW) Battalion (SP) 23 June 1944 - 9 May 1945"
     ]
   },
   "metadata": [
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "486th Antiaircraft Artillery Battalion"
+        ]
+      }
+    },
     {
       "label": {
         "en": [
@@ -52,7 +64,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Canvas for Newly Imported"
+          "Canvas for Major Operations of the 486th Antiaircraft Artillery (AW) Battalion (SP) 23 June 1944 - 9 May 1945"
         ]
       },
       "height": 5160,

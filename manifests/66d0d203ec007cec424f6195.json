@@ -188,7 +188,7 @@
                 "format": "text/html",
                 "language": "en"
               },
-              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=3180,11673,664,802"
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=1118,9501,2006,1625"
             },
             {
               "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/5",
@@ -393,6 +393,54 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=646,5722,3365,3459"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/22",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Details of the rush across France and the first supply route out of Paris. Details cargo numbers of unloaded tonnage from the British ports, Cherbourg, notes the start of the Red Ball Highway</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=3899,5731,3129,3358"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/23",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of supply boxes with the French towns of Hirson, Reims, and Sommesous labeled on them.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=4101,10791,1448,1781"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/24",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>cartoons of the French towns of Beauvais, Rouen, and Havre</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=2172,11383,1234,685"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/25",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoons of the French towns of Le Mans, Surdon, Dreux, and Chartres</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=2369,12255,890,1410"
             }
           ]
         }

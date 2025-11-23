@@ -19,7 +19,7 @@
       },
       "value": {
         "en": [
-          "Route map from Luxembourg to Chemnitz"
+          "Route map from Luxembourg to Chemnitz. Map was folded.  Ink has imprinted on the folded side"
         ]
       }
     },
@@ -121,6 +121,26 @@
                 "format": "image/jpeg"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Compass rose, with unit crest of the 355th Infantry Regiment at the base</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=4465,4234,759,1881"
             }
           ]
         }

@@ -124,6 +124,194 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation_page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Scroll with unit history. \"Here is a picture map of the 13th Armored Division's movements in France and Germany, from the day they marched down the gangplank at Le Havre until the bright May day when the German High Command surrendered unconditionally\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=3362,1829,2448,1676"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The unit's service in the UK.&nbsp; London includes St. Paul's Cathedral.&nbsp; Also smaller towns of Brighton and Dover</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=514,507,2226,1554"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of ships crossing the channel to arrive at Le Havre</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=484,2698,1578,1078"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Route of advance through Normandy.&nbsp; Includes a church, chateau, and the ruins of Rouen</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=1776,2906,1115,995"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American tank advancing through northern France</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=2828,3434,2059,707"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Paris and Chartres, including Arc de Triomphe and Eiffel Tower</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=2026,3969,1762,1038"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>American tank moving quickly through eastern France</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=4115,4163,1426,948"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Crossing the Siegfried Line.&nbsp; American artillery in action, tanks advancing.&nbsp; German bunkers and dragon's teeth</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=5716,3320,2094,1716"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Image of the Rhine crossing near St. Goar.&nbsp; Castles</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=6883,2684,617,672"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Advancing up the Rhine into the Ruhr Pocket.&nbsp; Factories near Cologne and Solingen.&nbsp; Tanks in combat near Oberhausen</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=5799,1107,2132,1400"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Black Cat division moving east and south into Germany.&nbsp; MP directing traffic near Homberg.&nbsp; Tank in combat near Aschaffenburg.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=7270,1508,1921,1856"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Unit route through Franconia.&nbsp; Half-track moving toward Bamberg</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=9051,2858,1409,1375"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Advance into Bavaria.&nbsp; Bridge over the Isar at Regensburg.&nbsp; Tank in combat near Plattling</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=8953,4090,2512,931"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>End of the war.&nbsp; Munich and a village in Austria.&nbsp; Baby Hitler in a cradle with a swastika.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=9318,4947,2239,873"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"13th Armored (Black Cat) Division. A History in Pictures, Jan-May 1945\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20dec007cec424f61ca/canvas/1#xywh=9008,890,2134,1875"
+            }
+          ]
+        }
       ]
     }
   ]

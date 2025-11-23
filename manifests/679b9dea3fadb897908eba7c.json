@@ -7,10 +7,22 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Newly Imported"
+      "VE Day Greetings from Second Battalion, 415th Infantry (Nothing in Hell Did Stop The Timberwolves)"
     ]
   },
   "metadata": [
+    {
+      "label": {
+        "en": [
+          "unit"
+        ]
+      },
+      "value": {
+        "en": [
+          "2nd Battalion, 415th Infantry, 104th Infantry Division "
+        ]
+      }
+    },
     {
       "label": {
         "en": [
@@ -52,7 +64,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Canvas for Newly Imported"
+          "Canvas for VE Day Greetings from Second Battalion, 415th Infantry (Nothing in Hell Did Stop The Timberwolves)"
         ]
       },
       "height": 6541,
