@@ -441,6 +441,138 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=2369,12255,890,1410"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/26",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>These towns were and ports were insturmental in the continuation of the Allied Advancement from the beaches of Normandy.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=832,11788,1249,2041"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/27",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Labeled the \"Hammering through the Rhine through Rain, Snow, and Ice\". Written description of the events from October 16th 1944 - March 24,1945. Highlights include the ABC Route being started, the first supply truck crossing through the Rhine, and 1st Army crossing the Rhine.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=7294,5690,3020,3322"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/28",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>The towns of Metz and Aachen are depicted by wooden poles while the towns of Luxembourg, Metz-Nancy Area, and Liege are depicted by cartoons of supply boxes in Northern France near the German border.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=10689,1718,1618,2931"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/29",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>More cartoon depictions of these towns. Verdun, charleoi, Reims, and Ghent are pictured as train stops while Hirson and Reims are depicted again with cartoons of wooden posts</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=9044,1689,1295,2656"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/30",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Train Station cartoon for the town of Antwerp and a route marker showing the beginning of the ABC supply route.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=9967,1105,895,1035"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/31",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Arrow of Marseille and depiction of a cartoon for the town of Epinal</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=9896,5065,2421,542"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/32",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>German towns of Mainz and Mannheim depicted on the map by a cartoon of a home and a wodden post</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=6325,10298,556,1302"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/33",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Insignia used on Army Aircraft starting in 1943. It replaced the Army Air Force Insignia which was originally outlined in red.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=3770,12880,1995,1143"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/34",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Flags representing the British ports of Portsmouth, Bournemouth, and Southampton, all which played pivital roles in sending supplies across the English Channel and into France</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=743,10747,1094,785"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/35",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Location of Southampton</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=7919,9655,609,572"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1/annotation/36",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>French town locations from the map</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d203ec007cec424f6195/canvas/1#xywh=7933,10381,1506,728"
             }
           ]
         }

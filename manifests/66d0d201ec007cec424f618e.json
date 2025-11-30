@@ -141,6 +141,102 @@
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=4465,4234,759,1881"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Advance from Luxembourg to the Moselle \"Moselle Crossing, 18 Mar.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=725,2923,1770,1981"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Route of the unit from the Moselle to the Rhine. \"Rhine Crossing 27 Mar.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=2427,3152,960,1447"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Task Force Johnson, 26-30 Mar.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=3181,3120,1666,1205"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of winged American tank with an American soldier holding on. The suggestion is that the tank is moving very quickly.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=4072,2320,1345,1184"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Liberation of Ohrdruf. \"Ohrdruf Prison Camp, 6 Apr.\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=5390,2660,1146,838"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>Cartoon of an American soldier firing a rifle and plinking a fleeing German soldier on the helmet.&nbsp; Bullet ricochets</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=5916,2197,1824,731"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>\"Capture of Zwickau, 18 Apr.\" Also cartoon of a bullet emerging from a rifle barrel and a soldier hastily diving into a foxhole.</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=7357,2877,945,998"
+            },
+            {
+              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": {
+                "type": "TextualBody",
+                "value": "<p>End of the war. Cartoon of German soldier diving into foxhole with a white flag. \"Cease Firing! 9 May\"</p>",
+                "format": "text/html",
+                "language": "en"
+              },
+              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d201ec007cec424f618e/canvas/1#xywh=8261,2433,1235,1055"
             }
           ]
         }

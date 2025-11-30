@@ -136,7 +136,7 @@
               "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
-                "value": "<p>Truck resembling the GMC CCKW driving down a highway marked by a red dot, which we can assume to be the Red Ball Express. ADSEC trucks frequently traveled down the Express, and ADSEC created over 31,000 Red Ball signs. The truck's license plate is \"ASCZ QM\", meaning it is a truck for ADSEC (ASCZ being the abreviation for Advanced Section, Communications Zone) and the Quartermaster Company.</p>",
+                "value": "<p>Truck resembling the GMC CCKW driving by a sign marking a highway and featuring a red dot, which we can assume to be the Red Ball Express.</p>\n<p>ADSEC trucks frequently traveled down the Express, and ADSEC created over 31,000 Red Ball signs. The truck's license plate is \"ASCZ QM\", meaning it is a truck for ADSEC (ASCZ being the abreviation for Advanced Section, Communications Zone) and the Quartermaster Company.</p>",
                 "format": "text/html",
                 "language": "en"
               },
@@ -160,7 +160,7 @@
               "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
-                "value": "<p>Image of London featuring the Union Jack, Big Ben, the Houses of Parliament, Trafalgar Square, and the Thames River.</p>\n<p>The date on the image--14th of March 1944--was not the date that the unit arrived in the United Kingdom but rather the day that ADSEC General Order No. 1 was written, which created ADSEC and placed Brigadier General Ewart G. Plank in control.</p>",
+                "value": "<p>Image of London featuring the Union Jack, Big Ben, the Houses of Parliament, Trafalgar Square, and the Thames River. White ADSEC flag. March 14, 1944.</p>\n<p>The date on the image was not the date that the unit arrived in the United Kingdom but rather the day that ADSEC General Order No. 1 was written, which created ADSEC and placed Brigadier General Ewart G. Plank in control.</p>",
                 "format": "text/html",
                 "language": "en"
               },
@@ -172,7 +172,7 @@
               "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
-                "value": "<p>Depicts a building labeled \"CO-OP\" with a white ADSEC flag flying over it. It is dated \"MARCH - JUNE 44\".</p>\n<p>The US army paid for the construction of a Co-op bakery building to use as a cover for the warehouse where plans were made and materials were stockpiled for post-D Day France. This bakery was ADSEC's Headquarters from March 20, 1944 until June 21, 1944. ADSEC personnel lived in the homes of Bristol locals.</p>",
+                "value": "<p>Depicts a building labeled \"CO-OP.\" White ADSEC flag. March - June 1944.</p>\n<p>The US army paid for the construction of a Co-op bakery building to use as a cover for the warehouse where plans were made and materials were stockpiled for post-D Day France. This bakery was ADSEC's Headquarters from March 20, 1944 until June 21, 1944. ADSEC personnel lived in the homes of Bristol locals.</p>",
                 "format": "text/html",
                 "language": "en"
               },
@@ -184,7 +184,7 @@
               "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
-                "value": "<p>Illustration of two soldiers seemingly in trenches under an ADSEC flag. One is holding a bottle up.</p>\n<p>ADSEC's Headquarters for the First Army moved to Catz on June 21, 1944 to supply the army for its ongoing battles after D-Day.</p>",
+                "value": "<p>Illustration of two soldiers seemingly in trenches. One is holding a bottle up. White ADSEC flag. June 21, 1944.</p>\n<p>ADSEC's Headquarters for the First Army moved to Catz on June 21, 1944 to supply the army for its ongoing battles after D-Day.</p>",
                 "format": "text/html",
                 "language": "en"
               },
@@ -280,23 +280,11 @@
               "motivation": "tagging",
               "body": {
                 "type": "TextualBody",
-                "value": "<p>Drawing of the Reims Cathedral with a bottle of champagne and a wine glass in front of it</p>\n<p>ADSEC was stationed in Reims for a little over a month, living in barracks and a school. While there, they created plans to provide the Allies supplies from the Antwerp port and built several dozen bridges.</p>",
+                "value": "<p>Ruins of Reims Cathedral. Bottle of champagne and glass. White ADSEC flag. September 8, 1944</p>\n<p>ADSEC was stationed in Reims for a little over a month, living in barracks and a school. While there, they created plans to provide the Allies supplies from the Antwerp port and built several dozen bridges.</p>",
                 "format": "text/html",
                 "language": "en"
               },
               "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=7217,4580,1203,1263"
-            },
-            {
-              "id": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1/annotation/13",
-              "type": "Annotation",
-              "motivation": "tagging",
-              "body": {
-                "type": "TextualBody",
-                "value": "<p>Ruins of Rheims Cathedral. Bottle of champagne and glass. White ADSEC flag.&nbsp; September 8, 1944.</p>\n<p>Unit was stationed in Rheims for about one month.&nbsp; While there, planned for the occupation and reconstruction of the port of Antwerp.&nbsp; Built several dozen bridges.</p>",
-                "format": "text/html",
-                "language": "en"
-              },
-              "target": "https://markpbaggett.github.io/corpora-service-maps/66d0d20fec007cec424f61d5/canvas/1#xywh=7241,4591,1486,1307"
             }
           ]
         }
